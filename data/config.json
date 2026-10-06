@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "schema_version": 1,
+    "data_version": "2026-09-30",
+    "source_checked_on": "2026-09-30",
+    "osm_snapshot_at": "2026-09-29T00:48:31Z",
+    "entire_province_verified": false,
+    "geometry_exact_verified": false
+  },
+  "colors": {
+    "4": "#287eb2",
+    "5": "#329f92",
+    "6": "#d4aa24",
+    "8": "#e47f2a",
+    "12": "#cb4455",
+    "unknown": "#a9b2bb"
+  }
+}

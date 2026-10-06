@@ -1,0 +1,63 @@
+:root { --ink:#213d48; --muted:#657981; --accent:#136f70; --line:#e4ebec; font-family:system-ui,"Microsoft YaHei",sans-serif; color:var(--ink); }
+* { box-sizing:border-box; }
+html,body,#map { height:100%; margin:0; }
+body { background:#e9f0ef; }
+#map { background:#f4f2e8; }
+#map.terrain-base { background:#dae4cc; }
+.city-label { color:#526b6d; font-size:12px; font-weight:700; text-align:center; text-shadow:0 1px #fff,1px 0 #fff,-1px 0 #fff,0 -1px #fff; white-space:nowrap; }
+#panel { position:absolute; z-index:1000; left:24px; top:24px; width:326px; max-height:calc(100dvh - 48px); overflow:auto; background:#fffffff5; border:1px solid #fff; border-radius:16px; box-shadow:0 10px 35px #233e4826; }
+header { padding:23px 20px 17px; position:relative; border-bottom:1px solid var(--line); }
+.eyebrow { font-size:10px; letter-spacing:1.6px; font-weight:700; color:var(--accent); }
+h1 { margin:12px 0 7px; font-size:27px; letter-spacing:1px; }
+h1 span { font-size:19px; font-weight:500; margin-left:8px; }
+header p { font-size:12px; color:var(--muted); margin:0; }
+#fold { position:absolute; right:14px; top:16px; font-size:11px; padding:5px 8px; }
+form,section,details { padding:17px 20px; border-bottom:1px solid var(--line); }
+label,h2 { display:block; font-size:12px; font-weight:650; margin:0 0 8px; }
+label label { margin:0; }
+.row { display:flex; gap:9px; align-items:center; }
+.row label { flex:1; min-width:0; margin:13px 0 10px; }
+input,select,button { font:inherit; border:1px solid #cedbdf; border-radius:7px; color:var(--ink); background:#fff; }
+input[type=search],select { padding:9px; width:100%; font-size:12px; }
+select { margin-top:6px; }
+input[type=search] { min-width:0; }
+button { padding:9px 10px; cursor:pointer; font-size:12px; white-space:nowrap; }
+button:hover { background:#edf6f4; border-color:var(--accent); }
+button:disabled { opacity:.5; cursor:wait; }
+:focus-visible { outline:3px solid #389e9e; outline-offset:2px; }
+.actions { margin-top:12px; justify-content:space-between; }
+#count { font-size:11px; color:var(--muted); }
+.legend { display:flex; justify-content:space-between; margin:12px 0; font-size:13px; }
+.legend i { display:inline-block; width:20px; height:4px; border-radius:4px; vertical-align:middle; background:var(--color); margin-right:6px; }
+.hint,details p { font-size:11px; line-height:1.8; color:var(--muted); margin:8px 0 0; }
+.opacity { display:flex; align-items:center; gap:9px; margin:12px 0 0; font-weight:400; }
+.opacity input { flex:1; min-width:0; accent-color:var(--accent); }
+.opacity output { font-size:11px; width:32px; }
+summary { cursor:pointer; font-size:12px; font-weight:650; }
+details .row { margin-top:12px; justify-content:space-between; }
+a { color:var(--accent); }
+details a { font-size:11px; }
+footer { padding:12px 20px; color:var(--muted); font-size:10px; }
+#panel.collapsed #panel-body { display:none; }
+#status,.fatal { position:absolute; z-index:1100; bottom:36px; left:50%; transform:translateX(-50%); max-width:calc(100% - 32px); border-radius:9px; padding:12px 18px; background:#213d48; color:white; font-size:12px; line-height:1.6; box-shadow:0 4px 20px #0002; }
+#status[hidden] { display:none; }
+.popup h3 { margin:0 0 10px; line-height:1.5; font-size:15px; }
+.popup .value { font-size:20px; font-weight:700; margin-bottom:8px; }
+.popup .badge { display:inline-block; padding:3px 7px; border-radius:4px; background:#eef4f3; font-size:11px; }
+.popup p { font-size:12px; line-height:1.7; }
+.popup .warn { color:#8a652c; background:#fff6e7; padding:8px; border-radius:6px; }
+.popup dl { display:grid; grid-template-columns:72px 1fr; gap:6px; font-size:12px; }
+.popup dt { color:var(--muted); }
+.popup dd { margin:0; overflow-wrap:anywhere; }
+.popup blockquote { border-left:2px solid #8eaaa6; padding-left:10px; margin:12px 0; color:#536c74; font-size:12px; line-height:1.7; }
+.popup .expansion { border-top:1px solid var(--line); margin-top:18px; padding-top:15px; }
+.leaflet-popup-content { max-height:55dvh; overflow:auto; }
+.leaflet-control-attribution { max-width:calc(100vw - 20px); font-size:10px; }
+@media (max-width:700px) {
+  #panel { left:10px; top:10px; width:min(326px,calc(100vw - 65px)); max-height:calc(100dvh - 75px); }
+  header { padding:15px 16px; }
+  h1 { font-size:23px; margin:9px 0 5px; }
+  h1 span { font-size:16px; }
+  form,section,details { padding:13px 16px; }
+  .eyebrow { font-size:9px; }
+}

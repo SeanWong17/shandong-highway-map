@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="山东高速公路双向车道标准地图。搜索路线、查看资料来源与改扩建目标。">
+  <title>山东高速公路车道图</title>
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main id="map" aria-label="山东高速公路地图"></main>
+  <aside id="panel" aria-label="地图筛选与说明">
+    <header>
+      <div class="eyebrow">SHANDONG EXPRESSWAYS</div>
+      <h1>山东高速<span>车道图</span></h1>
+      <button id="fold" aria-expanded="true" aria-controls="panel-body">收起</button>
+      <p>双向车道标准 · 可追溯资料</p>
+    </header>
+    <div id="panel-body">
+      <form id="filters">
+        <label for="search">搜索路线或路段</label>
+        <div class="row"><input id="search" type="search" placeholder="京台、G20、济菏…" autocomplete="off"><button type="submit">定位</button></div>
+        <div class="row">
+          <label>车道标准<select id="lane"><option value="all">全部车道</option><option value="4">4 车道</option><option value="5">5 车道</option><option value="6">6 车道</option><option value="8">8 车道</option><option value="12">12 车道</option></select></label>
+          <label>资料类型<select id="evidence"><option value="all">全部资料</option><option value="fulltext">全文资料</option><option value="preview">论文公开预览</option><option value="excerpt">检索摘要</option><option value="inference">相邻项目 / OSM 推定</option><option value="secondary">自媒体资料</option><option value="unknown">证据等级待整理</option></select></label>
+        </div>
+        <label>判断方式<select id="source"><option value="all">全部方式</option><option value="project_range">项目范围初配</option><option value="route_default">路线标准默认</option><option value="historical_baseline">历史车道基线</option><option value="osm_reference">OSM 参考</option><option value="conflict">与 OSM 候选值不同</option></select></label>
+        <div class="row actions"><button id="reset" type="button">显示全省</button><span id="count" aria-live="polite">正在加载数据…</span></div>
+      </form>
+      <section>
+        <h2>双向车道图例</h2>
+        <div class="legend"><span><i style="--color:#287eb2"></i>4</span><span><i style="--color:#329f92"></i>5</span><span><i style="--color:#d4aa24"></i>6</span><span><i style="--color:#e47f2a"></i>8</span><span><i style="--color:#cb4455"></i>12</span></div>
+        <p class="hint">实线：标准有据；虚线：待补来源、资料冲突或 OSM 参考。12 车道为新老路项目走廊合计。</p>
+      </section>
+      <section>
+        <label>地图底图<select id="basemap"><option value="street">简洁 · 海岸水系</option><option value="terrain">地形 · 高程阴影</option></select></label>
+        <label class="opacity">透明度<input id="opacity" type="range" min="0" max="100" value="80"><output id="opacity-value">80%</output></label>
+        <p id="tile-status" class="hint" aria-live="polite">本地底图，无需在线瓦片。</p>
+      </section>
+      <details>
+        <summary>数据与来源</summary>
+        <p>资料核对：<strong id="checked">—</strong>；OSM 快照：<span id="snapshot">—</span>。点击路段查看依据和改扩建详情。</p>
+        <p>展示包括通车标准、历史基线和参考值，不等于当前实际开放车道。范围为近似匹配，全文资料不代表现场核验；不用于导航或工程测量。</p>
+        <p>道路 © OpenStreetMap contributors（ODbL）；底图采用 Natural Earth 和 AWS Terrain Tiles 数据；省界与地市界来自阿里云 DataV，经近似坐标转换，仅供定位。原创代码 MIT。新闻及公告引句归原来源。</p>
+        <div class="row"><a href="NOTICE.md" target="_blank" rel="noopener">来源与许可 ↗</a><button id="download" type="button">下载筛选 GeoJSON</button></div>
+      </details>
+      <footer>滚轮缩放 · 拖动平移 · 点击查看来源</footer>
+    </div>
+  </aside>
+  <div id="status" role="status" aria-live="polite">正在加载地图…</div>
+  <noscript><div class="fatal">请启用 JavaScript 后使用地图。</div></noscript>
+  <script src="vendor/leaflet/leaflet.js"></script>
+  <script type="module" src="app.mjs"></script>
+</body>
+</html>

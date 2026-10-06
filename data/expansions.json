@@ -1,0 +1,380 @@
+{
+  "checked_on": "2026-09-30",
+  "projects": [
+    {
+      "id": "E01",
+      "name": "济南绕城高速港沟至殷家林段改扩建",
+      "status": "expansion_active",
+      "scope": "港沟枢纽—殷家林枢纽，34.324公里",
+      "current_lanes": 4,
+      "target_lanes": 8,
+      "matched_project_ids": [
+        "P119"
+      ],
+      "refs": [
+        "G2001"
+      ],
+      "center": [
+        36.56,
+        117.02
+      ],
+      "geometry_note": "按有来源的既有主线范围初配，仅表示改扩建/规划项目走廊，非工程桩号级线位。",
+      "checked_on": "2026-09-30",
+      "status_date": "2026-09-29",
+      "planned_open": "港沟至兴隆段：2027年4月底前恢复通行（2026-01计划）",
+      "source_url": "https://news.iqilu.com/shandong/shandonggedi/20260929/5948682.shtml",
+      "quote": "需继续对G2001济南绕城高速公路兴隆枢纽至市中互通段主线(西向东方向)封闭施工",
+      "evidence": [
+        {
+          "source_url": "https://news.iqilu.com/shandong/shandonggedi/20260929/5948682.shtml",
+          "quote": "需继续对G2001济南绕城高速公路兴隆枢纽至市中互通段主线(西向东方向)封闭施工",
+          "published": "2026-09-29",
+          "role": "齐鲁网转载海报新闻及山东高速南绕城公司公告"
+        },
+        {
+          "source_url": "http://www.jnxc.gov.cn/show-75-8430-1.html",
+          "quote": "改扩建完成后，将由双向四车道升级改造为双向八车道。",
+          "published": "2026-01-12",
+          "role": "济南市委宣传网转载大众日报"
+        },
+        {
+          "source_url": "https://news.iqilu.com/shandong/shandonggedi/20260929/5948682.shtml",
+          "quote": "自2026年10月1日00时起至2026年10月8日10时止。",
+          "published": "2026-09-29",
+          "role": "齐鲁网转载海报新闻及山东高速南绕城公司公告"
+        },
+        {
+          "source_url": "https://jtt.shandong.gov.cn/art/2026/4/3/art_12459_10328798.html",
+          "quote": "济南绕城高速港沟至殷家林段改扩建",
+          "published": "2026-04-03"
+        },
+        {
+          "source_url": "https://jtt.shandong.gov.cn/jssc/homeprojectinfo/gonggaomingxi/3294",
+          "quote": "将原双向4车道高速公路改扩建为双向8车道高速公路",
+          "published": "2026-09-14"
+        },
+        {
+          "source_url": "http://www.jnxc.gov.cn/show-75-8430-1.html",
+          "quote": "计划2027年4月底前恢复通行",
+          "published": "2026-01-12"
+        }
+      ],
+      "traffic_control_note": "港沟—兴隆2025-05-15实施双向封闭；兴隆—市中2025-08-05单向封闭。2026-09-29新公告西向东封闭延至2026-10-08，不可把全段画作当前均可正常通行。",
+      "current_status_confirmed": true,
+      "existing_lane_semantics": "扩建前既有道路双向合计标准；施工期封闭和临时交通组织单独记录，不代表每日实际可通行车道数"
+    },
+    {
+      "id": "E02",
+      "name": "泰新高速徂徕枢纽至新泰枢纽段改扩建",
+      "status": "expansion_active",
+      "scope": "徂徕枢纽—新泰枢纽，约66.41公里",
+      "current_lanes": 4,
+      "target_lanes": 8,
+      "matched_project_ids": [
+        "P58"
+      ],
+      "refs": [
+        "S31"
+      ],
+      "center": [
+        35.95,
+        117.55
+      ],
+      "geometry_note": "按有来源的既有主线范围初配，仅表示改扩建/规划项目走廊，非工程桩号级线位。",
+      "checked_on": "2026-09-30",
+      "status_date": "2026-05-08",
+      "planned_open": "2026年底半幅通车目标；全幅完成日期尚未取得",
+      "source_url": "http://news.e23.cn/shandong/2026-03-24/2026032400008.html",
+      "quote": "施工及管制周期自3月20日起至12月31日结束",
+      "evidence": [
+        {
+          "source_url": "http://news.e23.cn/shandong/2026-03-24/2026032400008.html",
+          "quote": "施工及管制周期自3月20日起至12月31日结束",
+          "published": "2026-03-24",
+          "role": "济南日报施工管制全文"
+        },
+        {
+          "source_url": "http://news.e23.cn/shandong/2026-03-24/2026032400008.html",
+          "quote": "双向四车道拓至八车道 泰新高速“扩容”启幕",
+          "published": null,
+          "role": "舜网/济南日报"
+        },
+        {
+          "source_url": "https://jtt.shandong.gov.cn/art/2026/4/3/art_12459_10328798.html",
+          "quote": "泰新高速徂徕枢纽至新泰枢纽段改扩建",
+          "published": "2026-04-03"
+        },
+        {
+          "source_url": "http://www.sd.xinhuanet.com/20260508/1e93f5c025a04d108e7afb0435e7f8ce/c.html",
+          "quote": "项目各方正紧盯年底半幅通车目标",
+          "published": "2026-05-08"
+        }
+      ],
+      "traffic_control_note": "2026-03-20半幅封闭施工；2026-04-13右幅恢复通行。",
+      "current_status_confirmed": true,
+      "existing_lane_semantics": "扩建前既有道路双向合计标准；施工期封闭和临时交通组织单独记录，不代表每日实际可通行车道数"
+    },
+    {
+      "id": "E03",
+      "name": "荣潍高速莱阳至潍坊段改扩建",
+      "status": "expansion_active",
+      "scope": "莱阳—潍坊全项目；莱西—涌泉扩至6车道，两端改建段保持4车道",
+      "current_lanes": 4,
+      "target_lanes": null,
+      "matched_project_ids": [
+        "P69",
+        "P101",
+        "P102"
+      ],
+      "refs": [
+        "S16"
+      ],
+      "center": [
+        36.78,
+        119.9
+      ],
+      "geometry_note": "按有来源的既有主线范围初配，仅表示改扩建/规划项目走廊，非工程桩号级线位。",
+      "checked_on": "2026-09-30",
+      "status_date": "2026-09-17",
+      "planned_open": "环评规定施工期36个月，未据此推算承诺通车日期",
+      "source_url": "http://www.fangzi.gov.cn/gsgg/202609/t20260917_824226.html",
+      "quote": "因 荣潍高速 莱阳至潍坊段改扩建施工",
+      "evidence": [
+        {
+          "source_url": "http://www.fangzi.gov.cn/gsgg/202609/t20260917_824226.html",
+          "quote": "因 荣潍高速 莱阳至潍坊段改扩建施工",
+          "published": "2026-09-17",
+          "role": "坊子区政府施工公告"
+        },
+        {
+          "source_url": "http://xxgk.sdein.gov.cn/zfwj/lhs/202504/t20250430_4819307.html",
+          "quote": "采取“两侧拼宽”形式扩建六车道段路线全长104.74千米",
+          "published": "2025-04-30",
+          "role": "省生态环境厅目标批复"
+        },
+        {
+          "source_url": "https://baike.so.com/doc/5285180-5519499.html",
+          "quote": "技术标准为双向四车道高速公路",
+          "published": "2020-09-30",
+          "role": "secondary_reference"
+        },
+        {
+          "source_url": "https://jtt.shandong.gov.cn/art/2026/4/3/art_12459_10328798.html",
+          "quote": "荣潍高速改扩建莱阳至潍坊段",
+          "published": "2026-04-03"
+        },
+        {
+          "source_url": "https://jtt.shandong.gov.cn/art/2024/12/19/art_15690_10322469.html",
+          "quote": "12月18日，S29滨台高速彭家枢纽至淄博西枢纽段改扩建项目、S16荣潍高速公路莱阳至潍坊段改扩建项目、东阿至郓城高速公路梁山至郓城段项目举行开工活动",
+          "published": "2024-12-19"
+        },
+        {
+          "source_url": "https://jtt.shandong.gov.cn/art/2024/12/19/art_15690_10322469.html",
+          "quote": "在现有双向四车道高速公路技术标准的基础上",
+          "published": "2024-12-19",
+          "role": "交通厅既有标准及改扩建启动全文"
+        }
+      ],
+      "target_lane_options": [
+        4,
+        6
+      ],
+      "target_lanes_text": "按路段双向4／6车道",
+      "traffic_control_note": null,
+      "current_status_confirmed": true,
+      "existing_lane_semantics": "扩建前既有道路双向合计标准；施工期封闭和临时交通组织单独记录，不代表每日实际可通行车道数",
+      "target_lanes_by_project": {
+        "P69": 6
+      },
+      "default_target_lanes": 4
+    },
+    {
+      "id": "E04",
+      "name": "日兰高速大庄枢纽至竹园枢纽段改扩建",
+      "status": "expansion_active",
+      "scope": "长深高速大庄枢纽—京沪高速竹园枢纽，38.161公里",
+      "current_lanes": 4,
+      "target_lanes": 8,
+      "matched_project_ids": [
+        "P90"
+      ],
+      "refs": [
+        "G1511"
+      ],
+      "center": [
+        35.4,
+        118.48
+      ],
+      "geometry_note": "按有来源的既有主线范围初配，仅表示改扩建/规划项目走廊，非工程桩号级线位。",
+      "checked_on": "2026-09-30",
+      "status_date": "2026-09-14",
+      "planned_open": null,
+      "source_url": "https://jtt.shandong.gov.cn/jssc/homeprojectinfo/gonggaomingxi/3294",
+      "quote": "2.日兰高速大庄枢纽至竹园枢纽段改扩建工程（简称：日兰）：项目全长38.16公里，主线采取“两侧拼宽为主、局部单侧分离加宽为辅”的方式，将原双向4车道高速公路改扩建为双向8车道高速公路。",
+      "evidence": [
+        {
+          "source_url": "https://jtt.shandong.gov.cn/jssc/homeprojectinfo/gonggaomingxi/3294",
+          "quote": "2.日兰高速大庄枢纽至竹园枢纽段改扩建工程（简称：日兰）：项目全长38.16公里，主线采取“两侧拼宽为主、局部单侧分离加宽为辅”的方式，将原双向4车道高速公路改扩建为双向8车道高速公路。",
+          "published": "2026-09-14",
+          "role": "省交通建设市场监管公共服务平台机电设备采购公告"
+        },
+        {
+          "source_url": "https://www.linyi.gov.cn/info/9315/387705.htm",
+          "quote": "本次改扩建工程，主要是大庄枢纽至竹园枢纽段由双向四车道改扩建成双向八车道，其中临沂段全长37.1公里，途经兰山区、河东区、沂南县，是我市“五纵五横”高速公路网的重要组成部分。",
+          "published": "2024-11-30",
+          "role": "临沂市政府建设动员全文"
+        },
+        {
+          "source_url": "https://jtt.shandong.gov.cn/art/2026/4/3/art_12459_10328798.html",
+          "quote": "日兰高速大庄枢纽至竹园枢纽段改扩建",
+          "published": "2026-04-03"
+        },
+        {
+          "source_url": "https://jtt.shandong.gov.cn/jssc/homeprojectinfo/gonggaomingxi/3294",
+          "quote": "2.日兰高速大庄枢纽至竹园枢纽段改扩建工程",
+          "published": "2026-09-14"
+        }
+      ],
+      "traffic_control_note": null,
+      "current_status_confirmed": true,
+      "existing_lane_semantics": "扩建前既有道路双向合计标准；施工期封闭和临时交通组织单独记录，不代表每日实际可通行车道数"
+    },
+    {
+      "id": "E05",
+      "name": "滨台高速彭家枢纽至淄博西枢纽段改扩建",
+      "status": "expansion_active",
+      "scope": "彭家枢纽—淄博西枢纽，37.698公里",
+      "current_lanes": 4,
+      "target_lanes": 8,
+      "matched_project_ids": [
+        "P91"
+      ],
+      "refs": [
+        "S29"
+      ],
+      "center": [
+        37.04,
+        117.95
+      ],
+      "geometry_note": "按有来源的既有主线范围初配，仅表示改扩建/规划项目走廊，非工程桩号级线位。",
+      "checked_on": "2026-09-30",
+      "status_date": "2026-09-14",
+      "planned_open": null,
+      "source_url": "https://jtt.shandong.gov.cn/jssc/homeprojectinfo/gonggaomingxi/3294",
+      "quote": "3.滨台高速彭家枢纽至淄博西枢纽段改扩建工程（简称：滨台）：项目全长37.698公里，主线采取两侧拼宽的方式，将原双向4车道高速公路改扩建为双向8车道高速公路。",
+      "evidence": [
+        {
+          "source_url": "https://jtt.shandong.gov.cn/jssc/homeprojectinfo/gonggaomingxi/3294",
+          "quote": "3.滨台高速彭家枢纽至淄博西枢纽段改扩建工程（简称：滨台）：项目全长37.698公里，主线采取两侧拼宽的方式，将原双向4车道高速公路改扩建为双向8车道高速公路。",
+          "published": "2026-09-14",
+          "role": "山东省交通运输厅建设市场平台2026招标全文"
+        },
+        {
+          "source_url": "https://jtt.shandong.gov.cn/art/2026/4/3/art_12459_10328798.html",
+          "quote": "滨台高速彭家枢纽至淄博西枢纽段改扩建",
+          "published": "2026-04-03"
+        },
+        {
+          "source_url": "https://jtt.shandong.gov.cn/art/2024/12/19/art_15690_10322469.html",
+          "quote": "12月18日，S29滨台高速彭家枢纽至淄博西枢纽段改扩建项目、S16荣潍高速公路莱阳至潍坊段改扩建项目、东阿至郓城高速公路梁山至郓城段项目举行开工活动",
+          "published": "2024-12-19"
+        }
+      ],
+      "traffic_control_note": null,
+      "current_status_confirmed": true,
+      "existing_lane_semantics": "扩建前既有道路双向合计标准；施工期封闭和临时交通组织单独记录，不代表每日实际可通行车道数"
+    },
+    {
+      "id": "E06",
+      "name": "长深高速大高至彭家枢纽段改扩建",
+      "status": "expansion_active",
+      "scope": "大高互通北约2.6公里—彭家枢纽，51.06公里",
+      "current_lanes": 4,
+      "target_lanes": 8,
+      "matched_project_ids": [
+        "P92"
+      ],
+      "refs": [
+        "G25"
+      ],
+      "center": [
+        37.45,
+        117.92
+      ],
+      "geometry_note": "按有来源的既有主线范围初配，仅表示改扩建/规划项目走廊，非工程桩号级线位。",
+      "checked_on": "2026-09-30",
+      "status_date": "2026-09-14",
+      "planned_open": null,
+      "source_url": "https://jtt.shandong.gov.cn/jssc/homeprojectinfo/gonggaomingxi/3294",
+      "quote": "4.长深高速大高至彭家枢纽段改扩建工程（简称：长深）：项目全长51.06公里，主线采取两侧拼宽的方式，将原双向4车道高速公路改扩建为双向8车道高速公路，全线设特大桥 1 座、大桥 2座、中桥 8 座、小桥5座；互通立交 8 处、分离立交 10 处；服务区 1 处、养护工区 1 处；监控通信分中心 1 处、桥梁监控通信站 1 处。",
+      "evidence": [
+        {
+          "source_url": "https://jtt.shandong.gov.cn/jssc/homeprojectinfo/gonggaomingxi/3294",
+          "quote": "4.长深高速大高至彭家枢纽段改扩建工程（简称：长深）：项目全长51.06公里，主线采取两侧拼宽的方式，将原双向4车道高速公路改扩建为双向8车道高速公路，全线设特大桥 1 座、大桥 2座、中桥 8 座、小桥5座；互通立交 8 处、分离立交 10 处；服务区 1 处、养护工区 1 处；监控通信分中心 1 处、桥梁监控通信站 1 处。",
+          "published": "2026-09-14",
+          "role": "山东省交通运输厅建设市场平台2026招标全文"
+        },
+        {
+          "source_url": "https://jtt.shandong.gov.cn/art/2026/4/3/art_12459_10328798.html",
+          "quote": "长深高速大高至彭家枢纽段改扩建",
+          "published": "2026-04-03"
+        }
+      ],
+      "traffic_control_note": null,
+      "current_status_confirmed": true,
+      "existing_lane_semantics": "扩建前既有道路双向合计标准；施工期封闭和临时交通组织单独记录，不代表每日实际可通行车道数"
+    },
+    {
+      "id": "E07",
+      "name": "胶州湾西环河套至黄岛东段改扩建",
+      "status": "expansion_active",
+      "scope": "河套枢纽—黄岛东枢纽，并包括S7601黄岛东枢纽—黄岛收费站段",
+      "current_lanes": 4,
+      "target_lanes": 8,
+      "matched_project_ids": [
+        "P133",
+        "P143"
+      ],
+      "refs": [
+        "G22"
+      ],
+      "center": [
+        36.120000000000005,
+        120.07249999999999
+      ],
+      "geometry_note": "按有来源的既有主线范围初配，仅表示改扩建/规划项目走廊，非工程桩号级线位。",
+      "checked_on": "2026-09-30",
+      "status_date": "2026-03-16",
+      "planned_open": "2027年主线具备通车条件（政府发布计划，不是实际通车）",
+      "source_url": "http://dpc.qingdao.gov.cn/fzgggz_45/cmc_45/gzdt_45/202603/t20260316_10537682.shtml",
+      "quote": "项目全长30.786公里，采用双向八车道高速公路技术标准改扩建",
+      "evidence": [
+        {
+          "source_url": "http://dpc.qingdao.gov.cn/fzgggz_45/cmc_45/gzdt_45/202603/t20260316_10537682.shtml",
+          "quote": "项目全长30.786公里，采用双向八车道高速公路技术标准改扩建",
+          "published": "2026-03-16",
+          "role": "青岛市发展改革委转载"
+        },
+        {
+          "source_url": "http://dpc.qingdao.gov.cn/fzgggz_45/cmc_45/gzdt_45/202603/t20260316_10537682.shtml",
+          "quote": "年内实现整体进度达到60%，2027年主线具备通车条件。",
+          "published": "2026-03-16",
+          "role": "青岛市发展改革委转载"
+        },
+        {
+          "source_url": "http://www.qingdao.gov.cn/zwgk/xxgk/fgw/ywfl/zctz/202301/t20230117_6812929.shtml",
+          "quote": "1995年建成通车，采用设计速度100km/h的汽车专用一级公路标准建设，双向四车道。",
+          "published": "2023-01-17",
+          "role": "青岛市发展改革委核准公告"
+        }
+      ],
+      "traffic_control_note": null,
+      "current_status_confirmed": true,
+      "existing_lane_semantics": "扩建前既有道路双向合计标准；施工期封闭和临时交通组织单独记录，不代表每日实际可通行车道数"
+    }
+  ],
+  "province_inventory_complete": false,
+  "current_status_verification_complete": false,
+  "note": "仅保留既有高速的改扩建详情；按既有车道标准着色，施工期临时开放车道单独说明。",
+  "display_note": "仅显示既有路网，改扩建详情点击查看；新建及规划不展示"
+}

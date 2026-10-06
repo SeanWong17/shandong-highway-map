@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "note": "仅演示新增道路格式，不是实际路网，不参与地图。先在 projects.json 建立有来源的项目，再替换示例值。",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "local:demo:001",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[117.00, 36.00], [117.01, 36.01], [117.02, 36.02]]
+      },
+      "properties": {
+        "ref": "S999",
+        "name": "示例新建路段",
+        "project_id": "P156",
+        "lanes_documented": 6,
+        "lane_source": "project_range",
+        "line_style": "solid",
+        "lane_conflict": false,
+        "checked_on": "2026-10-06",
+        "update_note": "示例：核对通车公告后新增 WGS84 主线几何"
+      }
+    }
+  ]
+}

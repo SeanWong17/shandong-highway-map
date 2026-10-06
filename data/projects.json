@@ -1,0 +1,3981 @@
+[
+  {
+    "id": "P01",
+    "name": "济青高速改扩建",
+    "scope": "朱家官庄新主线收费站—济南小许家以东",
+    "lanes": 8,
+    "published": "2016-01-08",
+    "opened": "2019-07-26",
+    "source_url": "https://www.ndrc.gov.cn/fggz/zcssfz/zdgc/201601/t20160108_1146071.html",
+    "quote": "路线起自青岛市朱家官庄附近的新主线收费站，接已改扩建完成的青岛至银川国家高速公路西元庄至朱家官庄段",
+    "note": "青岛端按朱家官庄近似120.24E初配，恢复旧119.9E边界漏掉的主线；精确收费站经纬度仍待核定。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_or_mainstream_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://www.ndrc.gov.cn/fggz/zcssfz/zdgc/201601/t20160108_1146071.html",
+        "quote": "路线起自青岛市朱家官庄附近的新主线收费站，接已改扩建完成的青岛至银川国家高速公路西元庄至朱家官庄段",
+        "published": "2016-01-08",
+        "role": "国家发展改革委"
+      },
+      {
+        "source_url": "https://www.ndrc.gov.cn/fggz/zcssfz/zdgc/201601/t20160108_1146071.html",
+        "quote": "全线采用双向八车道高速公路标准改扩建",
+        "published": "2016-01-08",
+        "role": "国家发展改革委"
+      },
+      {
+        "source_url": "https://sd.dzwww.com/sdnews/201907/t20190726_18987244.htm",
+        "quote": "由山东高速集团投资建设的济青高速改扩建工程小许家以东路段7月26日正式建成通车,至此济青高速由过去的双向四车道拓宽为双向八车道通行",
+        "published": "2019-07-26",
+        "role": "大众日报"
+      },
+      {
+        "source_url": "http://www.liaocheng.gov.cn/channel_t_156_11235/doc_63948f20f8ab1b32646a4c90.html",
+        "quote": "济青高速改扩建工程起于青岛即墨区朱家官庄的新主线收费站",
+        "published": "2019-07-24",
+        "role": "聊城市政府转载大众日报"
+      },
+      {
+        "source_url": "http://www.liaocheng.gov.cn/channel_t_156_11235/doc_63948f20f8ab1b32646a4c90.html",
+        "quote": "既有高速公路双向四车道改为八车道",
+        "published": "2019-07-24",
+        "role": "聊城市政府转载大众日报"
+      }
+    ]
+  },
+  {
+    "id": "P02",
+    "name": "京台高速德州—齐河",
+    "scope": "鲁冀省界收费站—晏城枢纽",
+    "lanes": 8,
+    "published": "2021-07-19",
+    "opened": "2021-07-16",
+    "source_url": "http://jtt.shandong.gov.cn/art/2021/7/19/art_12549_10291998.html",
+    "quote": "由双向四车道拓宽为双向八车道",
+    "note": "依据起止枢纽保守选择内部区间；省界和晏城枢纽过渡段未赋值。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "http://jtt.shandong.gov.cn/art/2021/7/19/art_12549_10291998.html",
+        "quote": "由双向四车道拓宽为双向八车道",
+        "published": "2021-07-19",
+        "role": "原公告全文曾核对"
+      }
+    ]
+  },
+  {
+    "id": "P03",
+    "name": "京台高速齐河—济南",
+    "scope": "晏城枢纽—殷家林枢纽，23.999公里",
+    "lanes": 12,
+    "published": "2025-12-29",
+    "opened": "2025-12-28",
+    "source_url": "http://gzw.shandong.gov.cn/articles/ch00049/202512/e50a32c7-629d-4a03-8c1e-90bf8e3f5978.html",
+    "quote": "全国首个 “六改十二车道”高速公路改扩建项目",
+    "note": "十二车道是整个项目走廊新老路合计；含分离式新老路及黄河并桥，不代表每条单侧线都有十二车道。起终点有八/十二车道过渡。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "http://gzw.shandong.gov.cn/articles/ch00049/202512/e50a32c7-629d-4a03-8c1e-90bf8e3f5978.html",
+        "quote": "全国首个 “六改十二车道”高速公路改扩建项目",
+        "published": "2025-12-29",
+        "role": "原公告全文曾核对"
+      }
+    ]
+  },
+  {
+    "id": "P04",
+    "name": "京台高速济南—泰安",
+    "scope": "殷家林枢纽—泰山枢纽，53.26公里",
+    "lanes": 8,
+    "published": "2022-10-13",
+    "opened": "2022-10-12",
+    "source_url": "http://gzw.shandong.gov.cn/articles/ch00049/202210/8ac66ee0-ed8d-4f6f-96d7-437771c8174f.html",
+    "quote": "全国首条国高网“6改8”改扩建高速公路",
+    "note": "",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": []
+  },
+  {
+    "id": "P05",
+    "name": "京沪高速莱芜—临沂",
+    "scope": "莱芜枢纽—郯城红花埠南鲁苏界，232.4公里",
+    "lanes": 8,
+    "published": "2020-11-26",
+    "opened": "2020-11-26",
+    "source_url": "http://jtt.shandong.gov.cn/art/2020/11/26/art_12549_10061111.html",
+    "quote": "京沪高速改扩建莱芜至临沂段全长232.4公里，双向八车道",
+    "note": "北端延伸到莱芜枢纽附近，补齐G2/G22共线8车道；与原济莱6车道在36.254N附近初配。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_or_mainstream_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://jtt.shandong.gov.cn/art/2020/11/26/art_12549_10061111.html",
+        "quote": "京沪高速改扩建莱芜至临沂段全长232.4公里，双向八车道",
+        "published": "2020-11-26",
+        "role": "山东交通厅通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P06",
+    "name": "济菏高速改扩建",
+    "scope": "殷家林枢纽—王官屯枢纽，152.7公里",
+    "lanes": 8,
+    "published": "2024-12-23",
+    "opened": "2024-12-20",
+    "source_url": "http://gzw.shandong.gov.cn/articles/ch00049/202412/1d0cf754-7f53-4918-a200-fcf9778a0cb4.html",
+    "quote": "12月20日实现“双向八车道”全线贯通",
+    "note": "王官屯按G35/G1511交点116.0583E、35.4623N初配，补齐旧项目框留白；京台共线优先采用京台单独项目。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_or_mainstream_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://gzw.shandong.gov.cn/articles/ch00049/202412/1d0cf754-7f53-4918-a200-fcf9778a0cb4.html",
+        "quote": "12月20日实现“双向八车道”全线贯通",
+        "published": "2024-12-23",
+        "role": "省国资委通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P07",
+    "name": "济南绕城小许家—港沟",
+    "scope": "小许家枢纽—港沟互通，16.78公里",
+    "lanes": 8,
+    "published": "2025-12-22",
+    "opened": null,
+    "source_url": "http://gzw.shandong.gov.cn/articles/ch00049/202512/4048eff8-5c72-491a-ab1e-50fef5644c97.html",
+    "quote": "采用双向八车道标准建设",
+    "note": "公告写“近日”通车，不把发布日期当精确通车日。两端枢纽附近留待核对。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "http://gzw.shandong.gov.cn/articles/ch00049/202512/4048eff8-5c72-491a-ab1e-50fef5644c97.html",
+        "quote": "采用双向八车道标准建设",
+        "published": "2025-12-22",
+        "role": "原公告全文曾核对"
+      }
+    ]
+  },
+  {
+    "id": "P08",
+    "name": "东青高速改扩建",
+    "scope": "垦利—青州于家庄枢纽，88.7公里",
+    "lanes": 8,
+    "published": "2025-12-01",
+    "opened": "2025-12公告近日全线通车",
+    "source_url": "http://gzw.shandong.gov.cn/articles/ch00049/202512/7858ee73-e1c2-4b5c-bd8e-f73bb708c29c.html",
+    "quote": "项目全长88.7公里，采用双向八车道高速公路标准",
+    "note": "南界按G25/G20于家庄交叉36.80184N初配，排除以南青临6；高广4止于辛庄子支线，分别保留。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_or_mainstream_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://gzw.shandong.gov.cn/articles/ch00049/202512/7858ee73-e1c2-4b5c-bd8e-f73bb708c29c.html",
+        "quote": "项目全长88.7公里，采用双向八车道高速公路标准",
+        "published": "2025-12-01",
+        "role": "省国资委全线通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P09",
+    "name": "临淄—临沂高速",
+    "scope": "淄博东枢纽—日兰高速沂蒙枢纽，192.6公里",
+    "lanes": 6,
+    "published": "2024-10-28",
+    "opened": null,
+    "source_url": "http://gzw.shandong.gov.cn/articles/ch00049/202410/71764349-0be7-4453-ae96-63c8ba501a46.html",
+    "quote": "采用双向六车道高速公路标准建设",
+    "note": "现有OSM名称多记作沾临高速，依据路线编号与公告区间对应；两端接口继续核验。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": []
+  },
+  {
+    "id": "P10",
+    "name": "明村—董家口高速",
+    "scope": "明村—董家口，130.52公里",
+    "lanes": 6,
+    "published": "2023-12-18",
+    "opened": "2023-12-15",
+    "source_url": "http://gzw.shandong.gov.cn/articles/ch00049/202312/40bcd66b-5c21-471d-af03-c7bf4ab34b6e.html",
+    "quote": "采用双向六车道高速公路标准设计建设",
+    "note": "现有路线名为新董高速；仅匹配明董项目内部，未扩展至新河—明村段。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "http://gzw.shandong.gov.cn/articles/ch00049/202312/40bcd66b-5c21-471d-af03-c7bf4ab34b6e.html",
+        "quote": "采用双向六车道高速公路标准设计建设",
+        "published": "2023-12-18",
+        "role": "原公告全文曾核对"
+      }
+    ]
+  },
+  {
+    "id": "P11",
+    "name": "济南大东环",
+    "scope": "青银高速唐王枢纽—京沪高速曹范互通，23.6公里",
+    "lanes": 6,
+    "published": "2020-11-26",
+    "opened": "2020-11-26",
+    "source_url": "http://jtt.shandong.gov.cn/art/2020/11/26/art_12549_10061111.html",
+    "quote": "济南大东环全长23.6公里，双向六车道",
+    "note": " 项目框按本地主线与相交枢纽包络修正，采用短线中点初配。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "http://jtt.shandong.gov.cn/art/2020/11/26/art_12549_10061111.html",
+        "quote": "济南大东环全长23.6公里，双向六车道",
+        "published": "2020-11-26",
+        "role": "原公告全文曾核对"
+      }
+    ]
+  },
+  {
+    "id": "P12",
+    "name": "岚山—罗庄高速",
+    "scope": "岚山—罗庄，104.5公里",
+    "lanes": 4,
+    "published": "2020-11-26",
+    "opened": "2020-11-26",
+    "source_url": "http://jtt.shandong.gov.cn/art/2020/11/26/art_12549_10061111.html",
+    "quote": "岚山至罗庄项目全长104.5公里，双向四车道",
+    "note": "只选岚罗项目中部，罗庄以西未外推。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": []
+  },
+  {
+    "id": "P13",
+    "name": "烟蓬改扩建已通车区间一",
+    "scope": "大杨家枢纽—古现互通，8.95公里",
+    "lanes": 8,
+    "published": "2025-12-30",
+    "opened": null,
+    "source_url": "http://gzw.shandong.gov.cn/articles/ch00049/202512/9aaf722c-aacc-4564-bae5-5341a11da3a2.html",
+    "quote": "大杨家枢纽至古现互通段实现双向八车道通行",
+    "note": "尚未取得古现互通精确位置和连续主线边界；仅显示项目点，不自动给烟蓬全线赋八车道。 后续：2026-07-24烟蓬主线全线通车，见P26；本条保留分段历史，不重复映射。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": []
+  },
+  {
+    "id": "P14",
+    "name": "烟蓬改扩建已通车区间二",
+    "scope": "机场互通—蓬莱枢纽，8.1公里",
+    "lanes": 8,
+    "published": "2025-06-30",
+    "opened": null,
+    "source_url": "http://gzw.shandong.gov.cn/articles/ch00049/202506/85951b0e-482a-4cbf-a5fa-e637a9f920da.html",
+    "quote": "机场互通至蓬莱枢纽段正式通车运营",
+    "note": "仅此8.1公里通车事实明确；项目点为大致定位，不代表整条61.217公里烟蓬项目已完成。 后续：2026-07-24烟蓬主线全线通车，见P26；本条保留分段历史，不重复映射。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": []
+  },
+  {
+    "id": "P15",
+    "name": "荣乌威海—烟海段改扩建",
+    "scope": "环翠路交叉口—烟台枢纽立交，47.02公里",
+    "lanes": 6,
+    "published": "2023-12-29",
+    "opened": "2023-12-29",
+    "source_url": "https://www.yantai.gov.cn/art/2023/12/29/art_11748_3171960.html",
+    "quote": "实现烟威高速环翠路交叉口至烟台枢纽立交主线双向六车道通行。",
+    "note": "烟台政府原文明示主线6车道通行；按主线走廊初配，不沿G18全线外推。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://www.yantai.gov.cn/art/2023/12/29/art_11748_3171960.html",
+        "quote": "实现烟威高速环翠路交叉口至烟台枢纽立交主线双向六车道通行。",
+        "published": "2023-12-29",
+        "role": "烟台市政府当日通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P16",
+    "name": "济南绕城小许家—遥墙机场",
+    "scope": "小许家—遥墙机场新收费站，5.465公里",
+    "lanes": 8,
+    "published": "2024-09-30",
+    "opened": "2024-09-29",
+    "source_url": "https://jtt.shandong.gov.cn/art/2024/9/30/art_15690_10321388.html",
+    "quote": "9月29日，济南绕城高速机场段暨机场南主进出场路建成通车",
+    "note": "5.465km项目主线北至荷花路以南新收费站，老枢纽以北新几何本地部分无ref，可按名称济南绕城高速补至36.8182。框北界只是地图近似，不是官方桩号。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "source_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://jtt.shandong.gov.cn/art/2024/9/30/art_15690_10321388.html",
+        "quote": "9月29日，济南绕城高速机场段暨机场南主进出场路建成通车",
+        "published": "2024-09-30",
+        "role": "山东交通运输厅"
+      },
+      {
+        "source_url": "https://jtt.shandong.gov.cn/art/2024/9/30/art_15690_10321388.html",
+        "quote": "止于移址新建后的机场收费站，路线全长5.46公里，采用双向八车道高速公路标准建设",
+        "published": "2024-09-30",
+        "role": "山东交通运输厅"
+      },
+      {
+        "source_url": "http://jinan.dzwww.com/qcxw/202012/t20201230_7485367.htm",
+        "quote": "工程改造终点位于荷花路以南主线收费站等宽段终点位置，路线长度5.465公里。",
+        "published": "2020-12-30",
+        "role": "大众网转载大众日报客户端"
+      }
+    ]
+  },
+  {
+    "id": "P17",
+    "name": "济南大北环",
+    "scope": "黄河枢纽—梁庄枢纽",
+    "lanes": 6,
+    "published": "2024-11-04",
+    "opened": null,
+    "source_url": "http://gzw.shandong.gov.cn/articles/ch00049/202411/f599616a-7703-4a81-b1f5-953d4eb824c1.html",
+    "quote": "济南大北环项目东起济南至高青高速黄河枢纽，西接二环线西环段梁庄枢纽，途经济南市章丘区、济阳区和德州市临邑县、禹城市，全长 67.6公里，采用双向六车道高速公路标准建设，设计速度120公里/小时。",
+    "note": "67.6和67.62为报道精度差；不是精确通车日；几何仍待匹配 项目框按本地主线与相交枢纽包络修正，采用短线中点初配。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "http://gzw.shandong.gov.cn/articles/ch00049/202411/f599616a-7703-4a81-b1f5-953d4eb824c1.html",
+        "quote": "济南大北环项目东起济南至高青高速黄河枢纽，西接二环线西环段梁庄枢纽，途经济南市章丘区、济阳区和德州市临邑县、禹城市，全长 67.6公里，采用双向六车道高速公路标准建设，设计速度120公里/小时。",
+        "published": "2024-11-04",
+        "role": ""
+      },
+      {
+        "source_url": "http://gzw.shandong.gov.cn/articles/ch00049/202411/452be555-5ffa-4f61-8661-183e246948c9.html",
+        "quote": "项目建成通车",
+        "published": "2024-11-11",
+        "role": "通车事实；前项交工验收证实车道"
+      }
+    ]
+  },
+  {
+    "id": "P18",
+    "name": "临滕高速柳树庄—费县南",
+    "scope": "京沪高速柳树庄枢纽—费县南互通",
+    "lanes": 4,
+    "published": "2025-11-03",
+    "opened": "2025-11-01",
+    "source_url": "https://12345.linyi.gov.cn/gov/app/share/YS00MDktMTAwMTU2NzY1.html",
+    "quote": "起点至京沪高速段为双向六车道标准建设，京沪高速至终点段为双向四车道标准建设。",
+    "note": "几何端点需匹配",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "https://12345.linyi.gov.cn/gov/app/share/YS00MDktMTAwMTU2NzY1.html",
+        "quote": "起点至京沪高速段为双向六车道标准建设，京沪高速至终点段为双向四车道标准建设。",
+        "published": "2025-11-03",
+        "role": ""
+      },
+      {
+        "source_url": "https://12345.linyi.gov.cn/gov/app/share/YS00MDktMTAwMTU2NzY1.html",
+        "quote": "11月1日 由山东高速集团投资建设的 临沂至滕州公路 （以下简称“临滕公路”） 柳树庄枢纽互通至费县南互通段建成通车",
+        "published": "2025-11-03",
+        "role": ""
+      }
+    ]
+  },
+  {
+    "id": "P19",
+    "name": "京台高速泰安至枣庄（鲁苏界）改扩建",
+    "scope": "泰山枢纽（京台与青兰高速交叉）—鲁苏省界，接京台江苏段",
+    "lanes": 8,
+    "published": "2021-09-29",
+    "opened": "2021-09-29",
+    "source_url": "http://jtt.shandong.gov.cn/art/2021/9/29/art_15690_10293996.html",
+    "quote": "该项目起自京台高速公路与青兰高速公路交叉设置的泰山枢纽，止于鲁苏两省交界，接京台高速公路江苏段，路线全长189公里，概算投资264亿元，将原有双向四车道拓宽为双向八车道。",
+    "note": "公告端点明确，尚未进行精确拓扑匹配。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "http://jtt.shandong.gov.cn/art/2021/9/29/art_15690_10293996.html",
+        "quote": "该项目起自京台高速公路与青兰高速公路交叉设置的泰山枢纽，止于鲁苏两省交界，接京台高速公路江苏段，路线全长189公里，概算投资264亿元，将原有双向四车道拓宽为双向八车道。",
+        "published": "2021-09-29",
+        "role": ""
+      }
+    ]
+  },
+  {
+    "id": "P20",
+    "name": "滨莱高速淄博西至莱芜段改扩建",
+    "scope": "青银高速淄博西枢纽—青兰高速莱芜枢纽，与京沪相接",
+    "lanes": 8,
+    "published": "2019-08-26",
+    "opened": "2019-08-16",
+    "source_url": "http://www.sasac.gov.cn/n2588025/n2588124/c12047221/content.html",
+    "quote": "改扩建完成后的滨莱高速实现了全面升级,由原来的双向四车道扩至八车道",
+    "note": "交通厅明确31.87公里改线新建、40.93公里老路改扩建；国资委明确22公里旧路改自动驾驶试验场。不能给旧线一起标8。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "http://www.sasac.gov.cn/n2588025/n2588124/c12047221/content.html",
+        "quote": "改扩建完成后的滨莱高速实现了全面升级,由原来的双向四车道扩至八车道",
+        "published": "2019-08-26",
+        "role": ""
+      }
+    ]
+  },
+  {
+    "id": "P21",
+    "name": "临滕高速东段",
+    "scope": "郑旺枢纽（G25）—柳树庄枢纽（G2）",
+    "lanes": 6,
+    "published": "2026-01-01",
+    "opened": "2025-12-31 24:00",
+    "source_url": "https://www.linyi.gov.cn/info/4971/411065.htm",
+    "quote": "2025年12月31日24时，由山东高速集团投资建设的S36临沂至滕州高速公路柳树庄枢纽立交至郑旺枢纽立交段正式通车运营，临滕高速实现全线贯通。",
+    "note": "公告网页发布时间由HTML metadata确认；几何需匹配",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "https://www.linyi.gov.cn/info/4971/411065.htm",
+        "quote": "2025年12月31日24时，由山东高速集团投资建设的S36临沂至滕州高速公路柳树庄枢纽立交至郑旺枢纽立交段正式通车运营，临滕高速实现全线贯通。",
+        "published": "2026-01-01",
+        "role": ""
+      },
+      {
+        "source_url": "https://www.linyi.gov.cn/info/4971/411065.htm",
+        "quote": "本次通车段途经河东区、沂河新区、兰山区，全长33.677公里，采用双向6车道标准建设，设计时速120公里。",
+        "published": "2026-01-01",
+        "role": ""
+      }
+    ]
+  },
+  {
+    "id": "P22",
+    "name": "临滕高速西段",
+    "scope": "费县南互通—滕州北枢纽（G3）",
+    "lanes": 4,
+    "published": "2024-12-23",
+    "opened": "2024-12-21",
+    "source_url": "https://www.linyi.gov.cn/info/4971/389404.htm",
+    "quote": "12月21日，由山东高速集团投资建设的临滕高速公路费县南至滕州北段正式开通运营",
+    "note": "几何需匹配",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "https://www.linyi.gov.cn/info/4971/389404.htm",
+        "quote": "12月21日，由山东高速集团投资建设的临滕高速公路费县南至滕州北段正式开通运营",
+        "published": "2024-12-23",
+        "role": ""
+      },
+      {
+        "source_url": "https://www.linyi.gov.cn/info/4971/389404.htm",
+        "quote": "目前，先行开通的西段全长72.99公里，采用双向4车道高速公路技术标准建设，设计速度120公里/小时。",
+        "published": "2024-12-23",
+        "role": ""
+      }
+    ]
+  },
+  {
+    "id": "P23",
+    "name": "日兰高速巨野西至菏泽段改扩建",
+    "scope": "王官屯枢纽互通西侧—曹州枢纽互通",
+    "lanes": 8,
+    "published": "2021-08-20",
+    "opened": "2021-08-20",
+    "source_url": "https://sd.dzwww.com/sdnews/202108/t20210820_8959903.htm",
+    "quote": "8月20日，由山东高速集团投资建设的日照至兰考高速公路巨野西至菏泽段改扩建项目正式建成通车，标志着菏泽拥有了首条双向八车道高速公路。",
+    "note": "属于主流省级媒体全文证据，本轮尚未找到政府转载通车全文；不是规划或施工报道。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "https://sd.dzwww.com/sdnews/202108/t20210820_8959903.htm",
+        "quote": "8月20日，由山东高速集团投资建设的日照至兰考高速公路巨野西至菏泽段改扩建项目正式建成通车，标志着菏泽拥有了首条双向八车道高速公路。",
+        "published": "2021-08-20",
+        "role": "大众日报客户端记者报道，大众网转载"
+      },
+      {
+        "source_url": "https://sd.dzwww.com/sdnews/202108/t20210820_8959903.htm",
+        "quote": "日兰高速巨野西至菏泽段改扩建项目起自济广高速与德上高速交叉处的王官屯枢纽互通西侧，途径菏泽市巨野县、郓城县、牡丹区，止于日兰高速与菏宝高速交叉处的曹州枢纽互通。主线全长46.2公里，概算投资46.6亿元，由双向四车道拓宽为双向八车道，设计时速120公里。",
+        "published": "2021-08-20",
+        "role": "项目边界与标准"
+      }
+    ]
+  },
+  {
+    "id": "P24",
+    "name": "沈海高速南村至青岛日照界段改扩建",
+    "scope": "平度南村枢纽互通—沈海高速青岛日照界",
+    "lanes": 8,
+    "published": "2025-12-31",
+    "opened": "2025-12-30",
+    "source_url": "http://gzw.qingdao.gov.cn/xwzx/qydt/202512/t20251231_10427912.shtml",
+    "quote": "12月30日，青岛城投集团投资建设的沈海高速南村至青岛日照界段改扩建工程主线通车，该项目的建成通车标志着胶东经济圈交通大动脉全面焕新，为青岛建设国际性综合交通枢纽城市注入强劲动能。",
+    "note": "",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "http://gzw.qingdao.gov.cn/xwzx/qydt/202512/t20251231_10427912.shtml",
+        "quote": "12月30日，青岛城投集团投资建设的沈海高速南村至青岛日照界段改扩建工程主线通车，该项目的建成通车标志着胶东经济圈交通大动脉全面焕新，为青岛建设国际性综合交通枢纽城市注入强劲动能。",
+        "published": "2025-12-31",
+        "role": "青岛国资委通车全文"
+      },
+      {
+        "source_url": "http://gzw.qingdao.gov.cn/xwzx/qydt/202512/t20251231_10427912.shtml",
+        "quote": "沈海高速南村至青岛日照界段改扩建工程起自平度南村枢纽互通，止于沈海青岛日照界，途径平度市、胶州市、西海岸新区，全长131.45公里，采用设计速度120公里/小时、双向八车道高速公路技术标准改扩建，采用“两侧拼宽为主，分离加宽为辅”加宽方式，工程概算总投资180.38亿元。",
+        "published": "2025-12-31",
+        "role": "边界和8车道"
+      }
+    ]
+  },
+  {
+    "id": "P25",
+    "name": "沈海高速两城至汾水段改扩建",
+    "scope": "山海天旅游度假区青岛日照界—岚山区绣针河大桥鲁苏界",
+    "lanes": 8,
+    "published": "2025-12-27",
+    "opened": "2025-12-26",
+    "source_url": "http://www.shandong.gov.cn/art/2025/12/27/art_97564_699174.html",
+    "quote": "记者从省交通运输厅获悉，12月26日，济南至微山高速济南至济宁新机场段、郓城至鄄城高速公路、东阿至阳谷高速公路、济宁至商丘高速公路嘉祥至金乡段、邹城至济宁公路、沈海高速两城至汾水段改扩建、德上高速公路临清高速连接线、德郓高速德州（德城）至高唐段等8个高速公路项目建成通车，全省高速公路新增里程超300公里，总里程达到9240公里。",
+    "note": "",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "http://www.shandong.gov.cn/art/2025/12/27/art_97564_699174.html",
+        "quote": "记者从省交通运输厅获悉，12月26日，济南至微山高速济南至济宁新机场段、郓城至鄄城高速公路、东阿至阳谷高速公路、济宁至商丘高速公路嘉祥至金乡段、邹城至济宁公路、沈海高速两城至汾水段改扩建、德上高速公路临清高速连接线、德郓高速德州（德城）至高唐段等8个高速公路项目建成通车，全省高速公路新增里程超300公里，总里程达到9240公里。",
+        "published": "2025-12-27",
+        "role": "省政府转载大众日报通车报道"
+      },
+      {
+        "source_url": "http://www.shandong.gov.cn/art/2025/12/27/art_97564_699174.html",
+        "quote": "沈海高速两汾段改扩建项目是国家高速公路网“纵二”线的组成部分，全长61.657公里，按照双向八车道高速公路技术标准，采用“两侧拼宽为主，局部单侧分离为辅”的方式进行改扩建，设计速度为120公里/小时。",
+        "published": "2025-12-27",
+        "role": "8车道标准"
+      },
+      {
+        "source_url": "http://jtysj.rizhao.gov.cn/art/2023/3/16/art_31782_10302116.html",
+        "quote": "沈海高速公路两城至汾水段是国家高速公路网“纵二”线的组成部分，起自山海天旅游度假区青岛日照界，止于岚山区绣针河大桥鲁苏界，全长61.7公里。",
+        "published": "2023-03-16",
+        "role": "日照交通运输局开工材料仅用于项目边界，不作通车证明"
+      }
+    ]
+  },
+  {
+    "id": "P26",
+    "name": "荣乌高速烟台枢纽至蓬莱枢纽改扩建",
+    "scope": "烟台枢纽（轸格庄立交）东约1.8公里—蓬莱枢纽互通",
+    "lanes": 8,
+    "published": "2026-07-28",
+    "opened": "2026-07-24",
+    "source_url": "https://www.penglai.gov.cn/col/col13638/art/2026/art_64e8325fde0d41329c6a29925fb03db5.html",
+    "quote": "日前，备受市民关注的荣乌高速烟台枢纽至蓬莱枢纽段改扩建工程传来喜讯，该路段完成改造于7月24日11点58分正式双向通车。",
+    "note": "取代P13/P14分段状态作为全线主线公告依据；匝道及服务区不能照搬主线8道。发布会自身为拟通车，已用7/28事后报道闭合通车证据。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "https://www.penglai.gov.cn/col/col13638/art/2026/art_64e8325fde0d41329c6a29925fb03db5.html",
+        "quote": "日前，备受市民关注的荣乌高速烟台枢纽至蓬莱枢纽段改扩建工程传来喜讯，该路段完成改造于7月24日11点58分正式双向通车。",
+        "published": "2026-07-28",
+        "role": "蓬莱区政府事后通车报道"
+      },
+      {
+        "source_url": "https://www.yantai.gov.cn/col/col50727/art/2026/art_0e80d0bae7b942a1a590c5f6ac9e0e93.html",
+        "quote": "项目主线全长61.2公里，由双向四车道改扩建为双向八车道。项目起点为烟台枢纽互通立交交叉点（轸格庄立交）东约1.8公里处，终点为蓬莱枢纽互通立交，途经高新区、莱山区、芝罘区、福山区、黄渤海新区、蓬莱区。",
+        "published": "2026-07-21",
+        "role": "烟台政府新闻发布会局长确认项目边界与8车道"
+      }
+    ]
+  },
+  {
+    "id": "P27",
+    "name": "长深高速青州至临沭段",
+    "scope": "青州市牛家庄—临沭鲁苏界",
+    "lanes": 6,
+    "published": "2013-01-21",
+    "opened": "2013-01-20",
+    "source_url": "https://qingdao.dzwww.com/xinwen/sdnews/201301/t20130121_7932333.htm",
+    "quote": "青临高速北起青州市牛家庄,途经潍坊、日照、临沂三个地级市,青州、临朐、沂水、沂南、莒县、莒南、河东、临沭8个县市区,在鲁苏界与临沂至连云港高速公路衔接,主线全长228.33公里。全线采用双向六车道高速公路标准建设,设计速度120公里/小时。",
+    "note": "全线双向六车道明确；通车日期由同篇首段确认。 历史通车标准；后续改扩建仍需逐段复查。 项目框按本地主线与相交枢纽包络修正，采用短线中点初配。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "https://qingdao.dzwww.com/xinwen/sdnews/201301/t20130121_7932333.htm",
+        "quote": "青临高速北起青州市牛家庄,途经潍坊、日照、临沂三个地级市,青州、临朐、沂水、沂南、莒县、莒南、河东、临沭8个县市区,在鲁苏界与临沂至连云港高速公路衔接,主线全长228.33公里。全线采用双向六车道高速公路标准建设,设计速度120公里/小时。",
+        "published": "2013-01-21",
+        "role": "历史已通车报道；须叠加后续改扩建核对"
+      }
+    ]
+  },
+  {
+    "id": "P28",
+    "name": "长深高速高青至广饶段",
+    "scope": "彭家枢纽—辛庄子枢纽",
+    "lanes": 4,
+    "published": "2019-12-04",
+    "opened": "2019-11-30",
+    "source_url": "http://news.iqilu.com/china/gedi/2019/1204/4388435.shtml",
+    "quote": "长深高速公路是国家高速公路网规划的“纵三”线，是贯通我国东部地区的南北大通道。高青至广饶段，西起淄博市高青县境内彭家枢纽互通，在高青境内与S29滨莱高速相接，高青境内1.895公里，全长54.4公里，双向四车道，设计速度120km/h。这是高青县第二条高速公路，这条高速公路的通车将为高青县通往胶东方向威海、烟台等地带来极大的方便。下一步，这条高速公路将继续向西接到济南高速公路会给高青县市民的出行带来更大的方便。",
+    "note": " 历史通车标准；后续改扩建仍需逐段复查。 项目框按本地主线与相交枢纽包络修正，采用短线中点初配。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "http://news.iqilu.com/china/gedi/2019/1204/4388435.shtml",
+        "quote": "长深高速公路是国家高速公路网规划的“纵三”线，是贯通我国东部地区的南北大通道。高青至广饶段，西起淄博市高青县境内彭家枢纽互通，在高青境内与S29滨莱高速相接，高青境内1.895公里，全长54.4公里，双向四车道，设计速度120km/h。这是高青县第二条高速公路，这条高速公路的通车将为高青县通往胶东方向威海、烟台等地带来极大的方便。下一步，这条高速公路将继续向西接到济南高速公路会给高青县市民的出行带来更大的方便。",
+        "published": "2019-12-04",
+        "role": "历史已通车报道；须叠加后续改扩建核对"
+      },
+      {
+        "source_url": "http://www.binzhou.gov.cn/art/2019/12/2/art_114214_10231704.html",
+        "quote": "长深高速高青至广饶段起于淄博市高青县唐坊镇，与既有滨莱高速通过新建彭家枢纽互通相接，依次穿越淄博市高青县、滨州市高新区和博兴县、东营市广饶县，止于广饶县丁庄镇，顺接既有的荣乌高速辛庄子枢纽互通。该项目路线与滨博高速和荣乌高速形成一条东西走向的高速通道，从滨州市区去往胶东方向可至少节省半个小时时间。项目概算投资45.92亿元，路线全长54.402公里，设计车速120公里/小时；路基宽度27米；设特大桥1座（小清河特大桥），大桥6座，中桥52座，互通式立交5处（其中枢纽立交2处），分离式立交11座（其中公铁立交2座），服务区2处（滨州高新区、广饶），管理分中心和养护工区各1处，收费站3处（庞家、陈户、广饶西）。项目于2017年4月正式开工建设，2019年11月30日建成通车。",
+        "published": "2019-12-02",
+        "role": "滨州市政府全文补充完整终点及里程"
+      }
+    ]
+  },
+  {
+    "id": "P29",
+    "name": "荣乌高速新河至辛庄子段",
+    "scope": "新河镇郭家埠村北—辛庄子枢纽",
+    "lanes": 4,
+    "published": "2008-09-29",
+    "opened": "2008-09-28",
+    "source_url": "https://news.sina.com.cn/o/2008-09-29/081714515896s.shtml",
+    "quote": "总投资 41.93亿元的荣乌高速公路新河至辛庄子段，自 2005年7 月开工建设，全线双向四车道，设计时速120公里，东接已建成的荣乌高速公路黄山馆至新河段和即墨至平度高速公路，西与东青高速公路相连，途经青岛、潍坊、东营，全长 106.28公里。该路在山东省“五纵连四横，一环绕山东”高等级公路网络中，既是“ 一环”又是“一横”的重要组成部分，它的建成通车，在山东半岛与环渤海经济区之间构筑了一条便捷、高效大通道，搭建起了沿线各市进京的“快速通道”，从青岛开车至北京将不必再绕行济南，将实现6小时直达。",
+    "note": " 历史通车标准；后续改扩建仍需逐段复查。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "https://news.sina.com.cn/o/2008-09-29/081714515896s.shtml",
+        "quote": "总投资 41.93亿元的荣乌高速公路新河至辛庄子段，自 2005年7 月开工建设，全线双向四车道，设计时速120公里，东接已建成的荣乌高速公路黄山馆至新河段和即墨至平度高速公路，西与东青高速公路相连，途经青岛、潍坊、东营，全长 106.28公里。该路在山东省“五纵连四横，一环绕山东”高等级公路网络中，既是“ 一环”又是“一横”的重要组成部分，它的建成通车，在山东半岛与环渤海经济区之间构筑了一条便捷、高效大通道，搭建起了沿线各市进京的“快速通道”，从青岛开车至北京将不必再绕行济南，将实现6小时直达。",
+        "published": "2008-09-29",
+        "role": "历史已通车报道；须叠加后续改扩建核对"
+      },
+      {
+        "source_url": "http://dongying.dzwww.com/dyxw/200809/t20080924_3976340.htm",
+        "quote": "据了解，新河至辛庄子段高速公路是国家重点公路建设规划的“十三纵十五横”中的荣成至乌海线在山东境内重要组成路段，同时在山东省“五纵连四横、一环绕山东”高等级公路网络中既是“一环”又是“一横”的重要组成部分。起点位于青岛市新河镇郭家埠村北，接已建成的黄山馆至新河高速公路和即墨至平度高速公路，终点在东营市广饶县辛庄子东设置高接高互通立交接至东青高速公路K46公里+100米处，全长106.28公里，其中青岛段6.93公里，潍坊段85.72公里，东营段13.63公里。双向四车道，路基宽度28米，设计行车速度120公里/小时，全线桥涵设计荷载采用公路-I级。本工程概算投资为41.93亿元人民币，其中东营段投资约4.81亿元。",
+        "published": "2008-09-24",
+        "role": "交工验收全文明确边界，不单独用作通车证据"
+      }
+    ]
+  },
+  {
+    "id": "P30",
+    "name": "荣乌高速荣成至文登段",
+    "scope": "荣成崂山办事处北S301—原S24威青南海收费站北",
+    "lanes": 4,
+    "published": "2015-12-29",
+    "opened": "2015-12-29",
+    "source_url": "https://www.dzwww.com/shandong/sdnews/201512/t20151229_13585367.htm",
+    "quote": "据市公路局荣文高速项目办工程部副部长纪洪杰介绍，荣文高速为双向四车道，设计车速为100公里/小时，全线设大桥7座、中桥10座、互通立交5处、分离立交11座。“我们在途中共设立4个收费站，分别是荣成收费站、荣成西收费站、文登南收费站和南海新港收费站。”纪洪杰说，其中荣成收费站的设计非常特别，蓄势待飞的天鹅造型加上四进九出的收费窗口，外形优雅大气又方便通行。",
+    "note": " 历史通车标准；后续改扩建仍需逐段复查。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "https://www.dzwww.com/shandong/sdnews/201512/t20151229_13585367.htm",
+        "quote": "据市公路局荣文高速项目办工程部副部长纪洪杰介绍，荣文高速为双向四车道，设计车速为100公里/小时，全线设大桥7座、中桥10座、互通立交5处、分离立交11座。“我们在途中共设立4个收费站，分别是荣成收费站、荣成西收费站、文登南收费站和南海新港收费站。”纪洪杰说，其中荣成收费站的设计非常特别，蓄势待飞的天鹅造型加上四进九出的收费窗口，外形优雅大气又方便通行。",
+        "published": "2015-12-29",
+        "role": "历史已通车报道；须叠加后续改扩建核对"
+      },
+      {
+        "source_url": "https://www.dzwww.com/shandong/sdnews/201512/t20151229_13585367.htm",
+        "quote": "荣文高速公路主线全长40.396公里，是国高网荣乌高速的起始路段，也是我省规划建设的“五纵四横一环八连”高速公路网中“一横”的重要组成部分。它东起荣成市崂山办事处北S301省道石烟线，向西经荣成滕家镇、大疃镇，文登高村镇、埠口港管委、张家产镇、侯家镇、宋村镇8个镇办后，在S24威青高速南海收费站北与其他高速公路相连。它的通车进一步完善了区域公路网布局，为沿线市民提供了直达、安全、经济、舒适的交通服务，进一步促进我市物流、旅游、客运等方面的发展。",
+        "published": "2015-12-29",
+        "role": "完整项目边界"
+      }
+    ]
+  },
+  {
+    "id": "P31",
+    "name": "日兰原日东高速竹园至曲阜段",
+    "scope": "费县竹园乡京沪高速—曲阜息陬乡大辛庄京福及曲菏高速",
+    "lanes": 4,
+    "published": "2003-08-27",
+    "opened": "2003-08-26",
+    "source_url": "https://www.dzwww.com/xinwen/shandongdongtai/xinxifabu/200308270566.htm",
+    "quote": "日东高速公路是我省“五纵连四横，一环绕山东”高等级公路网络建设的重要组成部分，是国道主干线京沪高速公路和京福高速公路的重要连接线。工程自１９９４年９月开工建设，其中，菏泽至东明段１９９８年９月竣工通车，日照至费县竹园段２０００年竣工通车，曲阜至菏泽段２００２年５月竣工通车。竹园至曲阜段２００１年４月开工建设，东起费县竹园乡，与京沪高速公路相连接，经费县、平邑、泗水、曲阜４个县（市）、１６个乡镇，西至曲阜市息陬乡大辛庄，同京福和曲菏高速公路相连接，全封闭、全立交，双向四车道，路基宽２６米，总投资２６・２８亿元。",
+    "note": "仅支持竹园—曲阜本段，不能把全文413公里一律填4。历史来源较老，待后续改扩建系统核查。 历史通车标准；后续改扩建仍需逐段复查。 项目框按本地主线与相交枢纽包络修正，采用短线中点初配。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "https://www.dzwww.com/xinwen/shandongdongtai/xinxifabu/200308270566.htm",
+        "quote": "日东高速公路是我省“五纵连四横，一环绕山东”高等级公路网络建设的重要组成部分，是国道主干线京沪高速公路和京福高速公路的重要连接线。工程自１９９４年９月开工建设，其中，菏泽至东明段１９９８年９月竣工通车，日照至费县竹园段２０００年竣工通车，曲阜至菏泽段２００２年５月竣工通车。竹园至曲阜段２００１年４月开工建设，东起费县竹园乡，与京沪高速公路相连接，经费县、平邑、泗水、曲阜４个县（市）、１６个乡镇，西至曲阜市息陬乡大辛庄，同京福和曲菏高速公路相连接，全封闭、全立交，双向四车道，路基宽２６米，总投资２６・２８亿元。",
+        "published": "2003-08-27",
+        "role": "历史已通车报道；须叠加后续改扩建核对"
+      }
+    ]
+  },
+  {
+    "id": "P32",
+    "name": "潍日高速潍城至日照段",
+    "scope": "潍城—日照（不包含滨海连接线）",
+    "lanes": 4,
+    "published": "2018-11-09",
+    "opened": "2018-11-01",
+    "source_url": "http://zzjt.zaozhuang.gov.cn/xydt/201811/t20181109_204206.html",
+    "quote": "，由山东高速集团投资建设的潍坊至日照高速公路潍城至日照段正式建成通车，比预计工期提前两个月。省交通运输厅党组书记、厅长江成，潍坊市政府市长田庆盈，日照市政府市长李永红，山东高速集团党委书记、董事长邹庆忠，省交通运输厅副厅长王其峰，潍坊市政府副市长王树华等参加潍日高速通车活动。潍日高速全长151.8公里，总投资113.7亿元，双向四车道，设计速度120公里/小时，途经潍坊市潍城区、昌乐县、安丘市、诸城市，日照市五莲县、东港区，是我省“九纵五横一环七射多连”高速公路网的“纵二线”，是山东半岛蓝色经济区新的交通大动脉。项目通车后将潍坊日照两地行车时间从原来的3小时缩短到1个半小时，结束了安丘、五莲境内无高速公路的历史。至此，今年计划建成通车的莘县至南乐、龙口至青岛公路龙口至莱西段、潍坊至日照三条高速公路已全部通车，全省高速公路通车里程突破6000公里，达到6057公里。",
+    "note": " 历史通车标准；后续改扩建仍需逐段复查。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "http://zzjt.zaozhuang.gov.cn/xydt/201811/t20181109_204206.html",
+        "quote": "，由山东高速集团投资建设的潍坊至日照高速公路潍城至日照段正式建成通车，比预计工期提前两个月。省交通运输厅党组书记、厅长江成，潍坊市政府市长田庆盈，日照市政府市长李永红，山东高速集团党委书记、董事长邹庆忠，省交通运输厅副厅长王其峰，潍坊市政府副市长王树华等参加潍日高速通车活动。潍日高速全长151.8公里，总投资113.7亿元，双向四车道，设计速度120公里/小时，途经潍坊市潍城区、昌乐县、安丘市、诸城市，日照市五莲县、东港区，是我省“九纵五横一环七射多连”高速公路网的“纵二线”，是山东半岛蓝色经济区新的交通大动脉。项目通车后将潍坊日照两地行车时间从原来的3小时缩短到1个半小时，结束了安丘、五莲境内无高速公路的历史。至此，今年计划建成通车的莘县至南乐、龙口至青岛公路龙口至莱西段、潍坊至日照三条高速公路已全部通车，全省高速公路通车里程突破6000公里，达到6057公里。",
+        "published": "2018-11-09",
+        "role": "历史已通车报道；须叠加后续改扩建核对"
+      }
+    ]
+  },
+  {
+    "id": "P33",
+    "name": "董梁高速新泰—宁阳—梁山",
+    "scope": "泰新新汶互通—河南台辉高速",
+    "lanes": 4,
+    "published": "2020-12-10",
+    "opened": "2020-10-31",
+    "source_url": "https://www.jining.gov.cn/art/2020/12/10/art_33476_2709318.html",
+    "quote": "主线全长170公里，概算总投资158.6亿元，双向四车道，设计速度120公里/小时。",
+    "note": "历史通车标准，后续改扩建仍需复查。 路线级默认仅填补同编号未匹配短线，显示为虚线；不替代桩号级核验。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "https://www.jining.gov.cn/art/2020/12/10/art_33476_2709318.html",
+        "quote": "主线全长170公里，概算总投资158.6亿元，双向四车道，设计速度120公里/小时。",
+        "published": "2020-12-10",
+        "role": "通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P34",
+    "name": "枣庄—菏泽高速",
+    "scope": "滕州北枢纽—菏泽南枢纽",
+    "lanes": 4,
+    "published": "2020-08-10",
+    "opened": "2020-08-10",
+    "source_url": "https://sdxw.iqilu.com/share/YS0yMS03MDI1NDI4.html",
+    "quote": "全长187.32公里，双向四车道。",
+    "note": "历史通车标准，后续改扩建仍需复查。 路线级默认仅填补同编号未匹配短线，显示为虚线；不替代桩号级核验。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "https://sdxw.iqilu.com/share/YS0yMS03MDI1NDI4.html",
+        "quote": "全长187.32公里，双向四车道。",
+        "published": "2020-08-10",
+        "role": "通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P35",
+    "name": "濮新高速菏泽段",
+    "scope": "鄄城—牡丹—鲁西新区—曹县66.9公里",
+    "lanes": 4,
+    "published": "2022-12-26",
+    "opened": "2022-12-25",
+    "source_url": "https://www.workercn.cn/c/2022-12-26/7682027.shtml",
+    "quote": "全长66.9公里，采用双向四车道高速公路标准建设，设计时速120公里/小时",
+    "note": "历史通车标准，后续改扩建仍需复查。 路线级默认仅填补同编号未匹配短线，显示为虚线；不替代桩号级核验。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "https://www.workercn.cn/c/2022-12-26/7682027.shtml",
+        "quote": "全长66.9公里，采用双向四车道高速公路标准建设，设计时速120公里/小时",
+        "published": "2022-12-26",
+        "role": "通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P36",
+    "name": "高唐—东阿高速",
+    "scope": "尹集枢纽（G20）—东阿南枢纽（G22）",
+    "lanes": 4,
+    "published": "2020-12-28",
+    "opened": "2020-12-26",
+    "source_url": "https://jtt.shandong.gov.cn/art/2020/12/28/art_12549_10222334.html",
+    "quote": "项目主线全长76.754公里，总投资69.09亿元，双向四车道，设计速度120公里/小时。",
+    "note": "历史通车标准，后续改扩建仍需复查。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "https://jtt.shandong.gov.cn/art/2020/12/28/art_12549_10222334.html",
+        "quote": "项目主线全长76.754公里，总投资69.09亿元，双向四车道，设计速度120公里/小时。",
+        "published": "2020-12-28",
+        "role": "通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P37",
+    "name": "微山县城连接线",
+    "scope": "微山城东北G104—薛城北京台高速9.6公里",
+    "lanes": 4,
+    "published": "2020-10-19",
+    "opened": "2020-10-18",
+    "source_url": "http://www.weishan.gov.cn/art/2020/10/19/art_28958_2682631.html",
+    "quote": "双向四车道，设计时速120km",
+    "note": "历史通车标准，后续改扩建仍需复查。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "http://www.weishan.gov.cn/art/2020/10/19/art_28958_2682631.html",
+        "quote": "双向四车道，设计时速120km",
+        "published": "2020-10-19",
+        "role": "通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P38",
+    "name": "青岛新机场高速主线",
+    "scope": "青银机场北枢纽—青兰河套枢纽24.187公里",
+    "lanes": 8,
+    "published": "2019-12-02",
+    "opened": "2019-11-30",
+    "source_url": "https://sd.dzwww.com/sdnews/201912/t20191202_19413732.htm",
+    "quote": "采用双向八车道高速公路技术标准",
+    "note": "历史通车标准，后续改扩建仍需复查。 路线级默认仅填补同编号未匹配短线，显示为虚线；不替代桩号级核验。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "https://sd.dzwww.com/sdnews/201912/t20191202_19413732.htm",
+        "quote": "采用双向八车道高速公路技术标准",
+        "published": "2019-12-02",
+        "role": "通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P39",
+    "name": "济徐高速济宁—鱼台",
+    "scope": "济宁—鱼台鲁苏界；不包含共线G35济南东平",
+    "lanes": 4,
+    "published": "2016-12-29",
+    "opened": "2016-12-28",
+    "source_url": "http://sd.dzwww.com/sdnews/201612/t20161229_15356377.htm",
+    "quote": "该项目建设标准为双向4车道,设计速度120公里/小时。",
+    "note": "历史通车标准，后续改扩建仍需复查。 原济徐济宁鱼台段现OSM标G0323济合高速；S33保留为东平济宁北段，不能混标。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "http://sd.dzwww.com/sdnews/201612/t20161229_15356377.htm",
+        "quote": "该项目建设标准为双向4车道,设计速度120公里/小时。",
+        "published": "2016-12-29",
+        "role": "通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P40",
+    "name": "德上高速巨野—单县鲁皖界",
+    "scope": "王官屯枢纽—鲁皖界116.202公里",
+    "lanes": 4,
+    "published": "2020-01-01",
+    "opened": "2019-12-31",
+    "source_url": "https://sjb.qlwb.com.cn/qlwb/content/20200101/ArticelP02002FM.htm",
+    "quote": "采用双向四车道高速公路标准。",
+    "note": "历史通车标准，后续改扩建仍需复查。 共线日兰改扩建区间不沿用原四车道，北端暂缩至北纬35.30度以南。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "https://sjb.qlwb.com.cn/qlwb/content/20200101/ArticelP02002FM.htm",
+        "quote": "采用双向四车道高速公路标准。",
+        "published": "2020-01-01",
+        "role": "通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P41",
+    "name": "济南大西环",
+    "scope": "二环线西环段103.9公里，禹城—齐河—长清",
+    "lanes": 6,
+    "published": "2023-07-13",
+    "opened": "2023-07-11",
+    "source_url": "http://www.sd.xinhuanet.com/20230713/e0f9c7c5d16b45abae352adfb6b95b91/c.html",
+    "quote": "采用双向六车道高速公路标准建设",
+    "note": "历史通车标准，后续改扩建仍需复查。 项目框按本地主线与相交枢纽包络修正，采用短线中点初配。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "http://www.sd.xinhuanet.com/20230713/e0f9c7c5d16b45abae352adfb6b95b91/c.html",
+        "quote": "采用双向六车道高速公路标准建设",
+        "published": "2023-07-13",
+        "role": "通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P42",
+    "name": "岚山港区疏港高速",
+    "scope": "岚山港疏港主线约13公里",
+    "lanes": 4,
+    "published": "2026-02-03",
+    "opened": "2026-02-02",
+    "source_url": "http://www.rizhao.gov.cn/art/2026/2/3/art_208352_10547335.html",
+    "quote": "采用双向四车道标准",
+    "note": "项目内部初配；不扩展到相邻连接线或改扩建区间。 路线级默认仅填补同编号未匹配短线，显示为虚线；不替代桩号级核验。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "http://www.rizhao.gov.cn/art/2026/2/3/art_208352_10547335.html",
+        "quote": "采用双向四车道标准",
+        "published": "2026-02-03",
+        "role": "通车全文中的项目标准"
+      }
+    ]
+  },
+  {
+    "id": "P43",
+    "name": "烟台西港区疏港高速",
+    "scope": "西港区疏港主线9.4公里",
+    "lanes": 4,
+    "published": "2012-01-10",
+    "opened": "2012-01-09",
+    "source_url": "https://yantai.dzwww.com/xinwen/ytxw/ytjj/jjtt/201201/t20120110_6858516.htm",
+    "quote": "双向四车道",
+    "note": "通车及车道原文已取得；按本地同编号项目主线包络初配，非桩号级核定。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "https://yantai.dzwww.com/xinwen/ytxw/ytjj/jjtt/201201/t20120110_6858516.htm",
+        "quote": "双向四车道",
+        "published": "2012-01-10",
+        "role": "通车全文中的项目标准"
+      }
+    ]
+  },
+  {
+    "id": "P44",
+    "name": "枣木高速东延",
+    "scope": "峄城峨山—市中齐村24.553公里",
+    "lanes": 4,
+    "published": "2019-11-30",
+    "opened": "2019-11-30",
+    "source_url": "http://zaozhuang.iqilu.com/zzyaowen/2019/1130/4386201.shtml",
+    "quote": "全线采用双向四车道高速公路标准",
+    "note": "通车及车道原文已取得；按本地同编号项目主线包络初配，非桩号级核定。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "http://zaozhuang.iqilu.com/zzyaowen/2019/1130/4386201.shtml",
+        "quote": "全线采用双向四车道高速公路标准",
+        "published": "2019-11-30",
+        "role": "通车全文中的项目标准"
+      }
+    ]
+  },
+  {
+    "id": "P45",
+    "name": "泰安—东平高速",
+    "scope": "肥城桃园青兰高速—东平老湖S246，40.628公里",
+    "lanes": 4,
+    "published": "2024-12-30",
+    "opened": "2024-12-28",
+    "source_url": "https://m.thepaper.cn/baijiahao_29804396",
+    "quote": "双向4车道",
+    "note": "通车及车道原文已取得；按本地同编号项目主线包络初配，非桩号级核定。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "https://m.thepaper.cn/baijiahao_29804396",
+        "quote": "双向4车道",
+        "published": "2024-12-30",
+        "role": "通车全文中的项目标准"
+      }
+    ]
+  },
+  {
+    "id": "P46",
+    "name": "德上德州—夏津",
+    "scope": "德州鲁冀界—夏津",
+    "lanes": 4,
+    "published": "2016-08-12",
+    "opened": "2016-08-12",
+    "source_url": "http://www.dzwww.com/shandong/sdnews/201608/t20160812_14766326.htm",
+    "quote": "采用双向四车道高速公路标准建设",
+    "note": "项目内部初配；不扩展到相邻连接线或改扩建区间。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "http://www.dzwww.com/shandong/sdnews/201608/t20160812_14766326.htm",
+        "quote": "采用双向四车道高速公路标准建设",
+        "published": "2016-08-12",
+        "role": "通车全文中的项目标准"
+      }
+    ]
+  },
+  {
+    "id": "P47",
+    "name": "德上夏津—聊城",
+    "scope": "夏津—聊城62.128公里",
+    "lanes": 4,
+    "published": "2016-08-08",
+    "opened": null,
+    "source_url": "https://dezhou.dzwww.com/qx/xj/201608/t20160808_14745130.html",
+    "quote": "建设标准为双向四车道",
+    "note": "项目内部初配；不扩展到相邻连接线或改扩建区间。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "https://dezhou.dzwww.com/qx/xj/201608/t20160808_14745130.html",
+        "quote": "建设标准为双向四车道",
+        "published": "2016-08-08",
+        "role": "通车全文中的项目标准"
+      }
+    ]
+  },
+  {
+    "id": "P48",
+    "name": "青兰高速东阿—聊城段",
+    "scope": "东阿—聊城，含泰安—东阿黄河桥通车衔接",
+    "lanes": 6,
+    "published": "2019-10-16",
+    "opened": "2019-10-16",
+    "source_url": "https://sd.dzwww.com/sdnews/201910/t20191016_19259464.htm",
+    "quote": "路线全长86.55公里，双向六车道，设计时速120公里/小时",
+    "note": "仅对应东阿—聊城及公告明确的桥梁衔接，不外推青兰山东其他段。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "https://sd.dzwww.com/sdnews/201910/t20191016_19259464.htm",
+        "quote": "路线全长86.55公里，双向六车道，设计时速120公里/小时",
+        "published": "2019-10-16",
+        "role": "通车全文中的项目标准"
+      },
+      {
+        "source_url": "https://jinan.dzwww.com/jryw/shandong/202408/t20240812_14637157.htm",
+        "quote": "国高青兰线东阿界至聊城（鲁冀界）段高速公路，路线全长86.55公里 ，设计速度120公里/小时，双向六车道",
+        "published": "2024-08-12",
+        "role": "大众网；中化学交建集团项目2024竣工验收"
+      }
+    ]
+  },
+  {
+    "id": "P49",
+    "name": "济广高速菏泽—曹县鲁豫界",
+    "scope": "菏泽牡丹区—曹县鲁豫界86.612公里",
+    "lanes": 4,
+    "published": "2008-11-29",
+    "opened": "2008-11-28",
+    "source_url": "https://www.dzwww.com/shandong/sdnews/200811/t20081129_4128922.htm",
+    "quote": "该项目设计为双向四车道，设计时速120公里",
+    "note": "历史通车标准；济菏改扩建仅到王官屯，南段不能随之赋八车道。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "https://www.dzwww.com/shandong/sdnews/200811/t20081129_4128922.htm",
+        "quote": "该项目设计为双向四车道，设计时速120公里",
+        "published": "2008-11-29",
+        "role": "通车全文中的项目标准"
+      }
+    ]
+  },
+  {
+    "id": "P50",
+    "name": "威青高速烟台段",
+    "scope": "乳山海阳界—莱阳即墨界70.5公里",
+    "lanes": 4,
+    "published": "2011-05-09",
+    "opened": "2011-05-08",
+    "source_url": "https://www.yantai.gov.cn/art/2011/5/9/art_12815_1102827.html",
+    "quote": "双向四车道，设计时速１００公里",
+    "note": "历史建设标准；2025/2026改造资料需另按实际通车状态更新。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "https://www.yantai.gov.cn/art/2011/5/9/art_12815_1102827.html",
+        "quote": "双向四车道，设计时速１００公里",
+        "published": "2011-05-09",
+        "role": "通车全文中的项目标准"
+      }
+    ]
+  },
+  {
+    "id": "P51",
+    "name": "秦滨高速埕口—沾化段",
+    "scope": "秦滨高速埕口（鲁冀界）至沾化段",
+    "lanes": 4,
+    "lanes_documented_options": null,
+    "lanes_planned": null,
+    "published": null,
+    "opened": "2020-11通车；2022-01省政府稿确认滨州段全线贯通",
+    "source_url": "https://www.thepaper.cn/newsDetail_forward_10050613",
+    "quote": "路线全长约60.7公里，采用双向四车道标准建设，设计时速120公里。",
+    "note": "既有项目通车建设标准；不外推到G0111其他省份或山东未覆盖区段。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://www.thepaper.cn/newsDetail_forward_10050613",
+        "quote": "路线全长约60.7公里，采用双向四车道标准建设，设计时速120公里。",
+        "published": null,
+        "role": "政务频道媒体原文，项目参建单位通车稿"
+      }
+    ]
+  },
+  {
+    "id": "P52",
+    "name": "济聊高速既有线",
+    "scope": "齐河晏城枢纽—聊城西枢纽，约92.7公里",
+    "lanes": 4,
+    "lanes_planned": 8,
+    "published": "1996年通车；改扩建尚未完成",
+    "opened": "1996年通车；改扩建尚未完成",
+    "source_url": "http://jtj.liaocheng.gov.cn/channel_l_sjtjjytabl_zxta_tadf6915/doc_6951fa1586d926e8c5359c63.html",
+    "quote": "我市到济南最直接的高速公路为济聊高速，济聊高速于1996年通车，为双向四车道，承担了东昌府区、临清、高唐、冠县等至济南的客货运输任务，已无法满足现有车流量，亟需扩容。",
+    "note": "四车道为既有线现状，八车道为改扩建目标；不能把目标值绘为当前车道数。 路线级默认仅填补同编号未匹配短线，显示为虚线；不替代桩号级核验。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://jtj.liaocheng.gov.cn/channel_l_sjtjjytabl_zxta_tadf6915/doc_6951fa1586d926e8c5359c63.html",
+        "quote": "我市到济南最直接的高速公路为济聊高速，济聊高速于1996年通车，为双向四车道，承担了东昌府区、临清、高唐、冠县等至济南的客货运输任务，已无法满足现有车流量，亟需扩容。",
+        "published": "1996年通车；改扩建尚未完成",
+        "role": "聊城市交通运输局政协提案答复（引用提案事实分析）"
+      }
+    ]
+  },
+  {
+    "id": "P53",
+    "name": "济东高速（东吕高速济南—东营段）",
+    "scope": "济阳西枢纽—东营利津皂坝头",
+    "lanes": 4,
+    "lanes_documented_options": null,
+    "lanes_planned": null,
+    "published": null,
+    "opened": "2016-12-28通车",
+    "source_url": "http://www.sohu.com/a/122941143_506173",
+    "quote": "该项目采用双向4车道高速公路标准，设计速度120公里/小时，是滨州、东营等地通往省会济南的交通捷径。",
+    "note": "只覆盖济东项目段，不外推东吕高速其他省份或其他项目段。 G2516与G2共线路段不套用济东新建四车道标准，由济乐六车道项目另行匹配。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://www.sohu.com/a/122941143_506173",
+        "quote": "该项目采用双向4车道高速公路标准，设计速度120公里/小时，是滨州、东营等地通往省会济南的交通捷径。",
+        "published": null,
+        "role": "大众网通车报道转载页"
+      }
+    ]
+  },
+  {
+    "id": "P54",
+    "name": "菏宝高速东明黄河公路大桥及连接线",
+    "scope": "东明—河南长垣衔接段，23.5公里",
+    "lanes": 4,
+    "published": "2019-08-26",
+    "opened": "2019-08-26",
+    "source_url": "https://www.sohu.com/a/336419873_308050",
+    "quote": "建设标准为双向四车道高速公路标准",
+    "note": "修正旧框误放到菏泽东侧；仅匹配黄河桥与连接线，不外推菏泽—东明。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_or_mainstream_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://www.sohu.com/a/336419873_308050",
+        "quote": "建设标准为双向四车道高速公路标准",
+        "published": "2019-08-26",
+        "role": "菏泽日报当日通车报道"
+      }
+    ]
+  },
+  {
+    "id": "P55",
+    "name": "滨德高速",
+    "scope": "沾化—德州—鲁冀界",
+    "lanes": 4,
+    "lanes_documented_options": null,
+    "lanes_planned": null,
+    "published": null,
+    "opened": "2012-06-10全线通车",
+    "source_url": "http://paper.dzwww.com/shrb/content/20120611/ArticelA02010MT.htm",
+    "quote": "滨德高速全线采用双向四车道高速公路标准建设。",
+    "note": "全线建设标准证据；后续局部改扩建仍需单独复核。 路线级默认仅填补同编号未匹配短线，显示为虚线；不替代桩号级核验。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://paper.dzwww.com/shrb/content/20120611/ArticelA02010MT.htm",
+        "quote": "滨德高速全线采用双向四车道高速公路标准建设。",
+        "published": null,
+        "role": "山东省公路局负责人接受生活日报采访"
+      }
+    ]
+  },
+  {
+    "id": "P56",
+    "name": "商河至高青高速",
+    "scope": "商河—高青主线约56.89公里",
+    "lanes": 6,
+    "lanes_documented_options": null,
+    "lanes_planned": null,
+    "published": null,
+    "opened": "2025-09-29青城西—大年陈段建成通车，高商项目全线通车运营",
+    "source_url": "http://news.e23.cn/jnnews/2025-09-30/2025093000050.html",
+    "quote": "高商项目是山东省“十二纵八横十一射”高速公路网中“横二”线的关键组成部分，采用双向六车道标准，路线全长约56.89公里，设计速度120公里/小时。",
+    "note": "高青—商河56.89公里主线6车道，现有OSM主线编号为S14；与西侧商河—平原4车道分别初配，不沿S24青商编号错误外推。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://news.e23.cn/jnnews/2025-09-30/2025093000050.html",
+        "quote": "高商项目是山东省“十二纵八横十一射”高速公路网中“横二”线的关键组成部分，采用双向六车道标准，路线全长约56.89公里，设计速度120公里/小时。",
+        "published": null,
+        "role": "舜网-济南时报（通车报道）"
+      }
+    ]
+  },
+  {
+    "id": "P57",
+    "name": "莱泰高速",
+    "scope": "莱芜—泰安，全线约58公里",
+    "lanes": 4,
+    "lanes_documented_options": null,
+    "lanes_planned": null,
+    "published": null,
+    "opened": "1993年通车；2020-06大修改造后双向通车",
+    "source_url": "http://taian.sdnews.com.cn/taxw/202006/t20200606_2743955.htm",
+    "quote": "莱泰高速是山东省高等级公路规划网“五纵四横一环八连”中的“一横”，是鲁中地区连接济南与泰安的重要通道之一，最早按平原微丘区双向四车道高速公路标准建设，于1993年通车。",
+    "note": "既有高速建设标准；大修改造不等于扩容。 路线级默认仅填补同编号未匹配短线，显示为虚线；不替代桩号级核验。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://taian.sdnews.com.cn/taxw/202006/t20200606_2743955.htm",
+        "quote": "莱泰高速是山东省高等级公路规划网“五纵四横一环八连”中的“一横”，是鲁中地区连接济南与泰安的重要通道之一，最早按平原微丘区双向四车道高速公路标准建设，于1993年通车。",
+        "published": null,
+        "role": "泰安频道/大众网"
+      }
+    ]
+  },
+  {
+    "id": "P58",
+    "name": "泰新高速徂徕—新泰改扩建",
+    "scope": "徂徕枢纽—新泰枢纽，约66.41公里",
+    "lanes": 4,
+    "lanes_documented_options": null,
+    "lanes_planned": 8,
+    "published": null,
+    "opened": "既有高速通车；2026-03启动半幅封闭施工，改扩建进行中",
+    "source_url": "http://news.e23.cn/shandong/2026-03-24/2026032400008.html",
+    "quote": "双向四车道拓至八车道 泰新高速“扩容”启幕",
+    "note": "施工期当前值按双向4车道；双向8车道为改扩建目标。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://news.e23.cn/shandong/2026-03-24/2026032400008.html",
+        "quote": "双向四车道拓至八车道 泰新高速“扩容”启幕",
+        "published": null,
+        "role": "舜网/济南日报"
+      }
+    ]
+  },
+  {
+    "id": "P59",
+    "name": "济徐高速济宁—鱼台段",
+    "scope": "济宁—鱼台—鲁苏界组成段",
+    "lanes": 4,
+    "lanes_documented_options": null,
+    "lanes_planned": null,
+    "published": null,
+    "opened": "2016-12-28济宁—鱼台段通车，济徐山东段全线贯通",
+    "source_url": "http://sd.dzwww.com/sdnews/201612/t20161229_15356377.htm",
+    "quote": "该项目建设标准为双向4车道,设计速度120公里/小时。",
+    "note": "仅覆盖济宁—鱼台项目段，不能外推济徐其他分段。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://sd.dzwww.com/sdnews/201612/t20161229_15356377.htm",
+        "quote": "该项目建设标准为双向4车道,设计速度120公里/小时。",
+        "published": null,
+        "role": "大众网/齐鲁晚报通车报道"
+      }
+    ]
+  },
+  {
+    "id": "P60",
+    "name": "济潍高速",
+    "scope": "济南章丘—潍坊峡山/昌邑主线",
+    "lanes": 6,
+    "lanes_documented_options": null,
+    "lanes_planned": null,
+    "published": null,
+    "opened": "2023-09-24正式通车，济青中线全线贯通",
+    "source_url": "http://news.sohu.com/a/723521732_121123857",
+    "quote": "济青中线济潍段是山东省“九纵五横一环七射多连”高速公路网中“射三”线，全长161.86公里，设计速度120公里/小时，双向六车道。",
+    "note": "六车道仅适用于济潍主线，不覆盖连接线。 路线级默认仅填补同编号未匹配短线，显示为虚线；不替代桩号级核验。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://news.sohu.com/a/723521732_121123857",
+        "quote": "济青中线济潍段是山东省“九纵五横一环七射多连”高速公路网中“射三”线，全长161.86公里，设计速度120公里/小时，双向六车道。",
+        "published": null,
+        "role": "搜狐新闻通车报道（转载项目新闻）"
+      }
+    ]
+  },
+  {
+    "id": "P61",
+    "name": "济泰高速",
+    "scope": "济南绕城二环东路南延—泰安徂徕主线",
+    "lanes": 6,
+    "lanes_documented_options": null,
+    "lanes_planned": null,
+    "published": null,
+    "opened": "2021项目报道；项目已建成运营",
+    "source_url": "https://jtt.shandong.gov.cn/art/2021/4/15/art_12549_10289475.html",
+    "quote": "济泰高速主线全长55.9km。主线采用双向六车道标准，设计行车速度120km/h。",
+    "note": "六车道适用于主线，不覆盖连接线和匝道。 路线级默认仅填补同编号未匹配短线，显示为虚线；不替代桩号级核验。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://jtt.shandong.gov.cn/art/2021/4/15/art_12549_10289475.html",
+        "quote": "济泰高速主线全长55.9km。主线采用双向六车道标准，设计行车速度120km/h。",
+        "published": null,
+        "role": "山东省交通运输厅媒体聚焦（齐鲁网·闪电新闻）"
+      }
+    ]
+  },
+  {
+    "id": "P62",
+    "name": "济微高速北段",
+    "scope": "济南长清—济宁新机场北段",
+    "lanes": 4,
+    "lanes_documented_options": null,
+    "lanes_planned": null,
+    "published": null,
+    "opened": "2025-12-26建成通车",
+    "source_url": "https://www.jining.gov.cn/art/2025/12/23/art_28553_2919828.html",
+    "quote": "济微高速北段主线全长88.6公里，设计速度120公里/小时，采用双向四车道高速公路标准建设，建成通车后，将极大地缩短济宁市与周边城市特别是省会济南的空间距离，加快建成全市“四纵四横”高速公路网，显著改善区域交通运输条件，届时我市以东部济微高速、南部济邹高速、西部济徐高速、北部日兰高速为骨架的主城区绕城高速网正式成型，进一步提升济宁交通枢纽地位，为我市加快构建都市区一体化快速交通体系，着力打造“淮海经济区中心城市、鲁南经济圈排头城市”，加快迈向万亿城市筑牢坚实交通根基。",
+    "note": "仅覆盖北段；不能把北段4车道外推到济微南段。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://www.jining.gov.cn/art/2025/12/23/art_28553_2919828.html",
+        "quote": "济微高速北段主线全长88.6公里，设计速度120公里/小时，采用双向四车道高速公路标准建设，建成通车后，将极大地缩短济宁市与周边城市特别是省会济南的空间距离，加快建成全市“四纵四横”高速公路网，显著改善区域交通运输条件，届时我市以东部济微高速、南部济邹高速、西部济徐高速、北部日兰高速为骨架的主城区绕城高速网正式成型，进一步提升济宁交通枢纽地位，为我市加快构建都市区一体化快速交通体系，着力打造“淮海经济区中心城市、鲁南经济圈排头城市”，加快迈向万亿城市筑牢坚实交通根基。",
+        "published": null,
+        "role": "济宁市人民政府部门动态"
+      },
+      {
+        "source_url": "https://www.jnnews.tv/jingxuan/2025/12-26/vrdn5gwk.html",
+        "quote": "12月26日，济微高速北段建成通车，以88.6公里的设计时速120公里的南北大动脉贯通鲁西鲁南。",
+        "published": "2025-12-26",
+        "role": "济宁新闻网通车报道"
+      }
+    ]
+  },
+  {
+    "id": "P63",
+    "name": "济南至高青高速项目标准",
+    "scope": "济南章丘—邹平—高青彭家枢纽",
+    "lanes": null,
+    "lanes_documented_options": [
+      4,
+      6
+    ],
+    "lanes_planned": null,
+    "published": null,
+    "opened": "2020环评批复；不能据此判断当前全线通车状态",
+    "source_url": "http://xxgk.sdein.gov.cn/zfwj/lhs/202004/t20200410_3068563.html",
+    "quote": "全线长93.31千米，采用双向四车道和双向六车道高速公路标准，设计速度120千米/小时。",
+    "note": "环评仅给出4/6车道混合标准，未给分段桩号；不对地图短线赋单值。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://xxgk.sdein.gov.cn/zfwj/lhs/202004/t20200410_3068563.html",
+        "quote": "全线长93.31千米，采用双向四车道和双向六车道高速公路标准，设计速度120千米/小时。",
+        "published": null,
+        "role": "山东省生态环境厅行政批复"
+      }
+    ]
+  },
+  {
+    "id": "P64",
+    "name": "青新高速（原即平高速）",
+    "scope": "夏庄立交—平度新河，107.696公里",
+    "lanes": 4,
+    "lanes_documented_options": null,
+    "lanes_planned": null,
+    "published": null,
+    "opened": "2007-12-31正式通车",
+    "source_url": "http://qdjt.qingdao.gov.cn/jtj_hyzt/jtj_hyzt4/202112/t20211214_4001555.shtml",
+    "quote": "青新高速公路（原即平高速）起于夏庄立交，止于平度新河，编号\nG2011\n，全长\n107.696\n公里\n，双向四车道",
+    "note": "青岛交通部门既有道路简介；局部后续改扩建变化仍需最新分段公告复核。 路线级默认仅填补同编号未匹配短线，显示为虚线；不替代桩号级核验。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://qdjt.qingdao.gov.cn/jtj_hyzt/jtj_hyzt4/202112/t20211214_4001555.shtml",
+        "quote": "青新高速公路（原即平高速）起于夏庄立交，止于平度新河，编号\nG2011\n，全长\n107.696\n公里\n，双向四车道",
+        "published": null,
+        "role": "青岛市交通运输局（青岛市高速公路管理处单位简介）"
+      }
+    ]
+  },
+  {
+    "id": "P65",
+    "name": "烟海高速",
+    "scope": "莱山轸格庄—海阳留格庄，全长80.375公里",
+    "lanes": 4,
+    "lanes_planned": null,
+    "published": "2012-11-23",
+    "opened": "2012-11-22",
+    "source_url": "https://yantai.dzwww.com/xinwen/ytxw/ytjj/201211/t20121123_7727850.htm",
+    "quote": "工程采用双向四车道高速公路建设标准，设计时速为100公里每小时，路基宽度为26米",
+    "note": "原文同段确认起终点和80.375公里；通车当日与威青高速连接收费文件尚未下达，车道标准用于主线。 按通车/运营全文核对；后续改扩建另按项目覆盖。 路线级默认仅填补同编号未匹配短线，显示为虚线；不替代桩号级核验。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_or_media_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://yantai.dzwww.com/xinwen/ytxw/ytjj/201211/t20121123_7727850.htm",
+        "quote": "工程采用双向四车道高速公路建设标准，设计时速为100公里每小时，路基宽度为26米",
+        "published": "2012-11-23",
+        "role": "通车新闻全文"
+      }
+    ]
+  },
+  {
+    "id": "P66",
+    "name": "S17 蓬栖高速",
+    "scope": "蓬莱—栖霞",
+    "lanes": 4,
+    "lanes_planned": null,
+    "published": "2017-12-26",
+    "opened": "2017-12-26",
+    "source_url": "https://www.dzwww.com/shandong/sdnews/201712/t20171226_16831424.htm",
+    "quote": "按双向四车道高速公路标准建设",
+    "note": "2017-12-26通车；仅按项目/历史标准记录，不能外推到整条同编号路线。 路线级默认仅填补同编号未匹配短线，显示为虚线；不替代桩号级核验。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "media_or_project_report",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://www.dzwww.com/shandong/sdnews/201712/t20171226_16831424.htm",
+        "quote": "按双向四车道高速公路标准建设",
+        "published": "2017-12-26",
+        "role": "media_or_project_report"
+      }
+    ]
+  },
+  {
+    "id": "P67",
+    "name": "龙青高速主线",
+    "scope": "龙口—莱西—城阳，主线约156.7公里",
+    "lanes": 4,
+    "lanes_planned": null,
+    "published": "2018-09-23",
+    "opened": "2018-09-28全线通车",
+    "source_url": "https://epaper.qingdaonews.com/html/qdzb/20180923/qdzb1220769.html",
+    "quote": "龙青高速公路全长156.7公里，双向四车道，设计时速120公里每小时，其中，龙青高速莱西至城阳的89.6公里路段，已于2015年9月6日正式通车",
+    "note": "该全文同时给出全线156.7公里历史标准；长度为四舍五入口径。 按通车/运营全文核对；后续改扩建另按项目覆盖。 路线级默认仅填补同编号未匹配短线，显示为虚线；不替代桩号级核验。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_or_media_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://epaper.qingdaonews.com/html/qdzb/20180923/qdzb1220769.html",
+        "quote": "龙青高速公路全长156.7公里，双向四车道，设计时速120公里每小时，其中，龙青高速莱西至城阳的89.6公里路段，已于2015年9月6日正式通车",
+        "published": "2018-09-23",
+        "role": "全线通车报道全文"
+      },
+      {
+        "source_url": "https://www.yantai.gov.cn/art/2018/9/28/art_43201_2890259.html",
+        "quote": "路线全长66.8公里，批复概算47.4亿元，采用高速公路标准设计，双向四车道，设计时速120公里",
+        "published": "2018-09-28",
+        "role": "烟台市政府交通运输局通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P68",
+    "name": "S28 莘南高速",
+    "scope": "莘县杨寨—德商高速十八里铺，18.267公里",
+    "lanes": 4,
+    "lanes_planned": null,
+    "published": "2018-09-28",
+    "opened": "2018-09-28",
+    "source_url": "https://www.sohu.com/a/256721314_99907385",
+    "quote": "双向四车道高速公路标准",
+    "note": "2018-09-28通车；仅按项目/历史标准记录，不能外推到整条同编号路线。 路线级默认仅填补同编号未匹配短线，显示为虚线；不替代桩号级核验。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "media_or_project_report",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://www.sohu.com/a/256721314_99907385",
+        "quote": "双向四车道高速公路标准",
+        "published": "2018-09-28",
+        "role": "media_or_project_report"
+      }
+    ]
+  },
+  {
+    "id": "P69",
+    "name": "荣潍莱西—涌泉改扩建段",
+    "scope": "莱西沈海枢纽—涌泉青银枢纽，六车道扩建104.74公里",
+    "lanes": 4,
+    "lanes_planned": 6,
+    "published": "2025-04-30",
+    "opened": "2020-09-30",
+    "source_url": "http://xxgk.sdein.gov.cn/zfwj/lhs/202504/t20250430_4819307.html",
+    "quote": "采取“两侧拼宽”形式扩建六车道段路线全长104.74千米",
+    "note": "4为历史既有基线，地图虚线显示；6为扩建目标，未取得6车道通车原文。施工期实际开放车道仍待补证，不表示当前现场确认。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_target_with_historical_baseline",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://xxgk.sdein.gov.cn/zfwj/lhs/202504/t20250430_4819307.html",
+        "quote": "采取“两侧拼宽”形式扩建六车道段路线全长104.74千米",
+        "published": "2025-04-30",
+        "role": "省生态环境厅目标批复"
+      },
+      {
+        "source_url": "https://baike.so.com/doc/5285180-5519499.html",
+        "quote": "技术标准为双向四车道高速公路",
+        "published": "2020-09-30",
+        "role": "secondary_reference"
+      }
+    ]
+  },
+  {
+    "id": "P70",
+    "name": "济微高速南段",
+    "scope": "兖州新驿毛辛庄—微山两城镇南，59.876公里",
+    "lanes": 4,
+    "lanes_documented_options": null,
+    "lanes_planned": null,
+    "published": null,
+    "opened": "2018项目公告；2022-10-28建成通车（现有济宁交通通车报道）",
+    "source_url": "http://jtt.shandong.gov.cn/art/2018/11/20/art_15843_2385239.html?tdsourcetag=s_pcqq_aiomsg",
+    "quote": "全线采用双向四车道高速公路标准，设计速度120km/h，路基宽度27.0米\n。",
+    "note": "仅覆盖济微南段，不能与北段或连接线混用。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://jtt.shandong.gov.cn/art/2018/11/20/art_15843_2385239.html?tdsourcetag=s_pcqq_aiomsg",
+        "quote": "全线采用双向四车道高速公路标准，设计速度120km/h，路基宽度27.0米\n。",
+        "published": null,
+        "role": "山东省交通运输厅通知公告"
+      }
+    ]
+  },
+  {
+    "id": "P71",
+    "name": "平邑至鄄城高速兖州—郓城段项目标准",
+    "scope": "济微高速—济广高速，47.64公里",
+    "lanes": null,
+    "lanes_documented_options": [
+      4
+    ],
+    "lanes_planned": null,
+    "published": null,
+    "opened": "2024-12启动建设；2025-05政府答复确认征拆推进，尚非全段已通车证据",
+    "source_url": "https://www.jining.gov.cn/art/2024/6/28/art_36563_2891763.html?xxgkhide=1",
+    "quote": "起点位于济微高速，终点位于济广高速，西接在建的郓鄄高速，全长\n47.64\n公里，双向\n4\n车道高速公路，设计速度\n120km/h\n。",
+    "note": "济宁市交通运输局清单只证明新建项目双向4车道标准，不代表当前已通车；不着色。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://www.jining.gov.cn/art/2024/6/28/art_36563_2891763.html?xxgkhide=1",
+        "quote": "起点位于济微高速，终点位于济广高速，西接在建的郓鄄高速，全长\n47.64\n公里，双向\n4\n车道高速公路，设计速度\n120km/h\n。",
+        "published": null,
+        "role": "济宁市政府公开清单，发布机构为济宁市交通运输局"
+      }
+    ]
+  },
+  {
+    "id": "P72",
+    "name": "济乐高速南延线（济南华山连接线）",
+    "scope": "崔寨西互通—华山互通主线12.668公里；跨黄河公铁两用桥",
+    "lanes": 4,
+    "lanes_planned": null,
+    "published": "2020-09-02",
+    "opened": "2020-09-01",
+    "source_url": "https://www.meiligaosu.com/h-nd-2629.html",
+    "quote": "项目主线全长12.668公里，采用双向四车道标准。",
+    "note": "S8105官方台账合计12.668公里，与项目总长一致。该来源为交通厅稿件转载，非独立二次核验；未宣称2026现场现状已核验。 路线级默认仅填补同编号未匹配短线，显示为虚线；不替代桩号级核验。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://www.meiligaosu.com/h-nd-2629.html",
+        "quote": "项目主线全长12.668公里，采用双向四车道标准。",
+        "published": "2020-09-02",
+        "role": "魅力高速网转载山东省交通运输厅通车全文；原响应gzip已解压保存"
+      }
+    ]
+  },
+  {
+    "id": "P73",
+    "name": "前湾疏港专用公路高架桥",
+    "scope": "前湾港西大门—胶州湾高速/同三线交汇处（管家楼收费站）4.3公里高架桥",
+    "lanes": 4,
+    "lanes_planned": null,
+    "published": "2003-11-01",
+    "opened": "2003-10-31",
+    "source_url": "http://news.sina.com.cn/o/2003-11-01/03321033826s.shtml",
+    "quote": "分左右两幅，双向四车道，桥面全宽23米。",
+    "note": "前湾港—管马楼4.3公里与官方S7601 0—4.3公里段名称和里程相符；只赋该分段，不外推S7601其余里程。 0—4.3公里端点待精确定位，暂不按整条S7601着色。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://news.sina.com.cn/o/2003-11-01/03321033826s.shtml",
+        "quote": "分左右两幅，双向四车道，桥面全宽23米。",
+        "published": "2003-11-01",
+        "role": "青岛日报历史通车全文，经新浪转载；公路现编号仍待确认"
+      }
+    ]
+  },
+  {
+    "id": "P74",
+    "name": "东营港疏港高速历史通车与编号沿革",
+    "scope": "东营港疏港高速；报道记载东港一级汽车专用公路全长60公里，后经改造升级并更名S7201",
+    "lanes": null,
+    "lanes_planned": null,
+    "published": "2021-04-26",
+    "opened": "2002（改造升级为高速，报道未给出正式高速开通日）",
+    "source_url": "https://hb.dzwww.com/p/8393613.html",
+    "quote": "该路于2002年经改造升级为高速公路（时称东营市东港高速公路），2006至2007年经大修改造后更名为S7201东营港疏港高速公路",
+    "note": "可用于确认路线历史和通行状态，不能填充车道数。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://hb.dzwww.com/p/8393613.html",
+        "quote": "该路于2002年经改造升级为高速公路（时称东营市东港高速公路），2006至2007年经大修改造后更名为S7201东营港疏港高速公路",
+        "published": "2021-04-26",
+        "role": "海报新闻历史沿革全文；未出现双向车道数"
+      }
+    ]
+  },
+  {
+    "id": "P75",
+    "name": "莱州港疏港公路",
+    "scope": "省道304—荣乌高速莱州港枢纽，约18.869至19.23公里；其中高速标准段约14.81至16.01公里",
+    "lanes": 4,
+    "lanes_planned": null,
+    "published": "2008-09-01",
+    "opened": "2012-01-09",
+    "source_url": "http://news.sohu.com/20080901/n259314232.shtml",
+    "quote": "线路全长19.23公里，路基宽26米，双向四车道，设计时速100公里",
+    "note": "批复将起点至铁路段列一级公路，但运营技术资料称全线采用双向四车道高速标准；地图主线按四车道，区间长度沿用现有几何台账。 按通车/运营全文核对；后续改扩建另按项目覆盖。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_or_media_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://news.sohu.com/20080901/n259314232.shtml",
+        "quote": "线路全长19.23公里，路基宽26米，双向四车道，设计时速100公里",
+        "published": "2008-09-01",
+        "role": "人民网转载发改委批复全文"
+      },
+      {
+        "source_url": "https://storage.it168.com/a2012/0614/1360/000001360197.shtml",
+        "quote": "烟台港莱州港区疏港公路全长18.869公里，采用双向四车道高速公路标准，设计时速100Km/h，路基宽度26米",
+        "published": "2012-06-14",
+        "role": "运营项目技术案例全文，佐证建成标准"
+      }
+    ]
+  },
+  {
+    "id": "P76",
+    "name": "青兰高速莱泰徂徕—泰山段",
+    "scope": "徂徕枢纽—泰山枢纽，20.76公里",
+    "lanes": 8,
+    "published": "2017-12-28",
+    "opened": "2020-12-18",
+    "source_url": "http://mapp.my0538.com/api/newdetail.aspx?action=noo&id=464823",
+    "quote": "其中自颜庄枢纽至徂徕枢纽采用双向六车道，路基宽度34.5米，徂徕枢纽至终点泰山枢纽段采用双向八车道，路基宽度采用42米。",
+    "note": "泰安日报明确6/8分界，齐鲁晚报通车全文闭合；徂徕按G22/S31主线交叉中心117.28012E初配，非桩号核定。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_or_mainstream_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://mapp.my0538.com/api/newdetail.aspx?action=noo&id=464823",
+        "quote": "其中自颜庄枢纽至徂徕枢纽采用双向六车道，路基宽度34.5米，徂徕枢纽至终点泰山枢纽段采用双向八车道，路基宽度采用42米。",
+        "published": "2017-12-28",
+        "role": "泰安日报 最泰安新闻客户端"
+      },
+      {
+        "source_url": "https://www.sohu.com/a/310004095_120069140",
+        "quote": "自颜庄枢纽至徂徕枢纽采用双向六车道，路基宽度34.5米；徂徕枢纽至终点泰山枢纽段采用双向八车道，路基宽度采用42米。",
+        "published": "2019-04-24",
+        "role": "施工监理中标公示转载"
+      },
+      {
+        "source_url": "http://taian.sdnews.com.cn/taxw/202006/t20200615_2747972.htm",
+        "quote": "其中，新建段43.1公里，采用双向六车道标准；改扩建段20.76公里，采用双向八车道标准。",
+        "published": "2020-06-15",
+        "role": "鲁网转载泰安日报"
+      },
+      {
+        "source_url": "https://sd.sina.com.cn/news/2020-12-19/detail-iiznezxs7724537.shtml",
+        "quote": "12月18日，青兰高速莱泰段改扩建工程正式通车。",
+        "published": "2020-12-19",
+        "role": "新浪转载齐鲁晚报"
+      }
+    ]
+  },
+  {
+    "id": "P77",
+    "name": "德郓高速德州—高唐段",
+    "scope": "德郓高速德州—高唐段",
+    "lanes": 4,
+    "lanes_planned": null,
+    "published": "2025-12-31",
+    "opened": "2025-12-31",
+    "source_url": "https://www.crecg.com/web/xwzx61/gsyw87/2025123115282272355/index.html",
+    "quote": "德（州）郓（城）高速德州至高唐段全长46.117公里，设计速度120公里，采用双向四车道高速公路标准建设。",
+    "note": "通车及车道原文已取得；按本地同编号项目主线包络初配，非桩号级核定。 项目框按本地主线与相交枢纽包络修正，采用短线中点初配。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "construction_company_report",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://www.crecg.com/web/xwzx61/gsyw87/2025123115282272355/index.html",
+        "quote": "德（州）郓（城）高速德州至高唐段全长46.117公里，设计速度120公里，采用双向四车道高速公路标准建设。",
+        "published": "2025-12-31",
+        "role": "construction_company_report"
+      }
+    ]
+  },
+  {
+    "id": "P79",
+    "name": "东阿—阳谷高速",
+    "scope": "东阿南枢纽—明堂枢纽，58.546公里",
+    "lanes": 4,
+    "published": "2025-12-27",
+    "opened": "2025-12-26",
+    "source_url": "http://www.shandong.gov.cn/art/2025/12/27/art_97564_699174.html",
+    "quote": "作为聊城历史上投资最大的单体工程项目，东阿至阳谷高速公路路线全长58.546公里，设计时速120公里，双向四车道高速。",
+    "note": "省政府通车全文替换原设计待补证记录；同编号S37东西向支段按主线包络初配。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://www.shandong.gov.cn/art/2025/12/27/art_97564_699174.html",
+        "quote": "作为聊城历史上投资最大的单体工程项目，东阿至阳谷高速公路路线全长58.546公里，设计时速120公里，双向四车道高速。",
+        "published": "2025-12-27",
+        "role": "省政府通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P80",
+    "name": "济邹高速（邹城—济宁）",
+    "scope": "邹城—济宁，61.9公里",
+    "lanes": 4,
+    "lanes_planned": null,
+    "published": "2025-12-26通车运营",
+    "opened": "2025-12-26通车运营",
+    "source_url": "https://jining.iqilu.com/jnyaowen/2025/1226/5879307.shtml",
+    "quote": "邹城至济宁高速公路，全长61.9公里，双向四车道，途经邹城、微山、太白湖新区、任城、嘉祥五个市县区 ，2023年3月开工，2025年12月建成通车。",
+    "note": "济邹项目与济商嘉祥—金乡段均被归入S24青商网络编号，按独立项目分段绘制；S24全线不得统一设为4或6。济邹终点应截在机场互通南侧约116.3215,35.2111，济商6车道主线约从116.3328,35.2331起，二者间互通连接线不能按任一主线车道数整段外推。 项目范围按济徐高速交叉枢纽以东—峄山枢纽主线包络初配，尚未完成枢纽/桩号精确匹配。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://jining.iqilu.com/jnyaowen/2025/1226/5879307.shtml",
+        "quote": "邹城至济宁高速公路，全长61.9公里，双向四车道，途经邹城、微山、太白湖新区、任城、嘉祥五个市县区 ，2023年3月开工，2025年12月建成通车。",
+        "published": "2025-12-26通车运营",
+        "role": "齐鲁网通车报道"
+      }
+    ]
+  },
+  {
+    "id": "P81",
+    "name": "郓城至鄄城高速（郓鄄高速）",
+    "scope": "梁山县—郓城县—鄄城县旧城镇张庄北侧，约73.881 km",
+    "lanes": 4,
+    "lanes_planned": null,
+    "published": null,
+    "opened": "2025-12-26零时正式并网运行",
+    "source_url": "http://www.shandong.gov.cn/art/2025/12/27/art_97564_699174.html",
+    "quote": "路线全长73.881公里，按双向四车道高速公路标准建设，设计时速120公里。",
+    "note": "通车及车道原文已取得；按本地同编号项目主线包络初配，非桩号级核定。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://www.shandong.gov.cn/art/2025/12/27/art_97564_699174.html",
+        "quote": "路线全长73.881公里，按双向四车道高速公路标准建设，设计时速120公里。",
+        "published": null,
+        "role": "山东省人民政府省内要闻（来源：大众日报，省交通运输厅通车信息）"
+      }
+    ]
+  },
+  {
+    "id": "P82",
+    "name": "济高高速唐王南—黄河乡段",
+    "scope": "唐王南互通—规划黄河乡枢纽，约28公里",
+    "lanes": 6,
+    "lanes_planned": null,
+    "published": "2022-09-30全线建成通车",
+    "opened": "2022-09-30全线建成通车",
+    "source_url": "http://jinan.dzwww.com/qcxw/202207/t20220718_10544080.htm",
+    "quote": "按照计划，济南至高青高速公路将于年内建成通车。",
+    "note": "S5分段按官方道路清单K27.24黄河街道后营村及OSM枢纽附近36.993N初配；不是精确桩号匹配。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://jinan.dzwww.com/qcxw/202207/t20220718_10544080.htm",
+        "quote": "按照计划，济南至高青高速公路将于年内建成通车。",
+        "published": "2022-09-30全线建成通车",
+        "role": "济南日报/大众网，收费批复报道"
+      }
+    ]
+  },
+  {
+    "id": "P83",
+    "name": "济高高速黄河乡—彭家段",
+    "scope": "规划黄河乡枢纽—彭家枢纽，约65.3公里",
+    "lanes": 4,
+    "lanes_planned": null,
+    "published": "2022-09-30全线建成通车",
+    "opened": "2022-09-30全线建成通车",
+    "source_url": "http://jinan.dzwww.com/qcxw/202207/t20220718_10544080.htm",
+    "quote": "按照计划，济南至高青高速公路将于年内建成通车。",
+    "note": "S5分段按官方道路清单K27.24黄河街道后营村及OSM枢纽附近36.993N初配；不是精确桩号匹配。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://jinan.dzwww.com/qcxw/202207/t20220718_10544080.htm",
+        "quote": "按照计划，济南至高青高速公路将于年内建成通车。",
+        "published": "2022-09-30全线建成通车",
+        "role": "济南日报/大众网，收费批复报道"
+      }
+    ]
+  },
+  {
+    "id": "P84",
+    "name": "济商高速嘉祥—金乡段（青商高速网络分段）",
+    "scope": "K416+990—K457+070，主线约45.076公里",
+    "lanes": 6,
+    "lanes_planned": null,
+    "published": "2025-12-26通车运营",
+    "opened": "2025-12-26通车运营",
+    "source_url": "https://jining.iqilu.com/jnyaowen/2025/1218/5877071.shtml",
+    "quote": "双向六车道宽阔平坦！",
+    "note": "仅覆盖S24青商网络中的济商嘉祥—金乡项目段，不能外推到济邹、高商或青商其他路段。 OSM范围按济徐高速交叉枢纽以西—金乡南主线走廊保守初配，仍需桩号级闭合。 项目框按本地主线与相交枢纽包络修正，采用短线中点初配。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://jining.iqilu.com/jnyaowen/2025/1218/5877071.shtml",
+        "quote": "双向六车道宽阔平坦！",
+        "published": "2025-12-26通车运营",
+        "role": "齐鲁网项目报道"
+      }
+    ]
+  },
+  {
+    "id": "P85",
+    "name": "胶州湾大桥",
+    "scope": "青岛李村河口—黄岛龙泉王家，海上主线约26.737公里（养护项目全长28.88公里）",
+    "lanes": 6,
+    "lanes_planned": null,
+    "published": "2024-06-25",
+    "opened": "2011-06-30",
+    "source_url": "http://gzw.shandong.gov.cn/articles/ch04565/202406/fe8b87d8-fc27-4a34-b9cd-8c021c22b7f1.shtml",
+    "quote": "双向六车道高速公路兼城市快速路八车道的布局",
+    "note": "高速公路车道按六车道记录；原文所称城市快速路八车道是兼容布局，不能按八车道绘制高速主线。 按通车/运营全文核对；后续改扩建另按项目覆盖。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_or_media_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://gzw.shandong.gov.cn/articles/ch04565/202406/fe8b87d8-fc27-4a34-b9cd-8c021c22b7f1.shtml",
+        "quote": "双向六车道高速公路兼城市快速路八车道的布局",
+        "published": "2024-06-25",
+        "role": "山东省国资委转载运营回顾"
+      }
+    ]
+  },
+  {
+    "id": "P86",
+    "name": "日照港石臼港区疏港高速",
+    "scope": "日照港七号门—沈海高速，约13.6公里",
+    "lanes": 6,
+    "lanes_planned": null,
+    "published": "2016-11-17",
+    "opened": "2011-11-26",
+    "source_url": "https://rizhao.dzwww.com/rzxw/201611/t20161117_15148115.html",
+    "quote": "全线按照双向六车道标准建设",
+    "note": "日照大众网2016收费批复报道全文确认2011年11月已通车和全线六车道；具体2011-11-26通车仪式日期来自百科。半岛都市报2011项目报道交叉验证全线六车道。 按通车/运营全文核对；后续改扩建另按项目覆盖。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_or_media_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://rizhao.dzwww.com/rzxw/201611/t20161117_15148115.html",
+        "quote": "全线按照双向六车道标准建设",
+        "published": "2016-11-17",
+        "role": "日照大众网转载省政府收费批复报道，运营状态全文"
+      },
+      {
+        "source_url": "http://news.bandao.cn/news_html/201108/20110803/news_20110803_1494436.shtml",
+        "quote": "该工程采用双向六车道高速公路标准建设",
+        "published": "2011-08-03",
+        "role": "半岛都市报施工报道，引用日照市公路局项目资料"
+      }
+    ]
+  },
+  {
+    "id": "P87",
+    "name": "沾化至临淄高速",
+    "scope": "沾化枢纽—青银高速淄博东枢纽，107.584公里",
+    "lanes": 6,
+    "lanes_planned": null,
+    "published": "2022-12-09",
+    "opened": "2022-12-09",
+    "source_url": "https://news.e23.cn/shandong/2022-12-09/2022C0900252.html",
+    "quote": "沾临项目起于秦滨高速和荣乌高速相交的沾化枢纽立交，途经滨州市沾化区、滨城区、博兴县和淄博市桓台县、高新区，终点与青银高速相交，全长107.584公里，概算投资195.6亿元，双向六车道，设计速度120公里/小时。",
+    "note": "通车全文明确双向六车道；与临淄—临沂项目分别记录。空间分界按青银高速交叉枢纽初配。 路线级默认仅填补同编号未匹配短线，显示为虚线；不替代桩号级核验。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "media_opening_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://news.e23.cn/shandong/2022-12-09/2022C0900252.html",
+        "quote": "沾临项目起于秦滨高速和荣乌高速相交的沾化枢纽立交，途经滨州市沾化区、滨城区、博兴县和淄博市桓台县、高新区，终点与青银高速相交，全长107.584公里，概算投资195.6亿元，双向六车道，设计速度120公里/小时。",
+        "published": "2022-12-09",
+        "role": "海报新闻通车全文/舜网转载"
+      }
+    ]
+  },
+  {
+    "id": "P88",
+    "name": "青银高速齐河—夏津",
+    "scope": "齐河晏城镇京台高速交点—夏津鲁冀界，88.388公里",
+    "lanes": 4,
+    "lanes_planned": null,
+    "published": "2005-12-18",
+    "opened": "2005-12-17",
+    "source_url": "https://yantai.dzwww.com/cj/cjsl/200512/t20051218_1297348.htm",
+    "quote": "全长88.388公里，总投资22.62亿元，设计标准双向四车道高速公路；路基宽28米，设计时速为120公里。",
+    "note": "通车全文明确双向四车道；2025改扩建环评检索未取得可采正文，未把目标当现状。仅覆盖齐河—夏津项目。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "media_opening_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://yantai.dzwww.com/cj/cjsl/200512/t20051218_1297348.htm",
+        "quote": "全长88.388公里，总投资22.62亿元，设计标准双向四车道高速公路；路基宽28米，设计时速为120公里。",
+        "published": "2005-12-18",
+        "role": "大众网通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P89",
+    "name": "日兰高速曲阜—王官屯既有段",
+    "scope": "曲菏项目曲阜—巨野王官屯；排除后续八车道改扩建段",
+    "lanes": 4,
+    "lanes_planned": null,
+    "published": "2002-05-24",
+    "opened": "2002-05",
+    "source_url": "http://news.sina.com.cn/c/2002-05-24/1535585154.html",
+    "quote": "日照到东明高速公路曲阜至菏泽段是我省公路网主框架“三纵、三横、一环”中南部大动脉的重要组成部分，是国道主干线同三高速公里和京沪高速公路的重要连接线，在曲阜和京福高速形成十字交叉，曲菏高速公路全长148・2公里，途经曲阜、兖州、济宁任城区、 汶上、嘉祥、巨野、郓城、菏泽牡丹区8个县（市、区）30多个乡镇，路基全宽28米，双向4车道，工程总投资37・3亿元。",
+    "note": "曲菏项目双向4车道基线；王官屯以西后续改扩建8车道另见P23，不整线默认。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "media_opening_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://news.sina.com.cn/c/2002-05-24/1535585154.html",
+        "quote": "日照到东明高速公路曲阜至菏泽段是我省公路网主框架“三纵、三横、一环”中南部大动脉的重要组成部分，是国道主干线同三高速公里和京沪高速公路的重要连接线，在曲阜和京福高速形成十字交叉，曲菏高速公路全长148・2公里，途经曲阜、兖州、济宁任城区、 汶上、嘉祥、巨野、郓城、菏泽牡丹区8个县（市、区）30多个乡镇，路基全宽28米，双向4车道，工程总投资37・3亿元。",
+        "published": "2002-05-24",
+        "role": "齐鲁晚报交通部门建设标准全文"
+      },
+      {
+        "source_url": "http://news.sina.com.cn/s/2003-08-27/0947642927s.shtml",
+        "quote": "其中菏泽到东明段1998年9月建成通车，日照到竹园段2000年建成通车，曲阜到菏泽段2002年5月竣工 通车。",
+        "published": "2003-08-27",
+        "role": "齐鲁晚报全线通车回顾"
+      }
+    ]
+  },
+  {
+    "id": "P90",
+    "name": "日兰高速大庄—竹园改扩建",
+    "scope": "长深高速大庄枢纽—京沪高速竹园枢纽，38.161公里",
+    "lanes": 4,
+    "lanes_planned": 8,
+    "published": "2024-11-30",
+    "opened": "既有线已通车；2024-11改扩建开工",
+    "source_url": "https://www.linyi.gov.cn/info/9315/387705.htm",
+    "quote": "本次改扩建工程，主要是大庄枢纽至竹园枢纽段由双向四车道改扩建成双向八车道，其中临沂段全长37.1公里，途经兰山区、河东区、沂南县，是我市“五纵五横”高速公路网的重要组成部分。",
+    "note": "政府原文明确四改八；地图按既有4车道基线，8车道仅是改扩建目标，施工保通实际布置待现场确认。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://www.linyi.gov.cn/info/9315/387705.htm",
+        "quote": "本次改扩建工程，主要是大庄枢纽至竹园枢纽段由双向四车道改扩建成双向八车道，其中临沂段全长37.1公里，途经兰山区、河东区、沂南县，是我市“五纵五横”高速公路网的重要组成部分。",
+        "published": "2024-11-30",
+        "role": "临沂市政府建设动员全文"
+      }
+    ]
+  },
+  {
+    "id": "P91",
+    "name": "滨台高速彭家—淄博西改扩建",
+    "scope": "彭家枢纽—淄博西枢纽，37.698公里",
+    "lanes": 4,
+    "lanes_planned": 8,
+    "published": "2026-09-14",
+    "opened": "既有线已通车；2026-09改扩建机电招标",
+    "source_url": "https://jtt.shandong.gov.cn/jssc/homeprojectinfo/gonggaomingxi/3294",
+    "quote": "3.滨台高速彭家枢纽至淄博西枢纽段改扩建工程（简称：滨台）：项目全长37.698公里，主线采取两侧拼宽的方式，将原双向4车道高速公路改扩建为双向8车道高速公路。",
+    "note": "2026交通厅招标明示原双向4改8；当前按既有4车道基线，不把目标8当通车值。两端枢纽范围仍初配。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://jtt.shandong.gov.cn/jssc/homeprojectinfo/gonggaomingxi/3294",
+        "quote": "3.滨台高速彭家枢纽至淄博西枢纽段改扩建工程（简称：滨台）：项目全长37.698公里，主线采取两侧拼宽的方式，将原双向4车道高速公路改扩建为双向8车道高速公路。",
+        "published": "2026-09-14",
+        "role": "山东省交通运输厅建设市场平台2026招标全文"
+      }
+    ]
+  },
+  {
+    "id": "P92",
+    "name": "长深高速大高—彭家改扩建",
+    "scope": "大高互通北约2.6公里—彭家枢纽，51.06公里",
+    "lanes": 4,
+    "lanes_planned": 8,
+    "published": "2026-09-14",
+    "opened": "既有线已通车；2026-09改扩建机电招标",
+    "source_url": "https://jtt.shandong.gov.cn/jssc/homeprojectinfo/gonggaomingxi/3294",
+    "quote": "4.长深高速大高至彭家枢纽段改扩建工程（简称：长深）：项目全长51.06公里，主线采取两侧拼宽的方式，将原双向4车道高速公路改扩建为双向8车道高速公路，全线设特大桥 1 座、大桥 2座、中桥 8 座、小桥5座；互通立交 8 处、分离立交 10 处；服务区 1 处、养护工区 1 处；监控通信分中心 1 处、桥梁监控通信站 1 处。",
+    "note": "2026交通厅招标明示原双向4改8；当前按既有4车道基线，避免与东青8车道或G18共线其他项目混用。 项目框按本地主线与相交枢纽包络修正，采用短线中点初配。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://jtt.shandong.gov.cn/jssc/homeprojectinfo/gonggaomingxi/3294",
+        "quote": "4.长深高速大高至彭家枢纽段改扩建工程（简称：长深）：项目全长51.06公里，主线采取两侧拼宽的方式，将原双向4车道高速公路改扩建为双向8车道高速公路，全线设特大桥 1 座、大桥 2座、中桥 8 座、小桥5座；互通立交 8 处、分离立交 10 处；服务区 1 处、养护工区 1 处；监控通信分中心 1 处、桥梁监控通信站 1 处。",
+        "published": "2026-09-14",
+        "role": "山东省交通运输厅建设市场平台2026招标全文"
+      }
+    ]
+  },
+  {
+    "id": "P93",
+    "name": "京沪高速济南—乐陵段",
+    "scope": "鲁冀界—济南北青银高速交点，主线115公里",
+    "lanes": 6,
+    "lanes_planned": null,
+    "published": "2015-01-06",
+    "opened": "2015-01-01",
+    "source_url": "https://www.163.com/news/article/AF95E32H00014SEH.html",
+    "quote": "济乐高速公路主线全长115公里，按照双向6车道、时速120公里标准设计。",
+    "note": "通车全文明确主线6车道；不外推济南绕城8车道、济莱段或莱临8车道项目。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_repost_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://www.163.com/news/article/AF95E32H00014SEH.html",
+        "quote": "济乐高速公路主线全长115公里，按照双向6车道、时速120公里标准设计。",
+        "published": "2015-01-06",
+        "role": "交通运输部通车报道转载全文"
+      }
+    ]
+  },
+  {
+    "id": "P94",
+    "name": "德上高速聊城—范县段",
+    "scope": "聊城西枢纽—鲁豫界，68.942公里",
+    "lanes": 4,
+    "published": "2015-11-18",
+    "opened": "2015-11-16",
+    "source_url": "https://w.dzwww.com/p/271346.html",
+    "quote": "全长68.942公里，采用双向四车道高速公路标准建设，设计速度120公里/小时。",
+    "note": "按通车全文主线包络初配；仅省内几何，不外推河南省内或共线改扩建段。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://w.dzwww.com/p/271346.html",
+        "quote": "全长68.942公里，采用双向四车道高速公路标准建设，设计速度120公里/小时。",
+        "published": "2015-11-18",
+        "role": "大众网通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P95",
+    "name": "德上高速鄄城—菏泽段",
+    "scope": "鄄城李进士堂以北—日东高速，44.646公里",
+    "lanes": 4,
+    "published": "2015-12-28",
+    "opened": "2015-12-28",
+    "source_url": "https://jinan.dzwww.com/jryw/shandong/201512/t20151228_13581317.htm",
+    "quote": "鄄城至菏泽高速公路全长44.646公里，双向四车道，设计行车时速120公里/小时，投资总额25.87亿元。",
+    "note": "按项目主线包络初配；排除日兰共线段。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://jinan.dzwww.com/jryw/shandong/201512/t20151228_13581317.htm",
+        "quote": "鄄城至菏泽高速公路全长44.646公里，双向四车道，设计行车时速120公里/小时，投资总额25.87亿元。",
+        "published": "2015-12-28",
+        "role": "大众网山东高速集团通车报道"
+      }
+    ]
+  },
+  {
+    "id": "P96",
+    "name": "东吕高速高唐—临清段（高邢高速）",
+    "scope": "高唐张唐村西青银高速—临清鲁冀界漳卫运河，46.123公里",
+    "lanes": 4,
+    "published": "2012-06-19",
+    "opened": "2012-06-18",
+    "source_url": "https://news.sina.com.cn/o/2012-06-19/041924615421.shtml",
+    "quote": "全线采用双向四车道高速公路标准建设，路基宽度26米，设计时速100公里。",
+    "note": "按项目包络初配；不外推高唐以东青银或京沪共线路段。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://news.sina.com.cn/o/2012-06-19/041924615421.shtml",
+        "quote": "全线采用双向四车道高速公路标准建设，路基宽度26米，设计时速100公里。",
+        "published": "2012-06-19",
+        "role": "济南时报通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P97",
+    "name": "高武高速商河—平原段",
+    "scope": "商河张坊镇—平原京台高速红庙村，57.267公里",
+    "lanes": 4,
+    "published": "2025-05-06",
+    "opened": "2025-11-28",
+    "source_url": "http://jtysj.dezhou.gov.cn/n70219808/n70219821/c93717116/content.html",
+    "quote": "高青至武城高速公路商河至平原段项目起于济南市商河县张坊镇，止于红庙村西北侧，路线全长57.267公里，采用双向四车道高速公路标准建设，设计速度120公里/小时。",
+    "note": "交通局车道标准与当日通车全文交叉核对；以张坊京沪枢纽约117.0847E分段初配，非桩号级核定。 项目框按本地主线与相交枢纽包络修正，采用短线中点初配。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://jtysj.dezhou.gov.cn/n70219808/n70219821/c93717116/content.html",
+        "quote": "高青至武城高速公路商河至平原段项目起于济南市商河县张坊镇，止于红庙村西北侧，路线全长57.267公里，采用双向四车道高速公路标准建设，设计速度120公里/小时。",
+        "published": "2025-05-06",
+        "role": "德州市交通运输局收费站公示车道标准"
+      },
+      {
+        "source_url": "https://dezhou.iqilu.com/dzminsheng/2025/1128/5871366.shtml",
+        "quote": "11月28日，高青至武城高速公路商河至平原段正式建成通车。",
+        "published": "2025-11-28",
+        "role": "闪电新闻当日通车报道"
+      }
+    ]
+  },
+  {
+    "id": "P98",
+    "name": "青兰高速济青南线青岛—莱芜段",
+    "scope": "环胶州湾高速接口—莱芜枢纽；原济青南线东段",
+    "lanes": 6,
+    "published": "2010-12-31",
+    "opened": "2007-12（运营回顾原文）",
+    "source_url": "https://www.dzwww.com/huati/jqgs/",
+    "quote": "2007年12月，全长307公里、总投资162亿元、按双向六车道高标准设计的济青南线通车了",
+    "note": "通车运营回顾与建设标准交叉核对为6车道；不外推胶州湾环线、大桥或莱泰改扩建。京沪共线扩容段按莱临8车道优先。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://www.dzwww.com/huati/jqgs/",
+        "quote": "2007年12月，全长307公里、总投资162亿元、按双向六车道高标准设计的济青南线通车了",
+        "published": "2010-12-31",
+        "role": "大众网运营回顾全文"
+      },
+      {
+        "source_url": "https://www.dzwww.com/shandong/sdnews/200503/t20050327_1010173.html",
+        "quote": "全线为双向六车道，总投资162亿元",
+        "published": "2005-03-27",
+        "role": "大众网原建设标准"
+      }
+    ]
+  },
+  {
+    "id": "P99",
+    "name": "济商高速菏泽段（成武—曹县）",
+    "scope": "成武白浮图镇李庄村东—曹县陈庄村东仵楼南枢纽，65.651公里",
+    "lanes": 6,
+    "published": "2026-08-04",
+    "opened": "2026-07-31",
+    "source_url": "https://jtyst.shanxi.gov.cn/jtzx/qgyw1/202608/t20260804_10190487.shtml",
+    "quote": "主线全长65.651公里，采用双向六车道高速公路技术标准，设计时速120公里",
+    "note": "正文明确7月31日通车，修正候选摘要7月30日；与嘉祥—金乡6车道同值分段匹配，不外推济邹4。 项目框按本地主线与相交枢纽包络修正，采用短线中点初配。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://jtyst.shanxi.gov.cn/jtzx/qgyw1/202608/t20260804_10190487.shtml",
+        "quote": "主线全长65.651公里，采用双向六车道高速公路技术标准，设计时速120公里",
+        "published": "2026-08-04",
+        "role": "山西交通厅转载中国公路通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P100",
+    "name": "荣潍高速文登—莱阳段",
+    "scope": "文登西枢纽—莱阳西，133.6公里",
+    "lanes": 4,
+    "published": "2020-09-27",
+    "opened": "2020-09-30",
+    "source_url": "https://sd.dzwww.com/sdnews/202009/t20200927_6701834.htm",
+    "quote": "主线全长133.6公里，概算总投资129.1亿元，双向四车道，设计速度100公里/小时。",
+    "note": "交工标准与通车全文交叉核对；不把G18荣文共线或莱潍扩容混入文莱项目。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://sd.dzwww.com/sdnews/202009/t20200927_6701834.htm",
+        "quote": "主线全长133.6公里，概算总投资129.1亿元，双向四车道，设计速度100公里/小时。",
+        "published": "2020-09-27",
+        "role": "大众日报交工验收标准"
+      },
+      {
+        "source_url": "https://news.sina.com.cn/o/2020-09-30/doc-iivhuipp7385419.shtml",
+        "quote": "文登至莱阳高速公路",
+        "published": "2020-09-30",
+        "role": "大众日报当日通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P101",
+    "name": "荣潍涌泉—坊子四车道改建段",
+    "scope": "莱潍改扩建两端保持四车道区间，合计32.534公里",
+    "lanes": 4,
+    "lanes_planned": 4,
+    "published": "2024-12-19",
+    "opened": "既有高速已运营；改建在施工",
+    "source_url": "https://jtt.shandong.gov.cn/art/2024/12/19/art_15690_10322469.html",
+    "quote": "在现有双向四车道高速公路技术标准的基础上",
+    "note": "两端维持4；项目边界按本地莱西与涌泉枢纽初配，非桩号核定。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://jtt.shandong.gov.cn/art/2024/12/19/art_15690_10322469.html",
+        "quote": "在现有双向四车道高速公路技术标准的基础上",
+        "published": "2024-12-19",
+        "role": "交通厅既有标准及改扩建启动全文"
+      },
+      {
+        "source_url": "http://xxgk.sdein.gov.cn/zfwj/lhs/202504/t20250430_4819307.html",
+        "quote": "采取“两侧拼宽”形式扩建六车道段路线全长104.74千米",
+        "published": "2025-04-30",
+        "role": "省生态环境厅目标批复"
+      }
+    ]
+  },
+  {
+    "id": "P102",
+    "name": "荣潍莱西—冯戈庄四车道改建段",
+    "scope": "莱潍改扩建两端保持四车道区间，合计32.534公里",
+    "lanes": 4,
+    "lanes_planned": 4,
+    "published": "2024-12-19",
+    "opened": "既有高速已运营；改建在施工",
+    "source_url": "https://jtt.shandong.gov.cn/art/2024/12/19/art_15690_10322469.html",
+    "quote": "在现有双向四车道高速公路技术标准的基础上",
+    "note": "两端维持4；项目边界按本地莱西与涌泉枢纽初配，非桩号核定。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://jtt.shandong.gov.cn/art/2024/12/19/art_15690_10322469.html",
+        "quote": "在现有双向四车道高速公路技术标准的基础上",
+        "published": "2024-12-19",
+        "role": "交通厅既有标准及改扩建启动全文"
+      },
+      {
+        "source_url": "http://xxgk.sdein.gov.cn/zfwj/lhs/202504/t20250430_4819307.html",
+        "quote": "采取“两侧拼宽”形式扩建六车道段路线全长104.74千米",
+        "published": "2025-04-30",
+        "role": "省生态环境厅目标批复"
+      }
+    ]
+  },
+  {
+    "id": "P103",
+    "name": "荣乌高速未扩容区间路线基线",
+    "scope": "原荣乌4车道主线；排除烟蓬8、烟威6和东青8扩容区间",
+    "lanes": 4,
+    "published": "2021-05-08",
+    "opened": "既有高速运营回顾2021-05",
+    "source_url": "https://jinan.dzwww.com/jryw/shandong/202105/t20210508_8459066.htm",
+    "quote": "采用双向4车道标准建设，设计时速100公里。",
+    "note": "按原全线标准补未匹配区间为4，虚线表示路线默认；已取得新扩容分段优先覆盖。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://jinan.dzwww.com/jryw/shandong/202105/t20210508_8459066.htm",
+        "quote": "采用双向4车道标准建设，设计时速100公里。",
+        "published": "2021-05-08",
+        "role": "大众网运营专题历史全线标准"
+      }
+    ]
+  },
+  {
+    "id": "P104",
+    "name": "青岛前湾港2号疏港高速",
+    "scope": "黄岛立交—黄岛西枢纽，约26公里主线",
+    "lanes": 4,
+    "published": "2021-10-28",
+    "opened": "既有运营道路，2021差异化收费说明",
+    "source_url": "https://news.qingdaonews.com/qingdao/2021-10/28/content_22943942.htm",
+    "quote": "疏港2号高速道路为双向四车道，通行能力有限",
+    "note": "采用交通部门收费政策问答明确的道路双向4车道原文，替换仅百科依据。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://news.qingdaonews.com/qingdao/2021-10/28/content_22943942.htm",
+        "quote": "疏港2号高速道路为双向四车道，通行能力有限",
+        "published": "2021-10-28",
+        "role": "青岛日报观海新闻交通部门差异化收费解答"
+      }
+    ]
+  },
+  {
+    "id": "P105",
+    "name": "潍坊—青岛高速（济青中线东段）",
+    "scope": "潍坊—青岛及连接线项目约130公里；本图只匹配S24主线",
+    "lanes": 6,
+    "published": "2022-12-23",
+    "opened": "2022-12-23",
+    "source_url": "https://sd.sdnews.com.cn/yw/202212/t20221223_4153198.htm",
+    "quote": "采用双向六车道高速公路标准建设，设计速度120公里/小时。",
+    "note": "原文明确通车及6车道，只赋已匹配S24主线；连接线编号与匝道不按全文主线标准自动着色。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://sd.sdnews.com.cn/yw/202212/t20221223_4153198.htm",
+        "quote": "采用双向六车道高速公路标准建设，设计速度120公里/小时。",
+        "published": "2022-12-23",
+        "role": "鲁网当日全线通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P106",
+    "name": "潍日高速滨海连接线",
+    "scope": "潍坊港疏港路—青银高速，与潍城—日照段相接，34.2公里",
+    "lanes": 4,
+    "published": "2017-06-28",
+    "opened": "2017-06-27",
+    "source_url": "https://www.dzwww.com/shandong/sdnews/201706/t20170628_16096560.htm",
+    "quote": "采用双向四车道高速公路标准，设计速度120公里/小时",
+    "note": "北部滨海连接线独立4车道通车原文；只补未匹配北段，不沿潍城—日照主线重复配值。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://www.dzwww.com/shandong/sdnews/201706/t20170628_16096560.htm",
+        "quote": "采用双向四车道高速公路标准，设计速度120公里/小时",
+        "published": "2017-06-28",
+        "role": "潍坊新闻网当日通车报道大众网转载"
+      }
+    ]
+  },
+  {
+    "id": "P107",
+    "name": "青兰高速泰安—东阿段",
+    "scope": "泰山枢纽—东阿黄河特大桥，75公里",
+    "lanes": 6,
+    "published": "2019-10-17",
+    "opened": "2019-10-16（黄河桥及连接路闭合）",
+    "source_url": "https://sd.dzwww.com/sdnews/201910/t20191017_19264410.htm",
+    "quote": "青兰高速泰安至东阿段全长75公里，采用双向六车道标准建设，设计时速120公里。",
+    "note": "2019通车全文明确6；不外推东侧莱泰混合6/8项目。枢纽端点采用范围初配。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://sd.dzwww.com/sdnews/201910/t20191017_19264410.htm",
+        "quote": "青兰高速泰安至东阿段全长75公里，采用双向六车道标准建设，设计时速120公里。",
+        "published": "2019-10-17",
+        "role": "济南时报全线通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P108",
+    "name": "日兰高速菏泽—关庄鲁豫界段",
+    "scope": "菏泽—鲁豫界关庄，61.5公里",
+    "lanes": 4,
+    "published": "2007-04-30",
+    "opened": "2007-04-30",
+    "source_url": "https://news.sina.com.cn/c/2007-04-30/170912905305.shtml",
+    "quote": "菏泽至关庄高速公路全长61．5公里，双向四车道，设计行车速度120公里/小时。",
+    "note": "只匹配菏关段主线；不覆盖巨野西—菏泽8车道或G35共线走廊。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "official_or_government_repost",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://news.sina.com.cn/c/2007-04-30/170912905305.shtml",
+        "quote": "菏泽至关庄高速公路全长61．5公里，双向四车道，设计行车速度120公里/小时。",
+        "published": "2007-04-30",
+        "role": "新华社当日通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P109",
+    "name": "京沪高速济南—莱芜段（原济莱高速）",
+    "scope": "港沟南—莱芜东北西峪，75.5公里",
+    "lanes": 6,
+    "published": "2007-12-22",
+    "opened": "2007-12-22",
+    "source_url": "https://news.sina.com.cn/c/2007-12-22/102313129293s.shtml",
+    "quote": "全线采用全部控制出入的双向六车道高速公路标准修建",
+    "note": "原济莱运营通车标准；港沟以北绕城扩建与莱芜以南京沪8车道分别标注，端点按枢纽附近初配。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_or_mainstream_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://news.sina.com.cn/c/2007-12-22/102313129293s.shtml",
+        "quote": "全线采用全部控制出入的双向六车道高速公路标准修建",
+        "published": "2007-12-22",
+        "role": "中国广播网通车当日报道"
+      }
+    ]
+  },
+  {
+    "id": "P110",
+    "name": "青兰高速莱泰颜庄—徂徕段",
+    "scope": "颜庄枢纽—徂徕枢纽，43.1公里",
+    "lanes": 6,
+    "published": "2017-12-28",
+    "opened": "2020-12-18",
+    "source_url": "http://mapp.my0538.com/api/newdetail.aspx?action=noo&id=464823",
+    "quote": "其中自颜庄枢纽至徂徕枢纽采用双向六车道，路基宽度34.5米，徂徕枢纽至终点泰山枢纽段采用双向八车道，路基宽度采用42米。",
+    "note": "泰安日报明确6/8分界，齐鲁晚报通车全文闭合；徂徕按G22/S31主线交叉中心117.28012E初配，非桩号核定。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_or_mainstream_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://mapp.my0538.com/api/newdetail.aspx?action=noo&id=464823",
+        "quote": "其中自颜庄枢纽至徂徕枢纽采用双向六车道，路基宽度34.5米，徂徕枢纽至终点泰山枢纽段采用双向八车道，路基宽度采用42米。",
+        "published": "2017-12-28",
+        "role": "泰安日报 最泰安新闻客户端"
+      },
+      {
+        "source_url": "https://www.sohu.com/a/310004095_120069140",
+        "quote": "自颜庄枢纽至徂徕枢纽采用双向六车道，路基宽度34.5米；徂徕枢纽至终点泰山枢纽段采用双向八车道，路基宽度采用42米。",
+        "published": "2019-04-24",
+        "role": "施工监理中标公示转载"
+      },
+      {
+        "source_url": "http://taian.sdnews.com.cn/taxw/202006/t20200615_2747972.htm",
+        "quote": "其中，新建段43.1公里，采用双向六车道标准；改扩建段20.76公里，采用双向八车道标准。",
+        "published": "2020-06-15",
+        "role": "鲁网转载泰安日报"
+      },
+      {
+        "source_url": "https://sd.sina.com.cn/news/2020-12-19/detail-iiznezxs7724537.shtml",
+        "quote": "12月18日，青兰高速莱泰段改扩建工程正式通车。",
+        "published": "2020-12-19",
+        "role": "新浪转载齐鲁晚报"
+      }
+    ]
+  },
+  {
+    "id": "P111",
+    "name": "滨台高速新泰—台儿庄马兰屯（新台高速）",
+    "scope": "新泰枢纽以南新建线至台儿庄马兰屯，路线全长157.548公里；不覆盖北部G2共线段",
+    "lanes": 4,
+    "published": "2020-12-18",
+    "opened": "2020-12-18",
+    "source_url": "https://www.my0538.com/2020/1218/599668.shtml",
+    "quote": "新台高速为双向四车道，设计最高行车速度为120公里/小时",
+    "note": "2020-12-18通车报道明确四车道，现有S29主线南部映射宜排除G2共线路段；枣木/岚菏共线如已有项目相同4不会冲突。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_or_mainstream_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://www.my0538.com/2020/1218/599668.shtml",
+        "quote": "新台高速为双向四车道，设计最高行车速度为120公里/小时",
+        "published": "2020-12-18",
+        "role": "泰安日报社运营通车当日报道"
+      },
+      {
+        "source_url": "https://jinan.dzwww.com/jryw/shandong/202012/t20201218_7310517.htm",
+        "quote": "该项目总投资154.52亿元，设计为双向四车道，设计速度120公里/小时。路线全长157.548公里，其中新建130.920公里。",
+        "published": "2020-12-18",
+        "role": "大众日报通车日报道，配合泰安日报已通车全文闭环"
+      }
+    ]
+  },
+  {
+    "id": "P112",
+    "name": "威青高速各建设段四车道路线基线",
+    "scope": "威乳主线、烟台乳即高速化段及青岛海即45公里段；不含疏港连接线",
+    "lanes": 4,
+    "published": "2006-02-28",
+    "opened": "分段2007/2011已通车，详见证据",
+    "source_url": "https://news.sina.com.cn/o/2006-02-28/22578325103s.shtml",
+    "quote": "威乳高速公路项目包括主线和疏港连接线两部分，全线路面宽28米，全封闭双向四车道，设计时速为120公里/小时。主线起于环翠区温泉镇，止于乳山市水井子村，与乳即路相接，途经环翠区、文登、乳山三市，全长78.05公里。",
+    "note": "三个建设段的标准与通车全文分别交叉核对，综合构成G1813主线4车道基线；补缺虚线仍待逐段枢纽/桩号闭合，不把威乳疏港6车道混入。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_or_mainstream_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://news.sina.com.cn/o/2006-02-28/22578325103s.shtml",
+        "quote": "威乳高速公路项目包括主线和疏港连接线两部分，全线路面宽28米，全封闭双向四车道，设计时速为120公里/小时。主线起于环翠区温泉镇，止于乳山市水井子村，与乳即路相接，途经环翠区、文登、乳山三市，全长78.05公里。",
+        "published": "2006-02-28",
+        "role": "主流媒体标准与通车全文"
+      },
+      {
+        "source_url": "https://www.qingdaonews.com/content/2007-12/21/content_7788847.htm",
+        "quote": "本报济南１２月２０日讯 记者从山东高速集团获悉，威海至乳山高速公路也将于１２月２２日实现正式通车。",
+        "published": "2007-12-21",
+        "role": "主流媒体标准与通车全文"
+      },
+      {
+        "source_url": "https://www.yantai.gov.cn/art/2011/5/9/art_12815_1102827.html",
+        "quote": "双向四车道，设计时速１００公里",
+        "published": "2011-05-09",
+        "role": "通车全文中的项目标准"
+      },
+      {
+        "source_url": "https://2008.sohu.com/20071018/n252725881.shtml",
+        "quote": "威乌支线海阳至即墨高速公路全长45公里，双向四车道，设计时速110公里，全线共设中桥10座，小桥6座，互通立交桥6座。",
+        "published": "2007-10-18",
+        "role": "主流媒体标准与通车全文"
+      },
+      {
+        "source_url": "https://www.dzwww.com/synr/ttbt/sdxwtt/200803/t20080303_3229410.htm",
+        "quote": "记者从山东省交通厅获悉，２００７年山东省济青南线、济南至菏泽、大高至鲁冀界、辛庄子至邓王、威海至乳山、海阳至即墨等高速公路建成通车，新增高速公路７５３公里。",
+        "published": "2008-03-03",
+        "role": "主流媒体标准与通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P113",
+    "name": "沈海高速莱西—南村既有段",
+    "scope": "同三青岛段北部莱西韶存庄—南村枢纽",
+    "lanes": 4,
+    "published": "2003-12-09",
+    "opened": "2003-12-26",
+    "source_url": "https://news.sina.com.cn/o/2003-12-09/04141290533s.shtml",
+    "quote": "同三线青岛段工程起于莱西市西北韶存庄，接已通车的栖霞至莱西高速公路，止于青岛与日照交界处的两城，主线总长175.293公里。",
+    "note": "原同三青岛段主线全4标准与通车正文闭合；只匹配南村以北，南村以南已扩8，烟台—莱西不据此外推。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_or_mainstream_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://news.sina.com.cn/o/2003-12-09/04141290533s.shtml",
+        "quote": "同三线青岛段工程起于莱西市西北韶存庄，接已通车的栖霞至莱西高速公路，止于青岛与日照交界处的两城，主线总长175.293公里。",
+        "published": "2003-12-09",
+        "role": "主流媒体标准与通车全文"
+      },
+      {
+        "source_url": "https://news.sina.com.cn/o/2003-12-09/04141290533s.shtml",
+        "quote": "主线与连接线均采用高速公路标准，双向四车道，全封闭、全立交。",
+        "published": "2003-12-09",
+        "role": "主流媒体标准与通车全文"
+      },
+      {
+        "source_url": "https://news.sina.com.cn/c/2003-12-27/06361442852s.shtml",
+        "quote": "本报讯昨天，被誉为“青岛高速第一路”的同（江）三（亚）线青岛段高速公路全线通车。",
+        "published": "2003-12-27",
+        "role": "主流媒体标准与通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P114",
+    "name": "日兰高速日照—大庄历史四车道基线",
+    "scope": "原日东高速日照段K0+000—K78+450，含日照—大庄；仅补东侧未覆盖段",
+    "lanes": 4,
+    "published": "2008-03-31",
+    "opened": "2000年日照—竹园通车；2008年日照段养护招标描述既有四车道",
+    "source_url": "https://mip.bidchance.com/minfo-gonggao-1222851.html",
+    "quote": "日东高速公路日照段起点桩号K0+000，终点桩号K78+450，全长78.45公里，高速公路标准，双向4车道，路面宽度2×11.25米。",
+    "note": "已取得相互吻合的2008养护招标全文和2016建筑网路线介绍；未找到日照—大庄官方原站四车道全文，因此建议仅虚线历史基线补齐，不能宣称当前官方核验。搜索未发现日照—大庄改扩建，现有扩建明确仅大庄—竹园（P90）。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "tender_archive_fulltext",
+    "historical_status": "历史四车道基线；养护招标存档与路线介绍有据，当前正式来源待补",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://mip.bidchance.com/minfo-gonggao-1222851.html",
+        "quote": "日东高速公路日照段起点桩号K0+000，终点桩号K78+450，全长78.45公里，高速公路标准，双向4车道，路面宽度2×11.25米。",
+        "published": "2008-03-31",
+        "role": "招标网保存的养护公告全文；非政府原站，不可标government_fulltext"
+      },
+      {
+        "source_url": "https://www.dzwww.com/xinwen/shandongdongtai/xinxifabu/200308270566.htm",
+        "quote": "日照至费县竹园段２０００年竣工通车",
+        "published": "2003-08-27",
+        "role": "大众日报全线通车回顾，提供通车闭环，四车道引文仅竹园—曲阜不可扩为全线"
+      },
+      {
+        "source_url": "https://www.cbi360.net/hyjd/20161018/55212.html",
+        "quote": "路线全长78.45公里，连接线长3.1公里，概算投资16亿元，设计行车速度100公里/小时，全封闭、全立交、双向四车道",
+        "published": "2016-10-18",
+        "role": "中国建筑网路线介绍辅助佐证；非政府/运营方/主流媒体"
+      }
+    ]
+  },
+  {
+    "id": "P115",
+    "name": "济广高速零点—槐荫既有段",
+    "scope": "零点立交—槐荫立交，16.378公里",
+    "lanes": 4,
+    "lanes_planned": 8,
+    "published": "2026-05-31",
+    "opened": "既有道路已运营；2026-05为扩建用地预审公示",
+    "source_url": "https://www.thepaper.cn/newsDetail_forward_33275544",
+    "quote": "项目整体由双向四车道改扩建为双向八车道",
+    "note": "2026资料明确原4、扩建目标8，不能把目标作现状；零点以东另有2019已通车8车道。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_or_mainstream_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://www.thepaper.cn/newsDetail_forward_33275544",
+        "quote": "项目整体由双向四车道改扩建为双向八车道",
+        "published": "2026-05-31",
+        "role": "济南发布转载新黄河2026既有标准与目标公示"
+      }
+    ]
+  },
+  {
+    "id": "P116",
+    "name": "济广高速零点—小许家段",
+    "scope": "零点立交—小许家枢纽，13.3公里",
+    "lanes": 8,
+    "published": "2019-12-15",
+    "opened": "2019-12-15",
+    "source_url": "https://jinan.iqilu.com/news/2019/1215/4397097.shtml",
+    "quote": "设计时速120km/h、双向八车道",
+    "note": "2019通车原文明示8，与西侧零点—槐荫现4拆分；小许家复杂枢纽采用经度框初配。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_or_mainstream_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://jinan.iqilu.com/news/2019/1215/4397097.shtml",
+        "quote": "设计时速120km/h、双向八车道",
+        "published": "2019-12-15",
+        "role": "闪电新闻当日通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P117",
+    "name": "沈海高速栖霞—莱西四车道历史基线",
+    "scope": "原同三栖莱项目70.081公里，烟台松山—莱西",
+    "lanes": 4,
+    "published": "2006-03",
+    "opened": "2006工程运营论文回顾已投入运营",
+    "source_url": "https://jz.docin.com/p-26657530.html",
+    "quote": "栖霞至莱西高速公路是同江至三亚国道主干线山东境内的一段,全长70.081km,分8个合同段。设计为:全封闭、全立交、分道行驶控制出入口的高等级公路,设计行车速度120km/h,路基宽度28m,双向四车道。",
+    "note": "公开论文全文与截图明确70.081公里、双向4，不把烟栖历史不对称道路套用4；松山及莱西端点按大致主线范围初配。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "engineering_paper_fulltext",
+    "historical_status": "运营工程论文明确原双向4车道；当前正式来源待补",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://jz.docin.com/p-26657530.html",
+        "quote": "栖霞至莱西高速公路是同江至三亚国道主干线山东境内的一段,全长70.081km,分8个合同段。设计为:全封闭、全立交、分道行驶控制出入口的高等级公路,设计行车速度120km/h,路基宽度28m,双向四车道。",
+        "published": "2006-03",
+        "role": "葛洲坝集团科技，2006年3月第1期总77期，李登平、李洪波、王继飞、伍宁长"
+      }
+    ]
+  },
+  {
+    "id": "P118",
+    "name": "青银高速西元庄—朱家官庄拓宽段",
+    "scope": "西元庄互通西K27+700—南泉枢纽东K36+500，8.8公里",
+    "lanes": 8,
+    "published": "2016-01-08",
+    "opened": "2015核准资料确认此前已改扩建完成；精确通车日期待补",
+    "source_url": "https://www.ndrc.gov.cn/fggz/zcssfz/zdgc/201601/t20160108_1146071.html",
+    "quote": "路线起自青岛市朱家官庄附近的新主线收费站，接已改扩建完成的青岛至银川国家高速公路西元庄至朱家官庄段",
+    "note": "2013交通局8车道设计、2015核准完成事实、2017运营回顾交叉核对；不外推西元庄以南青岛市区段。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_or_mainstream_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://www.ndrc.gov.cn/fggz/zcssfz/zdgc/201601/t20160108_1146071.html",
+        "quote": "路线起自青岛市朱家官庄附近的新主线收费站，接已改扩建完成的青岛至银川国家高速公路西元庄至朱家官庄段",
+        "published": "2016-01-08",
+        "role": "国家发展改革委"
+      },
+      {
+        "source_url": "https://www.ndrc.gov.cn/fggz/zcssfz/zdgc/201601/t20160108_1146071.html",
+        "quote": "全线采用双向八车道高速公路标准改扩建",
+        "published": "2016-01-08",
+        "role": "国家发展改革委"
+      },
+      {
+        "source_url": "http://qdjt.qingdao.gov.cn/jtj_zwgk/jtj_zwgk3/202112/t20211214_3999116.shtml",
+        "quote": "路线起点 K27+700 （西元庄互通西），过即墨互通立交，止于南泉枢纽立交东，终点桩号为 K36+500 （迁移后的主线收费站终点）",
+        "published": "2013-01-09",
+        "role": "青岛市交通运输局"
+      },
+      {
+        "source_url": "http://qdjt.qingdao.gov.cn/jtj_zwgk/jtj_zwgk3/202112/t20211214_3999116.shtml",
+        "quote": "设计速度 100 公里 / 小时，双向八车道",
+        "published": "2013-01-09",
+        "role": "青岛市交通运输局"
+      },
+      {
+        "source_url": "http://m.qdxin.cn/detail/99640.html",
+        "quote": "青银高速青岛收费站迁移及拓宽工程起于即墨西元庄互通立交，终于朱家官庄西，全长8.8公里，由原双向四车道拓宽为双向八车道高速公路",
+        "published": "2017-02-26",
+        "role": "信网"
+      },
+      {
+        "source_url": "http://m.qdxin.cn/detail/99640.html",
+        "quote": "2013年5月开工建设，2014年12月主体完工。",
+        "published": "2017-02-26",
+        "role": "信网"
+      }
+    ]
+  },
+  {
+    "id": "P119",
+    "name": "济南南绕城港沟—殷家林施工段",
+    "scope": "港沟枢纽—殷家林枢纽，34.324公里",
+    "lanes": 4,
+    "lanes_planned": 8,
+    "published": "2026-01-12",
+    "opened": "既有南绕城；扩建尚未全线通车",
+    "source_url": "http://www.jnxc.gov.cn/show-75-8430-1.html",
+    "quote": "改扩建完成后，将由双向四车道升级改造为双向八车道。",
+    "note": "按用户要求采用既有4；扩建尚未全线通车。2026-09-29公告仍通知兴隆—市中西向东2026-10-01至10-08继续封闭；图示不是施工期实际开放车道或通行保证。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_repost",
+    "historical_status": "按既有双向4车道显示；扩建目标8尚未全线通车，部分区间施工/封闭，详情见来源。",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://www.jnxc.gov.cn/show-75-8430-1.html",
+        "quote": "改扩建完成后，将由双向四车道升级改造为双向八车道。",
+        "published": "2026-01-12",
+        "role": "济南市委宣传网转载大众日报"
+      },
+      {
+        "source_url": "https://news.iqilu.com/shandong/shandonggedi/20260929/5948682.shtml",
+        "quote": "需继续对G2001济南绕城高速公路兴隆枢纽至市中互通段主线(西向东方向)封闭施工",
+        "published": "2026-09-29",
+        "role": "齐鲁网转载海报新闻及山东高速南绕城公司公告"
+      },
+      {
+        "source_url": "https://news.iqilu.com/shandong/shandonggedi/20260929/5948682.shtml",
+        "quote": "自2026年10月1日00时起至2026年10月8日10时止。",
+        "published": "2026-09-29",
+        "role": "齐鲁网转载海报新闻及山东高速南绕城公司公告"
+      }
+    ]
+  },
+  {
+    "id": "P123",
+    "name": "青银高速青岛辽阳东路—流亭立交市区段",
+    "scope": "青岛辽阳东路—流亭立交市区段",
+    "lanes": 6,
+    "published": "2021-03-22",
+    "opened": "既有道路已运营，见分段资料",
+    "source_url": "http://www.qingdao.gov.cn/ywdt/zwyw/202103/t20210322_3023602.shtml",
+    "quote": "青银高速公路青岛段于2000年建成通车，双向六车道",
+    "note": "2021政务回顾6，2011单位简介标六(四)混合，建议主线6默认但流亭枢纽匝道和接西流段另标4；当前现场细分仍非精确验证。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "source_fulltext",
+    "historical_status": "资料记载原双向6车道；分段当前标准待更强来源核对",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://www.qingdao.gov.cn/ywdt/zwyw/202103/t20210322_3023602.shtml",
+        "quote": "青银高速公路青岛段于2000年建成通车，双向六车道",
+        "published": "2021-03-22",
+        "role": "青岛政务网转载青岛日报"
+      },
+      {
+        "source_url": "http://qdjt.qingdao.gov.cn/jtj_hyzt/jtj_hyzt4/202112/t20211214_4001555.shtml",
+        "quote": "青银高速公路（青岛段）起于青岛市辽阳东路立交，经夏庄立交与流亭立交桥连接，止于流亭立交桥，编号 G20 ，全长 18.943 公里 ，双向六（四）车道",
+        "published": "2011-08-16",
+        "role": "青岛市交通运输局"
+      }
+    ]
+  },
+  {
+    "id": "P124",
+    "name": "青银高速流亭立交—西元庄西流高架及接旧济青段",
+    "scope": "流亭立交—西元庄西流高架及接旧济青段",
+    "lanes": 4,
+    "published": "2011-08-16",
+    "opened": "既有道路已运营，见分段资料",
+    "source_url": "http://qdjt.qingdao.gov.cn/jtj_hyzt/jtj_hyzt4/202112/t20211214_4001555.shtml",
+    "quote": "青银高速公路（青岛段）起于青岛市辽阳东路立交，经夏庄立交与流亭立交桥连接，止于流亭立交桥，编号 G20 ，全长 18.943 公里 ，双向六（四）车道",
+    "note": "2006主流全文明确流亭接济青后变4，2011官方六(四)兼容；西元庄西侧已8独立项目优先。2022西流仅维修加固通车无拓宽证据。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "source_fulltext",
+    "historical_status": "资料记载原双向4车道；分段当前标准待更强来源核对",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://qdjt.qingdao.gov.cn/jtj_hyzt/jtj_hyzt4/202112/t20211214_4001555.shtml",
+        "quote": "青银高速公路（青岛段）起于青岛市辽阳东路立交，经夏庄立交与流亭立交桥连接，止于流亭立交桥，编号 G20 ，全长 18.943 公里 ，双向六（四）车道",
+        "published": "2011-08-16",
+        "role": "青岛市交通运输局"
+      },
+      {
+        "source_url": "https://www.qingdaonews.com/content/2006-11/30/content_7699587.htm",
+        "quote": "市区段为双向六车道，在流亭立交桥上连通济青高速后变为双向四车道。",
+        "published": "2006-11-30",
+        "role": "青岛新闻网"
+      }
+    ]
+  },
+  {
+    "id": "P125",
+    "name": "青银高速济南北线唐王—机场枢纽",
+    "scope": "济南北线唐王—机场枢纽",
+    "lanes": 6,
+    "published": "2008-12-29",
+    "opened": "既有道路已运营，见分段资料",
+    "source_url": "https://news.sina.cn/sa/2008-12-29/detail-ikkntian1188526.d.html",
+    "quote": "全长62.834公里的青银高速济南绕城北线，今天正式通车。",
+    "note": "招标转载K0～8 6，通车日报全路4～8及机场—表白寺8交叉印证；6段还需强精确运营全文，避免升为已官方核验。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "source_fulltext",
+    "historical_status": "资料记载原双向6车道；分段当前标准待更强来源核对",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://news.sina.cn/sa/2008-12-29/detail-ikkntian1188526.d.html",
+        "quote": "全长62.834公里的青银高速济南绕城北线，今天正式通车。",
+        "published": "2008-12-29",
+        "role": "新浪转载济南日报"
+      },
+      {
+        "source_url": "https://news.sina.cn/sa/2008-12-29/detail-ikkntian1188526.d.html",
+        "quote": "其中，在济南绕城东线机场高速至表白寺互通立交桥间的24.2公里为双向8车道。",
+        "published": "2008-12-29",
+        "role": "新浪转载济南日报"
+      },
+      {
+        "source_url": "https://www.jinchutou.com/p-23489269.html",
+        "quote": "K0+000～K8+000 6 34.50K8+000～K32+203 8 42.00主线（47.597km） K32+203～K47+597.146 34.50连接线（15.237km）LK0+000～LK15+237 4 26.00",
+        "published": "2007施工公告存档",
+        "role": "金锄头文库转载施工招标资格预审公告"
+      }
+    ]
+  },
+  {
+    "id": "P126",
+    "name": "青银高速机场枢纽—表白寺",
+    "scope": "机场枢纽—表白寺",
+    "lanes": 8,
+    "published": "2008-12-29",
+    "opened": "2008-12-28",
+    "source_url": "https://news.sina.cn/sa/2008-12-29/detail-ikkntian1188526.d.html",
+    "quote": "全长62.834公里的青银高速济南绕城北线，今天正式通车。",
+    "note": "济南日报通车全文明确24.2km8；表白寺主线枢纽约116.95E、36.84N，不与北侧同名出口36.886混淆。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "source_fulltext",
+    "historical_status": "资料记载原双向8车道；分段当前标准待更强来源核对",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://news.sina.cn/sa/2008-12-29/detail-ikkntian1188526.d.html",
+        "quote": "全长62.834公里的青银高速济南绕城北线，今天正式通车。",
+        "published": "2008-12-29",
+        "role": "新浪转载济南日报"
+      },
+      {
+        "source_url": "https://news.sina.cn/sa/2008-12-29/detail-ikkntian1188526.d.html",
+        "quote": "其中，在济南绕城东线机场高速至表白寺互通立交桥间的24.2公里为双向8车道。",
+        "published": "2008-12-29",
+        "role": "新浪转载济南日报"
+      }
+    ]
+  },
+  {
+    "id": "P127",
+    "name": "青银高速表白寺—齐河北枢纽",
+    "scope": "表白寺—齐河北枢纽",
+    "lanes": 6,
+    "published": "2007施工公告存档",
+    "opened": "既有道路已运营，见分段资料",
+    "source_url": "https://www.jinchutou.com/p-23489269.html",
+    "quote": "K0+000～K8+000 6 34.50K8+000～K32+203 8 42.00主线（47.597km） K32+203～K47+597.146 34.50连接线（15.237km）LK0+000～LK15+237 4 26.00",
+    "note": "转载技术表K32.203～47.597 6，旧2005以六为主辅证；当前需更强精确分段来源。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "source_fulltext",
+    "historical_status": "资料记载原双向6车道；分段当前标准待更强来源核对",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://www.jinchutou.com/p-23489269.html",
+        "quote": "K0+000～K8+000 6 34.50K8+000～K32+203 8 42.00主线（47.597km） K32+203～K47+597.146 34.50连接线（15.237km）LK0+000～LK15+237 4 26.00",
+        "published": "2007施工公告存档",
+        "role": "金锄头文库转载施工招标资格预审公告"
+      }
+    ]
+  },
+  {
+    "id": "P120",
+    "name": "济徐高速东平—济宁北段",
+    "scope": "日兰高速以北至东平，全长36.193公里",
+    "lanes": 4,
+    "published": "2013-01-21",
+    "opened": "2013-01-20",
+    "source_url": "https://www.dzwww.com/shandong/sdnews/201301/t20130121_7931439.htm",
+    "quote": "当日开通的路线全长36.193公里,设计速度120公里/小时,为双向四车道。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "source_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://www.dzwww.com/shandong/sdnews/201301/t20130121_7931439.htm",
+        "quote": "当日开通的路线全长36.193公里,设计速度120公里/小时,为双向四车道。",
+        "published": "2013-01-21",
+        "role": "齐鲁晚报通车次日报道"
+      }
+    ]
+  },
+  {
+    "id": "P121",
+    "name": "日照机场—沈海高速连接线",
+    "scope": "机场快速路—日照南互通，全长3.89公里，高速段2.58公里",
+    "lanes": 4,
+    "published": "2017-12-27",
+    "opened": "2017-12-26",
+    "source_url": "https://rizhao.dzwww.com/rzxw/201712/t20171227_16308267.html",
+    "quote": "全长3.89公里（高速公路2.58公里，一级公路1.31公里），采用双向4车道高速公路及一级公路标准，设计速度80公里/小时。",
+    "note": "仅机场支线4，不能覆盖S7801东侧疏港主线6。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "source_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://rizhao.dzwww.com/rzxw/201712/t20171227_16308267.html",
+        "quote": "全长3.89公里（高速公路2.58公里，一级公路1.31公里），采用双向4车道高速公路及一级公路标准，设计速度80公里/小时。",
+        "published": "2017-12-27",
+        "role": "大众网正式通车报道"
+      }
+    ]
+  },
+  {
+    "id": "P122",
+    "name": "青岛新机场高速南段及南进场接线",
+    "scope": "胶东机场—青兰高速河套枢纽南段，TJ2长10.315公里",
+    "lanes": 8,
+    "published": "2019-08-05",
+    "opened": "2019-11-30；机场收费站2020-11-30开放",
+    "source_url": "https://news.qingdaonews.com/qingdao/2019-08/05/content_20614939.htm",
+    "quote": "新机场高速公路TJ2标段全长10.315千米，北起胶东机场，南接G22青兰高速；全程为双向八车道",
+    "note": "未使用双埠—夏庄高速连接线报道；该处几何位于胶东机场南侧。收费站2020开放已获广播电视台全文。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "source_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://news.qingdaonews.com/qingdao/2019-08/05/content_20614939.htm",
+        "quote": "新机场高速公路TJ2标段全长10.315千米，北起胶东机场，南接G22青兰高速；全程为双向八车道",
+        "published": "2019-08-05",
+        "role": "青岛晚报南段明确8，范围胶东机场至G22"
+      },
+      {
+        "source_url": "https://www.qingdaonews.com/content/2019-12/02/content_20947742.htm",
+        "quote": "项目总投资约105亿元，全长约24.187公里，采用双向八车道高速公路技术标准，设计速度120km/h",
+        "published": "2019-12-02",
+        "role": "青岛新闻网2019-11-30通车闭环"
+      },
+      {
+        "source_url": "http://news.qtv.com.cn/system/2020/11/30/015677406.shtml",
+        "quote": "胶东国际机场收费站将于11月30日正式开放",
+        "published": "2020-11-30",
+        "role": "青岛广播电视台接线收费站社会车辆开放闭环，全文同时确认2019通车8"
+      }
+    ]
+  },
+  {
+    "id": "P128",
+    "name": "濮新（濮商）高速黄河特大桥山东段",
+    "scope": "北起濮阳县小辛庄，南至菏泽牡丹区李村镇东高寨；桥梁8.127公里",
+    "lanes": 6,
+    "published": "2024-01-22",
+    "opened": "2023-12-28",
+    "source_url": "http://www.heze.cn/County%20News/2024-01/22/content_601113.html",
+    "quote": "桥梁全长8.127公里，双向六车道，设计速度120公里/小时。",
+    "note": "几何中S21濮商北端在黄河桥，实际6；南端鲁豫界34.86仍需单独4证据。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "source_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://www.heze.cn/County%20News/2024-01/22/content_601113.html",
+        "quote": "桥梁全长8.127公里，双向六车道，设计速度120公里/小时。",
+        "published": "2024-01-22",
+        "role": "菏泽日报中国菏泽网通车回顾"
+      }
+    ]
+  },
+  {
+    "id": "P129",
+    "name": "前湾港1号疏港高速中段",
+    "scope": "既有K4+282—K9+909，运营方管养5.627公里",
+    "lanes": 4,
+    "published": "2020-07-24",
+    "opened": "既有已通车；2020年度定期检测招标",
+    "source_url": "http://www.ygcgfw.com/gggs/001001/001001001/20200724/8fc6eca8-08f7-44ae-88ee-f808b6650b6b.html",
+    "quote": "S7601疏港高速1号线双向四车道，起点桩号为K4+282，终点桩号为K9+909",
+    "note": "南港疏港高架P73为4，北端K9.909—10.977另有2017招标搜索摘要为6，全文尚待取得，不能全S7601不分段4。建议父按黄岛东枢纽（G22交叉）东侧末1.068公里排除，并用6摘要候选。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "source_fulltext",
+    "historical_status": "按来源记载的既有双向4车道标准显示；当前分段状态待核。",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://www.ygcgfw.com/gggs/001001/001001001/20200724/8fc6eca8-08f7-44ae-88ee-f808b6650b6b.html",
+        "quote": "S7601疏港高速1号线双向四车道，起点桩号为K4+282，终点桩号为K9+909",
+        "published": "2020-07-24",
+        "role": "运营公司山东高速青岛公路2020年度检测招标原始发布平台"
+      }
+    ]
+  },
+  {
+    "id": "P130",
+    "name": "濮新（濮商）高速菏泽陆上段",
+    "scope": "菏泽鄄城—牡丹区—鲁西新区—曹县，66.9公里",
+    "lanes": 4,
+    "published": "2022-12-26",
+    "opened": "2022-12-25",
+    "source_url": "http://news.cyol.com/gb/articles/2022-12/26/content_Ka97wPSBAV.html",
+    "quote": "全长66.9公里，采用双向四车道高速公路标准建设，设计时速120公里/小时。",
+    "note": "黄河桥8.127公里另为6；仅陆上段和曹县鲁豫界4。北端若边界初配空白应根据桥头界调整，不应把黄河桥一并标4。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "source_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://news.cyol.com/gb/articles/2022-12/26/content_Ka97wPSBAV.html",
+        "quote": "全长66.9公里，采用双向四车道高速公路标准建设，设计时速120公里/小时。",
+        "published": "2022-12-26",
+        "role": "中国青年报2022-12-25正式通车次日报道"
+      }
+    ]
+  },
+  {
+    "id": "P131",
+    "name": "S84德州连接线",
+    "scope": "S84德州连接线",
+    "lanes": 4,
+    "published": "2024-06-23",
+    "opened": "2000-10",
+    "source_url": "https://www.163.com/dy/article/J5DDENOD0525918I.html",
+    "quote": "全长15.22公里，双向四车道，设计时速100公里。2000年10月份正式通车。",
+    "note": "政府2024答复仅黄庄以南G105四改六，非S84不能误用；2024本地全文说S84维持既有，拟纳入城市快速路管理，可虚线历史基线。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "local_selfmedia_fulltext",
+    "historical_status": "按来源记载的既有双向4车道标准显示；当前分段状态待核。",
+    "current_2026_site_verified": false,
+    "evidence_group": "secondary",
+    "evidence": [
+      {
+        "source_url": "https://www.163.com/dy/article/J5DDENOD0525918I.html",
+        "quote": "全长15.22公里，双向四车道，设计时速100公里。2000年10月份正式通车。",
+        "published": "2024-06-23",
+        "role": "本地德州城市房产新媒体转载改造招标与路线概况；并非政府核验"
+      }
+    ]
+  },
+  {
+    "id": "P132",
+    "name": "胶州湾北环双埠—河套改扩建",
+    "scope": "胶州湾北环双埠—河套改扩建",
+    "lanes": 8,
+    "published": "2023-10-31",
+    "opened": "既有已通车，见来源",
+    "source_url": "https://www.dailyqd.com/guanhai/283879_1.html",
+    "quote": "标志着该项目主线顺利建成通车。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "source_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://www.dailyqd.com/guanhai/283879_1.html",
+        "quote": "标志着该项目主线顺利建成通车。",
+        "published": "2023-10-31",
+        "role": "青岛日报社/观海新闻"
+      },
+      {
+        "source_url": "https://www.dailyqd.com/guanhai/283879_1.html",
+        "quote": "东起女姑口特大桥东桥头，西至河套枢纽立交，全长约15.797公里，设计时速100公里/小时，采用双向八车道高速公路标准改扩建。",
+        "published": "2023-10-31",
+        "role": "青岛日报社/观海新闻"
+      }
+    ]
+  },
+  {
+    "id": "P133",
+    "name": "胶州湾西环河套—黄岛东既有主线",
+    "scope": "胶州湾西环河套—黄岛东既有主线",
+    "lanes": 4,
+    "lanes_planned": 8,
+    "published": "2023-01-17",
+    "opened": "既有已通车，见来源",
+    "source_url": "http://www.qingdao.gov.cn/zwgk/xxgk/fgw/ywfl/zctz/202301/t20230117_6812929.shtml",
+    "quote": "1995年建成通车，采用设计速度100km/h的汽车专用一级公路标准建设，双向四车道。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "source_fulltext",
+    "historical_status": "既有双向4车道；8车道扩建在施工，政府2026进度称2027年主线具备通车条件。",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://www.qingdao.gov.cn/zwgk/xxgk/fgw/ywfl/zctz/202301/t20230117_6812929.shtml",
+        "quote": "1995年建成通车，采用设计速度100km/h的汽车专用一级公路标准建设，双向四车道。",
+        "published": "2023-01-17",
+        "role": "青岛市发展改革委核准公告"
+      },
+      {
+        "source_url": "http://dpc.qingdao.gov.cn/fzgggz_45/cmc_45/gzdt_45/202603/t20260316_10537682.shtml",
+        "quote": "项目全长30.786公里，采用双向八车道高速公路技术标准改扩建",
+        "published": "2026-03-16",
+        "role": "青岛市发展改革委转载"
+      },
+      {
+        "source_url": "http://dpc.qingdao.gov.cn/fzgggz_45/cmc_45/gzdt_45/202603/t20260316_10537682.shtml",
+        "quote": "年内实现整体进度达到60%，2027年主线具备通车条件。",
+        "published": "2026-03-16",
+        "role": "青岛市发展改革委转载"
+      }
+    ]
+  },
+  {
+    "id": "P134",
+    "name": "东营港疏港高速主线",
+    "scope": "东营港疏港高速主线",
+    "lanes": 4,
+    "published": "2019-11-29",
+    "opened": "既有已通车，见来源",
+    "source_url": "http://fgw.shandong.gov.cn/art/2019/11/29/art_102380_7843104.html",
+    "quote": "东营港疏港高速主线维持原双向四车道高速公路标准，设计速度 100 公里 / 小时，路基宽度 24.5 米。",
+    "note": "原建标准支持全路线4历史基线。当前已通车主体可按用户接受的整条原标准方法填补，显示历史标准/按原标准推定；不宣称2026实测。原批复扫描件在s7201_approval_page1/2/3.jpg：鲁发改项审[2019]21号，2019-10-18；扫描件只描述收费站迁建，不含主线车道，主线车道依审批公示正文。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "source_fulltext",
+    "historical_status": "按原建双向4车道基线显示；当前分段状态待补证。",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://fgw.shandong.gov.cn/art/2019/11/29/art_102380_7843104.html",
+        "quote": "东营港疏港高速主线维持原双向四车道高速公路标准，设计速度 100 公里 / 小时，路基宽度 24.5 米。",
+        "published": "2019-11-29",
+        "role": "省发展改革委审批结果原站完整正文，2019-11-29"
+      }
+    ]
+  },
+  {
+    "id": "P135",
+    "name": "枣木高速木石—齐村旧段",
+    "scope": "枣木高速木石—齐村旧段",
+    "lanes": 4,
+    "published": "历史来源，见全文",
+    "opened": "既有已通车，见来源",
+    "source_url": "http://news.sina.com.cn/c/2010-08-14/113817964391s.shtml",
+    "quote": "据了解，枣木高速公路是枣庄公路部门管养的唯一一条高速公路。该路西起滕州市木石镇，东接市中区齐村镇，全长28公里，双向四车道。枣木高速公路于1995年12月建成通车，原设计为一级汽车专用公路。",
+    "note": "原建/2010运营标准4可填对应旧主线。未发现后续主线扩建通车报道，仅按原标准推定，不将2021回顾当成2021现场核验。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "source_fulltext",
+    "historical_status": "按原建双向4车道基线显示；当前分段状态待补证。",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://news.sina.com.cn/c/2010-08-14/113817964391s.shtml",
+        "quote": "据了解，枣木高速公路是枣庄公路部门管养的唯一一条高速公路。该路西起滕州市木石镇，东接市中区齐村镇，全长28公里，双向四车道。枣木高速公路于1995年12月建成通车，原设计为一级汽车专用公路。",
+        "published": "历史来源，见全文",
+        "role": "齐鲁晚报2010-08-14，新浪转载完整正文"
+      },
+      {
+        "source_url": "https://www.sohu.com/a/477472652_426622",
+        "quote": "2010年8月15日西起滕州市木石镇，东接市中区齐村镇，全长28公里，双向四车道的枣木高速并入山东高速公路网。",
+        "published": "历史来源，见全文",
+        "role": "微游枣庄2021-07-14历史回顾，次级补充"
+      }
+    ]
+  },
+  {
+    "id": "P136",
+    "name": "菏东高速既有主线",
+    "scope": "菏东高速既有主线",
+    "lanes": 4,
+    "published": "历史来源，见全文",
+    "opened": "既有已通车，见来源",
+    "source_url": "https://www.dzwww.com/shandong/sdxwjxs/hz_132275/201603/t20160324_14045365.htm",
+    "quote": "该路段属于双向4车道，行车道和超车道与其它高速一样，但其应急车道停车带宽度只有2.75米，比正常的停车带少了1米",
+    "note": "2016报道写计划到2018四改六，2019上传的工可文档本体较早，不能视为2019仍4或排除改扩建。可按原建标准填历史基线并标记；不得认证为当前六车道，也不得从没有搜到竣工报道断言没有扩建。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "source_fulltext",
+    "historical_status": "按原建双向4车道基线显示；当前分段状态待补证。",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://www.dzwww.com/shandong/sdxwjxs/hz_132275/201603/t20160324_14045365.htm",
+        "quote": "该路段属于双向4车道，行车道和超车道与其它高速一样，但其应急车道停车带宽度只有2.75米，比正常的停车带少了1米",
+        "published": "历史来源，见全文",
+        "role": "大众网2016-03-24采访菏泽市高速公路管理处，完整正文"
+      },
+      {
+        "source_url": "https://www.cndao.com/productdetails.aspx?productID=138466",
+        "quote": "本项目原路分为两个标准，K0～K8+395.462段设计时速为120公里/小时，双向四车道28米宽路基，于2002年建成通车；K8+395.462～K43+413.644段设计时速为100公里/小时，双向四车道24.5米宽路基，于1998年建成通车。",
+        "published": "历史来源，见全文",
+        "role": "中国道桥网公开工可说明摘要，非政府原站，2019-04-16上传，正文预计2016桥通车说明文档较早"
+      }
+    ]
+  },
+  {
+    "id": "P137",
+    "name": "济南绕城晏城—表白寺连接线",
+    "scope": "济南绕城晏城—表白寺连接线",
+    "lanes": 4,
+    "lanes_planned": 8,
+    "published": "2026-08-13",
+    "opened": "既有已通车",
+    "source_url": "https://news.iqilu.com/shandong/shandonggedi/20260813/5935726.shtml",
+    "quote": "此次改扩建拟由双向四车道升级为双向八车道",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_or_mainstream_fulltext",
+    "historical_status": "既有双向4车道；8车道为拟改扩建目标。",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://news.iqilu.com/shandong/shandonggedi/20260813/5935726.shtml",
+        "quote": "此次改扩建拟由双向四车道升级为双向八车道",
+        "published": "2026-08-13",
+        "role": "齐鲁网转载大众新闻·经济导报"
+      },
+      {
+        "source_url": "https://news.iqilu.com/shandong/shandonggedi/20260813/5935726.shtml",
+        "quote": "全长15.04公里，建设里程13.452公里。项目起自晏城枢纽互通立交以西898米处",
+        "published": "2026-08-13",
+        "role": "齐鲁网转载大众新闻·经济导报"
+      }
+    ]
+  },
+  {
+    "id": "P138",
+    "name": "双流高架（流亭机场高速）",
+    "scope": "双流高架（流亭机场高速）",
+    "lanes": 4,
+    "published": "2011-08-16",
+    "opened": "既有已通车",
+    "source_url": "http://qdjt.qingdao.gov.cn/jtj_hyzt/jtj_hyzt4/202112/t20211214_4001555.shtml",
+    "quote": "青岛流亭机场高速公路（原双流路）起于双埠，止于流亭机场立交，编号 S61 ，全长 6.95 公里 ，双向四车道",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_or_mainstream_fulltext",
+    "historical_status": "按既有双向4车道显示；当前有施工，详见最新公告。",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://qdjt.qingdao.gov.cn/jtj_hyzt/jtj_hyzt4/202112/t20211214_4001555.shtml",
+        "quote": "青岛流亭机场高速公路（原双流路）起于双埠，止于流亭机场立交，编号 S61 ，全长 6.95 公里 ，双向四车道",
+        "published": "2011-08-16",
+        "role": "青岛市交通运输局"
+      },
+      {
+        "source_url": "http://news.bandao.cn/a/389610.html",
+        "quote": "小型车：保持双向4车道通行条件",
+        "published": "2020-07-20",
+        "role": "半岛网转载建设调流公告"
+      },
+      {
+        "source_url": "http://m.163.com/dy/article/L3NIU09C0550EWRZ.html",
+        "quote": "自2026年8月9日至2026年10月7日",
+        "published": "2026-08-07",
+        "role": "半岛网官方网易号转载城阳公安/青岛高速机场路公司通告"
+      },
+      {
+        "source_url": "http://m.163.com/dy/article/L3NIU09C0550EWRZ.html",
+        "quote": "双流高架路（安顺北路-银盛泰立交段）",
+        "published": "2026-08-07",
+        "role": "半岛网官方网易号转载城阳公安/青岛高速机场路公司通告"
+      }
+    ]
+  },
+  {
+    "id": "P141",
+    "name": "济南大西环南端衔接",
+    "scope": "二环线西环段103.9公里，禹城—齐河—长清",
+    "lanes": 6,
+    "published": "2023-07-13",
+    "opened": "2023-07-11",
+    "source_url": "http://www.sd.xinhuanet.com/20230713/e0f9c7c5d16b45abae352adfb6b95b91/c.html",
+    "quote": "采用双向六车道高速公路标准建设",
+    "note": "历史通车标准，后续改扩建仍需复查。 项目框按本地主线与相交枢纽包络修正，采用短线中点初配。",
+    "checked_on": "2026-09-30",
+    "current_2026_site_verified": false,
+    "evidence_group": "unknown",
+    "evidence": [
+      {
+        "source_url": "http://www.sd.xinhuanet.com/20230713/e0f9c7c5d16b45abae352adfb6b95b91/c.html",
+        "quote": "采用双向六车道高速公路标准建设",
+        "published": "2023-07-13",
+        "role": "通车全文"
+      }
+    ]
+  },
+  {
+    "id": "P139",
+    "name": "故城连接线山东段",
+    "scope": "德商德州至夏津项目主线北端：鲁权屯辛厂鲁冀界—德上枢纽",
+    "lanes": 4,
+    "published": "2016-12-05",
+    "opened": "2016-08-12",
+    "source_url": "https://dezhou.dzwww.com/news/201612/t20161205_15237176.html",
+    "quote": "全长70.303公里，主线41公里，支线29.303公里，项目总投资35.19亿元，采用双向四车道高速公路标准建设。主线北起武城县鲁权屯乡辛厂村东(鲁冀界)，经衡德高速联网大广高速，对接京津冀经济区，向南经武城、夏津县，联网青银高速。德州支线全长29.303公里，项目起于德州黄庄立交，在武城县漳南镇东与主线相接。采用双向四车道高速公路标准建设，设计速度100公里/小时。",
+    "note": "用已通车项目总体车道标准覆盖现行编号连接线；几何坐标、路线端点与项目范围一致，非现场现状验收。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "source_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://dezhou.dzwww.com/news/201612/t20161205_15237176.html",
+        "quote": "全长70.303公里，主线41公里，支线29.303公里，项目总投资35.19亿元，采用双向四车道高速公路标准建设。主线北起武城县鲁权屯乡辛厂村东(鲁冀界)，经衡德高速联网大广高速，对接京津冀经济区，向南经武城、夏津县，联网青银高速。德州支线全长29.303公里，项目起于德州黄庄立交，在武城县漳南镇东与主线相接。采用双向四车道高速公路标准建设，设计速度100公里/小时。",
+        "published": "2016-12-05",
+        "role": "大众网德州支线正式通车发布会报道，明确主支全项目4"
+      }
+    ]
+  },
+  {
+    "id": "P140",
+    "name": "德上高速连接线（德州支线黄庄段）",
+    "scope": "德商德州至夏津项目德州支线东端，黄庄立交至孙家集枢纽短接线",
+    "lanes": 4,
+    "published": "2016-12-05",
+    "opened": "2016-12-05",
+    "source_url": "https://dezhou.dzwww.com/news/201612/t20161205_15237176.html",
+    "quote": "全长70.303公里，主线41公里，支线29.303公里，项目总投资35.19亿元，采用双向四车道高速公路标准建设。主线北起武城县鲁权屯乡辛厂村东(鲁冀界)，经衡德高速联网大广高速，对接京津冀经济区，向南经武城、夏津县，联网青银高速。德州支线全长29.303公里，项目起于德州黄庄立交，在武城县漳南镇东与主线相接。采用双向四车道高速公路标准建设，设计速度100公里/小时。",
+    "note": "用已通车项目总体车道标准覆盖现行编号连接线；几何坐标、路线端点与项目范围一致，非现场现状验收。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "source_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://dezhou.dzwww.com/news/201612/t20161205_15237176.html",
+        "quote": "全长70.303公里，主线41公里，支线29.303公里，项目总投资35.19亿元，采用双向四车道高速公路标准建设。主线北起武城县鲁权屯乡辛厂村东(鲁冀界)，经衡德高速联网大广高速，对接京津冀经济区，向南经武城、夏津县，联网青银高速。德州支线全长29.303公里，项目起于德州黄庄立交，在武城县漳南镇东与主线相接。采用双向四车道高速公路标准建设，设计速度100公里/小时。",
+        "published": "2016-12-05",
+        "role": "大众网德州支线正式通车发布会报道，明确主支全项目4"
+      }
+    ]
+  },
+  {
+    "id": "P142",
+    "name": "聊馆高速原主线省界接续",
+    "scope": "聊城—馆陶旧济聊馆高速；不与南侧2019新青兰混用",
+    "lanes": 4,
+    "published": "刊物日期未辨认；存档2014-09-11",
+    "source_url": "https://www.doc88.com/p-8992213506154.html",
+    "quote": "济聊馆高速公路聊城段总里程111.9km，一、二期工程分别按平原微丘一级、高速公路设计，设计车速100km/h，整体式路幅，路堤式路基，宽度24.5m。路面全宽21m，双向四车道。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "technical_paper_public_preview",
+    "historical_status": "论文记载旧聊馆双向4车道；按旧路标准补齐省界短线，当前状态待核。",
+    "current_2026_site_verified": false,
+    "evidence_group": "preview",
+    "evidence": [
+      {
+        "source_url": "https://www.doc88.com/p-8992213506154.html",
+        "quote": "济聊馆高速公路聊城段总里程111.9km，一、二期工程分别按平原微丘一级、高速公路设计，设计车速100km/h，整体式路幅，路堤式路基，宽度24.5m。路面全宽21m，双向四车道。",
+        "published": "刊物日期未辨认；存档2014-09-11",
+        "role": "中国公路论文；山东省聊城市公路管理局作者；道客巴巴公开预览存档"
+      }
+    ]
+  },
+  {
+    "id": "P143",
+    "name": "前湾港3号疏港高速",
+    "scope": "K0+000—K4+187全线4.187公里",
+    "lanes": 4,
+    "published": "2017-12-05",
+    "opened": "既有通车道路，历史设计/养护标准",
+    "source_url": "http://www.buildnet.cn/Notice/Home/NoticeDetail/8f7aa73cd97911e7bed094de80864b76",
+    "quote": "前湾港区3号疏港高速公路(S7603)起点桩号 K0+000,终点桩号K4+ 187 ,双向4 车道 ,全长4.187公里.",
+    "note": "历史养护标准摘要，未取到原招标正文；政府公开业绩可确认同养护项目存在，但不能冒充正文车道确认。 原文章全文尚待获取。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "search_excerpt",
+    "historical_status": "历史资料检索摘要记载双向4车道；原文全文及当前状态仍待补证。",
+    "current_2026_site_verified": false,
+    "evidence_group": "excerpt",
+    "evidence": [
+      {
+        "source_url": "http://www.buildnet.cn/Notice/Home/NoticeDetail/8f7aa73cd97911e7bed094de80864b76",
+        "quote": "前湾港区3号疏港高速公路(S7603)起点桩号 K0+000,终点桩号K4+ 187 ,双向4 车道 ,全长4.187公里.",
+        "published": "2017-12-05",
+        "role": "360检索保存的养护招标准确里程与车道摘要；原页已跳转清单"
+      }
+    ]
+  },
+  {
+    "id": "P144",
+    "name": "胶州湾大桥红岛海上连接线",
+    "scope": "胶州湾大桥红岛互通—红岛南收费站海上短接线1.3公里",
+    "lanes": 4,
+    "published": "2011-08-27",
+    "opened": "既有通车道路，历史设计/养护标准",
+    "source_url": "http://www.docin.com/p-249775103.html",
+    "quote": "红岛 连接线:双向 四车道 .青岛海湾 大桥 主线全长28.047公里,其中跨海 大桥 25.171公里,青岛侧接 线 .749米、黄岛侧接 线 827米、 红岛 连接线长1.3公里。...",
+    "note": "另搜狗检索《青岛海湾大桥红岛互通立交设计研究》明确23.5m双向四车道海上接线；收费站2023四变六仅收费车道，不能套用主线。两条设计索引共同支持历史4但全文待追溯。 原文章全文尚待获取。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "search_excerpt",
+    "historical_status": "历史资料检索摘要记载双向4车道；原文全文及当前状态仍待补证。",
+    "current_2026_site_verified": false,
+    "evidence_group": "excerpt",
+    "evidence": [
+      {
+        "source_url": "http://www.docin.com/p-249775103.html",
+        "quote": "红岛 连接线:双向 四车道 .青岛海湾 大桥 主线全长28.047公里,其中跨海 大桥 25.171公里,青岛侧接 线 .749米、黄岛侧接 线 827米、 红岛 连接线长1.3公里。...",
+        "published": "2011-08-27",
+        "role": "王麒设计技术报告搜索索引摘要，原页502未取全文"
+      },
+      {
+        "source_url": "https://wenku.baidu.com/view/73e9d865bd23482fb4daa58da0116c175f0e1e21.html",
+        "quote": "红岛连接线 采用23.5 m双向 四车道 断面,海上连接线桥采用双幅桥方案设计.",
+        "published": "2022-08-23（索引上传日期）",
+        "role": "《青岛海湾大桥红岛互通立交设计研究》搜狗公开索引摘要；百度文库原页403，全文尚待获取"
+      }
+    ]
+  },
+  {
+    "id": "P145",
+    "name": "前湾港1号疏港高速黄岛东枢纽东南端",
+    "scope": "黄岛东枢纽K9+909—K10+977末1.068公里",
+    "lanes": 6,
+    "published": "2017-12-05",
+    "opened": "既有通车道路，历史设计/养护标准",
+    "source_url": "http://www.buildnet.cn/Notice/Home/NoticeDetail/8f7aa73cd97911e7bed094de80864b76",
+    "quote": "前湾港区1号疏港高速公路(S7601)起点桩号K9+909,终点桩号K10+977, 双向 6车道,全长1.068公里;",
+    "note": "4/6分界近120.1519,36.0527黄岛东枢纽中心，不能全S7601统一4；东南尾段含一条G1502旧几何。摘要可作历史基线，不可冒充正文当前已核验。 原文章全文尚待获取。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "search_excerpt",
+    "historical_status": "历史资料检索摘要记载双向6车道；原文全文及当前状态仍待补证。",
+    "current_2026_site_verified": false,
+    "evidence_group": "excerpt",
+    "evidence": [
+      {
+        "source_url": "http://www.buildnet.cn/Notice/Home/NoticeDetail/8f7aa73cd97911e7bed094de80864b76",
+        "quote": "前湾港区1号疏港高速公路(S7601)起点桩号K9+909,终点桩号K10+977, 双向 6车道,全长1.068公里;",
+        "published": "2017-12-05",
+        "role": "360检索养护招标准确桩号6摘要；2017/2019养护招标摘要另同确认"
+      }
+    ]
+  },
+  {
+    "id": "P146",
+    "name": "新潍高速（新董高速既有北段）",
+    "scope": "新河郭家埠（荣乌）—明村西（荣潍）既有新潍连接线",
+    "lanes": 4,
+    "published": "2013-06",
+    "opened": "既有高速，2020养护招标基线",
+    "source_url": "https://www.doc88.com/p-2058216764138.html",
+    "quote": "国道206高速公路与潍莱高速公路连接线工程（以下简称新潍连接线）地处青岛，按高速公路标准建设，全封闭，全立交，双向四车道，路基宽28m。",
+    "note": "仅旧新潍北段；南接明村—董家口2023通车6不能套用4。检索原文数字被平台脱敏，但车道明确4，另2013基层论文索引明确新潍双向4、路基28m，几何old_name新潍位置闭环。全文尚待获取，仅历史基线。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "technical_paper_public_preview",
+    "historical_status": "论文记载旧新潍双向4车道，按原标准推定；与南接明董6车道分开。",
+    "current_2026_site_verified": false,
+    "evidence_group": "preview",
+    "evidence": [
+      {
+        "source_url": "https://www.doc88.com/p-2058216764138.html",
+        "quote": "国道206高速公路与潍莱高速公路连接线工程（以下简称新潍连接线）地处青岛，按高速公路标准建设，全封闭，全立交，双向四车道，路基宽28m。",
+        "published": "2013-06",
+        "role": "山西交通科技2013年3期论文；道客巴巴公开预览"
+      }
+    ]
+  },
+  {
+    "id": "P147",
+    "name": "新机场高速连接线（双埠—夏庄段）高速系统",
+    "scope": "西接青兰高速女姑口大桥，东接青银夏庄立交，9.8公里中的封闭高速系统",
+    "lanes": 4,
+    "published": "2021-08-14",
+    "opened": "2021-08-12",
+    "source_url": "https://house.qingdaonews.com/content/2021-08/14/content_22838882.htm",
+    "quote": "8月12日，随着青岛胶东国际机场正式转场运营，一航局二公司参建的青岛新机场高速连接线（双埠－夏庄段）项目正式通车。 青岛新闻网8月13日讯（记者 任俊峰 通讯员 刘畅 孙亚男）8月12日，随着青岛胶东国际机场正式转场运营，一航局二公司参建的青岛新机场高速连接线（双埠－夏庄段）项目正式通车。 青岛新机场高速连接线项目是青岛胶东国际机场的重要交通保障工程，被誉为机场的“迎宾大道”。项目西接青兰高速女姑口大桥，东接青银高速夏庄立交，全长约9．8公里，设置高速公路、快速路和地面道路3套通行系统。其中，高速公路系统采用双向4车道高速公路标准，设计时速100公里；快速路系统采用双向4车道快速路标准，设计时速80公里；地面道路系统全线采用6至8车道标准。",
+    "note": "不要把高架高速系统4＋外侧快速系统4相加称双向8，亦不要套用地面道路6—8。当前G22缺失8条位于120.376—120.407E，36.242N内侧高架。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "source_fulltext",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://house.qingdaonews.com/content/2021-08/14/content_22838882.htm",
+        "quote": "8月12日，随着青岛胶东国际机场正式转场运营，一航局二公司参建的青岛新机场高速连接线（双埠－夏庄段）项目正式通车。 青岛新闻网8月13日讯（记者 任俊峰 通讯员 刘畅 孙亚男）8月12日，随着青岛胶东国际机场正式转场运营，一航局二公司参建的青岛新机场高速连接线（双埠－夏庄段）项目正式通车。 青岛新机场高速连接线项目是青岛胶东国际机场的重要交通保障工程，被誉为机场的“迎宾大道”。项目西接青兰高速女姑口大桥，东接青银高速夏庄立交，全长约9．8公里，设置高速公路、快速路和地面道路3套通行系统。其中，高速公路系统采用双向4车道高速公路标准，设计时速100公里；快速路系统采用双向4车道快速路标准，设计时速80公里；地面道路系统全线采用6至8车道标准。",
+        "published": "2021-08-14",
+        "role": "青岛新闻网正式通车报道，逐套道路系统给出车道数"
+      }
+    ]
+  },
+  {
+    "id": "P148",
+    "name": "烟台机场航站楼—荣乌高速南接线",
+    "scope": "烟台蓬莱（潮水）机场航站楼—G18荣乌高速3.07km接线；不含G206—S302南北穿越路线，后者分6/4。10条缺失OSM位于120.99—121.00,37.63—37.65属该航站楼—荣乌段。",
+    "lanes": 6,
+    "published": "2013-11-23",
+    "source_url": "https://yantai.dzwww.com/xinwen/ytxw/ytsh/201311/t20131123_9237222.htm",
+    "quote": "机场至荣乌高速段路线起自机场航站楼进出口处，与机场内部道路连接，通过互通立交与荣乌高速连接。这一路线全长3.07公里，采用双向六车道一级公路技术标准，路基宽度39.5米。",
+    "note": "原标准6支持历史基线。2024机场高架桥—潮水立交已有拓宽环评，不可将本条认证为2026现状；附件原站PDF404，仍需核对拓宽终态，相关官方网页机场_eiaentry/approval/finalapproval已存。严格不能以G18主线8车道替换。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "source_fulltext",
+    "historical_status": "原建设标准双向6车道；2024局部拓宽工程的终态待核。",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://yantai.dzwww.com/xinwen/ytxw/ytsh/201311/t20131123_9237222.htm",
+        "quote": "机场至荣乌高速段路线起自机场航站楼进出口处，与机场内部道路连接，通过互通立交与荣乌高速连接。这一路线全长3.07公里，采用双向六车道一级公路技术标准，路基宽度39.5米。",
+        "published": "2013-11-23",
+        "role": "大众网2013-11-23完整全文，采访市公路局副总工王鸿遥；在建原标准"
+      }
+    ]
+  },
+  {
+    "id": "P149",
+    "name": "枣木高速木石—京台短接线推定",
+    "scope": "木石以西接京台滕州南约4公里",
+    "lanes": 4,
+    "published": "历史来源，见全文",
+    "opened": "既有已通车，见来源",
+    "source_url": "http://news.sina.com.cn/c/2010-08-14/113817964391s.shtml",
+    "quote": "据了解，枣木高速公路是枣庄公路部门管养的唯一一条高速公路。该路西起滕州市木石镇，东接市中区齐村镇，全长28公里，双向四车道。枣木高速公路于1995年12月建成通车，原设计为一级汽车专用公路。",
+    "note": "木石—京台短接线沿用相邻枣木主线四车道标准，范围推定；未取得该4公里独立车道报道，不作为直接证实。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "adjacent_project_standard_inference",
+    "historical_status": "按相邻枣木主线原标准推定双向4；短接线独立车道报道尚未取得。",
+    "current_2026_site_verified": false,
+    "evidence_group": "inference",
+    "evidence": [
+      {
+        "source_url": "http://news.sina.com.cn/c/2010-08-14/113817964391s.shtml",
+        "quote": "据了解，枣木高速公路是枣庄公路部门管养的唯一一条高速公路。该路西起滕州市木石镇，东接市中区齐村镇，全长28公里，双向四车道。枣木高速公路于1995年12月建成通车，原设计为一级汽车专用公路。",
+        "published": "历史来源，见全文",
+        "role": "齐鲁晚报2010-08-14，新浪转载完整正文"
+      },
+      {
+        "source_url": "https://www.sohu.com/a/477472652_426622",
+        "quote": "2010年8月15日西起滕州市木石镇，东接市中区齐村镇，全长28公里，双向四车道的枣木高速并入山东高速公路网。",
+        "published": "历史来源，见全文",
+        "role": "微游枣庄2021-07-14历史回顾，次级补充"
+      }
+    ]
+  },
+  {
+    "id": "P150",
+    "name": "沈海高速福山—大杨家历史五车道段",
+    "scope": "福山立交—大杨家立交，收费站22车道不代表主线22",
+    "lanes": 5,
+    "published": "2023-04-23",
+    "source_url": "http://society.sohu.com/a/669356496_121701271",
+    "quote": "G15沈海高速福山收费站位于烟台市福山区，修建于2001年，主线收费站相关路段福山立交至大杨家立交段，设计速度100km/h，双向五车道，路基宽度31.75m。",
+    "note": "大杨家以本地立交121.174E、福山以北京南路交点约121.226E分界，范围初配；不外推福山以北港区主线。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "secondary_project_fulltext",
+    "historical_status": "2023收费站改建资料记主线双向5车道；按该标准显示，当前分段标线待核。",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "http://society.sohu.com/a/669356496_121701271",
+        "quote": "G15沈海高速福山收费站位于烟台市福山区，修建于2001年，主线收费站相关路段福山立交至大杨家立交段，设计速度100km/h，双向五车道，路基宽度31.75m。",
+        "published": "2023-04-23",
+        "role": "启魔方在搜狐发布2023-04-23前期专项招标信息转载，非官方原站；招标单位山东高速集团有限公司烟台分公司。"
+      },
+      {
+        "source_url": "https://www.163.com/dy/article/I8VN3RIT0535B3S3.html",
+        "quote": "G15沈海高速福山收费站位于福山区，修建于2001年，主线收费站相关路段福山立交至大杨家立交段，设计速度100km/h，双向五车道。",
+        "published": "2023-07-06",
+        "role": "网易烟台本地账号2023-07-06完整正文，重复确认分段五车道。"
+      },
+      {
+        "source_url": "https://jtj.yantai.gov.cn/art/2023/9/15/art_310_2905115.html",
+        "quote": "主线维持现设计速度100km/h的高速公路标准不变。",
+        "published": "2023-09-15",
+        "role": "烟台市交通运输局2023-09-15社会稳定风险第二次公示；只佐证改建局部1.21km、主线设计速度不变，并未明确五车道，不能升级为官方五车道证据。"
+      }
+    ]
+  },
+  {
+    "id": "P151",
+    "name": "沈海高速烟栖大杨家—松山历史不对称段",
+    "scope": "烟栖项目29.45公里，大杨家—栖霞松山",
+    "lanes": 5,
+    "published": "原刊日期待辨；公开预览历史工程论文",
+    "source_url": "https://www.docin.com/p-221704594.html",
+    "quote": "烟栖路左半幅为改建原二级汽车专用路（现设三个同向车道），设计车速为100km/h，路基宽为17.5m（分离式）。右半幅为新建（设二个同车道），设计车速为120km/h，路基宽13.75m（分离式）。左右幅整体路基宽度为32.75m。",
+    "note": "已目视核对论文预览截图。OSM多标单侧3，与论文历史不对称标准冲突，未把OSM候选直接升为当前官方6。松山/大杨家以范围边界初配。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "technical_paper_public_preview",
+    "historical_status": "公开论文记左幅3＋右幅2，双向5为历史标准；当前标线配置未核定，不等于2026现场5。",
+    "current_2026_site_verified": false,
+    "evidence_group": "preview",
+    "evidence": [
+      {
+        "source_url": "https://www.docin.com/p-221704594.html",
+        "quote": "烟栖路左半幅为改建原二级汽车专用路（现设三个同向车道），设计车速为100km/h，路基宽为17.5m（分离式）。右半幅为新建（设二个同车道），设计车速为120km/h，路基宽13.75m（分离式）。左右幅整体路基宽度为32.75m。",
+        "published": "原刊日期待辨；公开预览历史工程论文",
+        "role": "《玻璃纤维格栅在烟栖高速公路中的应用》公开论文目视转录"
+      }
+    ]
+  },
+  {
+    "id": "P152",
+    "name": "沈海高速福山立交—夹河六车道段",
+    "scope": "G15福山立交—夹河大桥，既有主线6；辅道不相加，桥东4另列",
+    "lanes": 6,
+    "published": "2019-02-18",
+    "source_url": "https://sd.dzwww.com/sdnews/201902/t20190218_18403690.htm",
+    "quote": "G15(夹河至福山立交段)现状为高速公路连接线,双向6车道采用封闭式管理,两侧双向4车道辅道。",
+    "note": "2019全文明确既有主线6；2026官方环评明确夹河主路桥6、桥东道路4，东界按桥本体东端121.2871265E初配。2026规划主路8及辅道6不作现状。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_or_mainstream_fulltext",
+    "historical_status": "2019大众网现状介绍明确主线6，两侧辅道4；当前按既有主线标准显示。",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://sd.dzwww.com/sdnews/201902/t20190218_18403690.htm",
+        "quote": "G15(夹河至福山立交段)现状为高速公路连接线,双向6车道采用封闭式管理,两侧双向4车道辅道。",
+        "published": "2019-02-18",
+        "role": "大众网明确既有主线与辅道断面全文"
+      },
+      {
+        "source_url": "https://hbj.yantai.gov.cn/cms_files/filemanager/49/attach/20262/bb887a442a154123a77ac81392b202d1.pdf",
+        "quote": "主路桥为双向六车道，始建于1986年；辅路桥为双向两车道加慢行，始建于1998年。",
+        "published": "2026-02-04",
+        "role": "烟台市生态环境局公示完整环评，PDF43页/印41页，高清原页人工核读"
+      }
+    ]
+  },
+  {
+    "id": "P153",
+    "name": "沈海宫家岛北段—港区OSM参考",
+    "scope": "福山以北疏港主线；OSM配对及相邻短线范围推定，非公告核验",
+    "lanes": 5,
+    "published": "2026-09-29数据快照（非标签核验日期）",
+    "source_url": "https://download.openstreetmap.fr/extracts/asia/china/shandong.osm.pbf",
+    "quote": "双侧配对参考：福山东侧主线多为3＋3＝6，港区北端多为3＋2＝5；失配短线按相邻配对主线范围推定。公告尚待确认。",
+    "note": "依据原始双侧车道3+3或3+2配对；北纬37.5645为地图配对变化附近近似分界。不能作为桩号级现状结论。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "osm_pairing_reference",
+    "historical_status": "道路属性参考，公告待确认；失配短线按相邻双侧主线推定，非当前现场核实。",
+    "current_2026_site_verified": false,
+    "evidence_group": "inference",
+    "evidence": [
+      {
+        "source_url": "https://download.openstreetmap.fr/extracts/asia/china/shandong.osm.pbf",
+        "quote": "双侧配对参考：福山东侧主线多为3＋3＝6，港区北端多为3＋2＝5；失配短线按相邻配对主线范围推定。公告尚待确认。",
+        "published": "2026-09-29数据快照（非标签核验日期）",
+        "role": "OSM双侧配对数据存档"
+      }
+    ]
+  },
+  {
+    "id": "P154",
+    "name": "沈海夹河北转短段OSM六车道参考",
+    "scope": "福山以北疏港主线；OSM配对及相邻短线范围推定，非公告核验",
+    "lanes": 6,
+    "published": "2026-09-29数据快照（非标签核验日期）",
+    "source_url": "https://download.openstreetmap.fr/extracts/asia/china/shandong.osm.pbf",
+    "quote": "双侧配对参考：福山东侧主线多为3＋3＝6，港区北端多为3＋2＝5；失配短线按相邻配对主线范围推定。公告尚待确认。",
+    "note": "依据原始双侧车道3+3或3+2配对；北纬37.5645为地图配对变化附近近似分界。不能作为桩号级现状结论。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "osm_pairing_reference",
+    "historical_status": "道路属性参考，公告待确认；失配短线按相邻双侧主线推定，非当前现场核实。",
+    "current_2026_site_verified": false,
+    "evidence_group": "inference",
+    "evidence": [
+      {
+        "source_url": "https://download.openstreetmap.fr/extracts/asia/china/shandong.osm.pbf",
+        "quote": "双侧配对参考：福山东侧主线多为3＋3＝6，港区北端多为3＋2＝5；失配短线按相邻配对主线范围推定。公告尚待确认。",
+        "published": "2026-09-29数据快照（非标签核验日期）",
+        "role": "OSM双侧配对数据存档"
+      }
+    ]
+  },
+  {
+    "id": "P155",
+    "name": "沈海高速夹河桥东—宫家岛四车道段",
+    "scope": "夹河大桥东端—宫家岛项目起点附近；保守采用121.2871265—121.292E，北转港区不外推",
+    "lanes": 4,
+    "published": "2026-02-04",
+    "source_url": "https://hbj.yantai.gov.cn/cms_files/filemanager/49/attach/20262/bb887a442a154123a77ac81392b202d1.pdf",
+    "quote": "现状沈海高速（夹河大桥以东）为双向4车道加紧急停车带，标准段路基宽度28m，设计速度为100km/h。",
+    "note": "PDF第43页明确桥东4与主路桥6；只映射项目范围内桥东短线。起点坐标约121.2933644E受测绘坐标口径影响，保守框至121.292E。其后港区道路另核。规划改建8不是现状。",
+    "checked_on": "2026-09-30",
+    "evidence_level": "government_fulltext",
+    "historical_status": "2026官方环评明确既有双向4车道，夹河主路桥6另列。",
+    "current_2026_site_verified": false,
+    "evidence_group": "fulltext",
+    "evidence": [
+      {
+        "source_url": "https://hbj.yantai.gov.cn/cms_files/filemanager/49/attach/20262/bb887a442a154123a77ac81392b202d1.pdf",
+        "quote": "现状沈海高速（夹河大桥以东）为双向4车道加紧急停车带，标准段路基宽度28m，设计速度为100km/h。",
+        "published": "2026-02-04",
+        "role": "烟台市生态环境局公示完整环评，PDF43页/印41页，高清原页人工核读"
+      }
+    ]
+  }
+]
